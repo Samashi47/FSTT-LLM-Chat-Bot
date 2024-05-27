@@ -1,0 +1,1543 @@
+{
+    "laboratoires": [
+        {
+            "nom": "Computer Science And Smart Systems (C3S)",
+            "link": "https://fstt.ac.ma/Portail2023/laboratoire-computer-science-and-smart-systems-c3s/",
+            "directeur": "Pr.EL AMRANI CHAKER",
+            "specialite": "Informatique",
+            "telephone": "Tél : 05 39 39 39 / 54 / 55 GSM : 06 70 47 05 21",
+            "email": "celamrani@uae.ac.ma",
+            "Equipes de recherche": [
+                {
+                    "label": "Smart Systems & Emerging Technologies (2set)",
+                    "link": "https://fstt.ac.ma/Portail2023/equipe-smart-systems-emerging-technologies/"
+                },
+                {
+                    "label": "Data & Intelligent Systems (Dis)",
+                    "link": "https://fstt.ac.ma/Portail2023/equipe-geoinformation-amenagement-du-territoire-et-environnement-gate/"
+                },
+                {
+                    "label": "Data Science, Artificial Intelligence And Smart Systems (E-Dsai2s)",
+                    "link": "https://fstt.ac.ma/Portail2023/equipe-recherche-en-data-science-artificial-intelligence-and-smart-systems-e-dsai2s/"
+                }
+            ],
+            "Axe(s) de recherche": [
+                "Réseaux Informatiques & IoT",
+                "Intelligence Artificielle",
+                "Jeux sérieux et réalité augmentée",
+                "Cloud Computing & Systèmes répartis",
+                "Biotechnologie et E-Health Immunologie Immun pathologie",
+                "Systèmes Embarqués et Électronique",
+                "Data Mining, Decision Support Systems & Competitive intelligence Systems",
+                "Graph & ComplexNetworks",
+                "Serious Game & Smart Learning",
+                "Smart Systems",
+                "Data Science, ML and DL",
+                "Artificial Intelligence (AI), Distributed Artificial Intelligence (DAI) and Multi-Agents Systems (MAS)"
+            ],
+            "Membres": [
+                {
+                    "nom": "ASTITO ABDELALI",
+                    "email": "aastito@uae.ac.ma"
+                },
+                {
+                    "nom": "BEN AHMED MOHAMED",
+                    "email": "mbenahmed@uae.ac.ma"
+                },
+                {
+                    "nom": "BOUDHIR ANOUAR ABDELHAKIM",
+                    "email": "aboudhir@uae.ac.ma"
+                },
+                {
+                    "nom": "BOUHORMA MOHAMMED",
+                    "email": "mbouhorma@uae.ac.ma"
+                },
+                {
+                    "nom": "EL AMRANI CHAKER",
+                    "email": "celamrani@uae.ac.ma"
+                },
+                {
+                    "nom": "EL BRAK MOHAMED",
+                    "email": "melbrak@uae.ac.ma"
+                },
+                {
+                    "nom": "EL GHOUCH NIHAD",
+                    "email": "nihad.elghouch@uae.ac.ma"
+                },
+                {
+                    "nom": "EL OUAAI FATIHA",
+                    "email": "felouaai@uae.ac.ma"
+                },
+                {
+                    "nom": "ELAACHAK LOTFI",
+                    "email": "lelaachak@uae.ac.ma"
+                },
+                {
+                    "nom": "EN-NAIMI EL MOKHTAR",
+                    "email": "en-naimi@uae.ac.ma"
+                },
+                {
+                    "nom": "FENNAN ABDELHADI",
+                    "email": "afennan@uae.ac.ma"
+                },
+                {
+                    "nom": "GHADI ABDERRAHIM",
+                    "email": "aghadi@uae.ac.ma"
+                },
+                {
+                    "nom": "GIBET TANI HICHAM",
+                    "email": "h.gibettani@uae.ac.ma"
+                },
+                {
+                    "nom": "MAHBOUB AZIZ",
+                    "email": "amahboub@uae.ac.ma"
+                },
+                {
+                    "nom": "ZILI HASSAN",
+                    "email": "hzili@uae.ac.ma"
+                },
+                {
+                    "nom": "ZOUHAIR ABDELHAMID",
+                    "email": "a.zouhair@uae.ac.ma"
+                }
+            ]
+        },
+        {
+            "nom": "Génie Chimique, Biochimique , Modélisation et Valorisation des Ressources (CBM-VR )",
+            "link": "https://fstt.ac.ma/Portail2023/laboratoire-genie-chimique-biochimique-modelisation-et-valorisation-des-ressources-cbm-vr/",
+            "directeur": "Pr.Bernoussi Abdes Samed",
+            "specialite": "Mathématiques appliquées",
+            "telephone": "Tél : 05 39 39 39 / 54 / 55 GSM : 06 55 07 17 25",
+            "email": "abernoussi@uae.ac.ma",
+            "Equipes de recherche": [
+                {
+                    "label": "Génie Chimique et Valorisation des Ressources",
+                    "link": "https://fstt.ac.ma/Portail2023/equipe-genie-chimique-et-valorisation-des-ressources-gcvr/"
+                },
+                {
+                    "label": "Géoinformation et Aménagement du Territoire et Environnement",
+                    "link": "https://fstt.ac.ma/Portail2023/equipe-geoinformation-amenagement-du-territoire-et-environnement-gate-2/"
+                },
+                {
+                    "label": "Biochimie et Génétique Moléculaire",
+                    "link": "https://fstt.ac.ma/Portail2023/equipe-biochimie-et-genetique-moleculaire/"
+                }
+            ],
+            "Axe(s) de recherche": [
+                "Nanomatériaux pour énergie",
+                "Traitement des eaux",
+                "Production d’hydrogène stockage et conversion d’énergie Procédés de Dépollution",
+                "Valorisation des Ressources",
+                "La modélisation mathématique des phénomènes biogéographiques/ environnementaux à évolution spatio-temporelle",
+                "Criblage des molécules issues des plantes médicinales et aromatiques marocaines et leur effet antioxydant, anticancéreux, antidiabétique et anti-parkinson",
+                "Interaction carbone/azote chez les plantes C4",
+                "Recherche sur les biostimulants à partir des macro-algues et PAM",
+                "Contribution à l’étude et la mise au point de méthodes spectrométriques de caractérisation des laits de vache commercialisés au Maroc et application au contrôle qualité des produits laitiers"
+            ],
+            "Membres": [
+                {
+                    "nom": "ACHAK OUAFAE",
+                    "email": "oachak@uae.ac.ma"
+                },
+                {
+                    "nom": "ALLOUCH MOHAMED",
+                    "email": "mallouch@uae.ac.ma"
+                },
+                {
+                    "nom": "AMHARREF MINA",
+                    "email": "m.amharref@uae.ac.ma"
+                },
+                {
+                    "nom": "AMRANI MAHACINE",
+                    "email": "m.amrani2@uae.ac.ma"
+                },
+                {
+                    "nom": "BELFEKIH ABDELAÂZIZ",
+                    "email": "abelfekih@uae.ac.ma"
+                },
+                {
+                    "nom": "BENYASSI AHMED",
+                    "email": "a.benyassi@uae.ac.ma"
+                },
+                {
+                    "nom": "BERNOUSSI ABDES SAMED",
+                    "email": "abernoussi@uae.ac.ma"
+                },
+                {
+                    "nom": "BOUAYYAD ABDELWARITH",
+                    "email": "abouayyad@uae.ac.ma"
+                },
+                {
+                    "nom": "CHAFIK TARIK",
+                    "email": "tchafik@uae.ac.ma"
+                },
+                {
+                    "nom": "CHIBI FATIHA",
+                    "email": "f.chibi@uae.ac.ma"
+                },
+                {
+                    "nom": "EL ABDELLAOUI JAMAL EDDINE",
+                    "email": "j.elabdellaoui@uae.ac.ma"
+                },
+                {
+                    "nom": "EL MOUJAHID CHAOUKI",
+                    "email": "celmoujahid@uae.ac.ma"
+                },
+                {
+                    "nom": "ES SAOUINI HIND",
+                    "email": " "
+                },
+                {
+                    "nom": "HAJJI FAOUZIA",
+                    "email": "f.hajji@uae.ac.ma"
+                },
+                {
+                    "nom": "HAMDOUNE FAOUZIA",
+                    "email": "fhamdoune@uae.ac.ma"
+                },
+                {
+                    "nom": "LAKHMIRI RAJAE",
+                    "email": "rlakhmiri@uae.ac.ma"
+                },
+                {
+                    "nom": "NHIRI MOHAMED",
+                    "email": "mnhiri@uae.ac.ma"
+                },
+                {
+                    "nom": "RKAINA MOHAMED",
+                    "email": "m.rkaina@uae.ac.ma"
+                }
+            ]
+        },
+        {
+            "nom": "Intelligent Automation & BioMedGenomics  (IABL)",
+            "link": "https://fstt.ac.ma/Portail2023/laboratoire-intelligent-automation-biomedgenomics-iabl/",
+            "directeur": "Pr.Abdellah AZMANI",
+            "specialite": "",
+            "telephone": "Tél : 05 39 39 39 / 54 / 55 GSM :",
+            "email": "a.azmani@uae.ac.ma",
+            "Equipes de recherche": [],
+            "Axe(s) de recherche": [
+                "IA, Data Science et Big Data",
+                "Systèmes embarqués intelligent",
+                "Automatisation Intelligente et aide à la décision",
+                "Optimisation & Meta-heuristique",
+                "Technologies et Industries 4.0 et 5.0",
+                "Intelligence territorial et Gouvernance 4.0",
+                "Génétique moléculaire du cancer",
+                "Génétique moléculaire des maladies de l’hémoglobine",
+                "Génétique de la déficience intellectuelle",
+                "Cardiopathies congénitales",
+                "Valorisation de la plante Cannabis"
+            ],
+            "Membres": [
+                {
+                    "nom": "AIT KBIR M’HAMED",
+                    "email": "maitkbir@uae.ac.ma"
+                },
+                {
+                    "nom": "AMAMI BENAISSA",
+                    "email": "b.amami@uae.ac.ma"
+                },
+                {
+                    "nom": "AZMANI ABDELLAH",
+                    "email": "a.azmani@uae.ac.ma"
+                },
+                {
+                    "nom": "AZMANI MONIR",
+                    "email": "m.azmani@uae.ac.ma"
+                },
+                {
+                    "nom": "BARAKAT AMINA",
+                    "email": "abarakat@uae.ac.ma"
+                },
+                {
+                    "nom": "BENNANI MECHITA MOHCINE",
+                    "email": "mbennani@uae.ac.ma"
+                },
+                {
+                    "nom": "BIHRI HASSAN",
+                    "email": "hbihri@uae.ac.ma"
+                },
+                {
+                    "nom": "BOUAYAD NOUREDDINE",
+                    "email": " "
+                },
+                {
+                    "nom": "BSISS MOHAMMED",
+                    "email": "mbsiss@uae.ac.ma"
+                },
+                {
+                    "nom": "EL HAJI ESSAID",
+                    "email": "e.elhaji@uae.ac.ma"
+                },
+                {
+                    "nom": "EL HANSALI HASNAA",
+                    "email": " "
+                },
+                {
+                    "nom": "ELMOKHTARI KARIM",
+                    "email": "k.elmokhtari@uae.ac.ma"
+                },
+                {
+                    "nom": "ELYUSUFI YASYN",
+                    "email": "yelyusufi@uae.ac.ma"
+                },
+                {
+                    "nom": "GHAILANI NOUROUTI NAIMA",
+                    "email": "n.ghailani@uae.ac.ma"
+                },
+                {
+                    "nom": "JEBARI HASSANI KHALID",
+                    "email": "k.jebari@uae.ac.ma"
+                },
+                {
+                    "nom": "KOUNAIDI MOHAMED",
+                    "email": "m.kounaidi@uae.ac.ma"
+                }
+            ]
+        },
+        {
+            "nom": "Materials, Systems and Energy Engineering (MaSEEL)",
+            "link": "https://fstt.ac.ma/Portail2023/laboratoire-materials-systems-and-energy-engineering-maseel/",
+            "directeur": "Pr.Abdeslam DRAOUI",
+            "specialite": "Thermique & Énergétique",
+            "telephone": "Tél: 05 39 39 39 / 54 / 55 GSM: 06 68 90 76 33",
+            "email": "adraoui@uae.ac.ma",
+            "Equipes de recherche": [
+                {
+                    "label": "Couches Minces et Nanomatériaux (UAE/U01FST)",
+                    "link": "https://fstt.ac.ma/Portail2023/equipe-georisques-georessources-g2r-copy/"
+                },
+                {
+                    "label": "Transferts Thermiques et Energétique (UAE/U10FST) (UAE/U06FST)",
+                    "link": "https://fstt.ac.ma/Portail2023/equipe-transferts-thermiques-et-energetique-ette/"
+                },
+                {
+                    "label": "Modélisation Mathématique et Contrôle (UAE/U06FST)",
+                    "link": "https://fstt.ac.ma/Portail2023/equipe-modelisation-mathematique-et-controle-mmc/"
+                }
+            ],
+            "Axe(s) de recherche": [
+                "Matériaux pour stockage et conversion d’énergie",
+                "Étude de couches bidimensionnelles : Simulations à l’échelle atomique par DFT, Simulation et prédiction de la production photovoltaïque",
+                "Modélisation et contrôle",
+                "Mécanique et Matériaux",
+                "Transferts Thermiques",
+                "Efficacité Énergétique (Bâtiments ; Industrie ; Transport)",
+                "Développements des Utilisations des Energies Renouvelables"
+            ],
+            "Membres": [
+                {
+                    "nom": "ADDOU MOHAMMED",
+                    "email": "maddou@uae.ac.ma"
+                },
+                {
+                    "nom": "AHACHAD MOHAMMED",
+                    "email": "mahachad@uae.ac.ma"
+                },
+                {
+                    "nom": "AKOURRI OMAR",
+                    "email": "oakourri@uae.ac.ma"
+                },
+                {
+                    "nom": "AOUNI ABDESSAMAD",
+                    "email": "aaouni@uae.ac.ma"
+                },
+                {
+                    "nom": "BAHRAOUI FATIMA",
+                    "email": "fbahraoui@uae.ac.ma"
+                },
+                {
+                    "nom": "BAKKALI ABDERRAHMAN",
+                    "email": " "
+                },
+                {
+                    "nom": "BENABDELOUAHAB JAÂFAR",
+                    "email": "jbenabdelouahab@uae.ac.ma"
+                },
+                {
+                    "nom": "CHAHBOUN ADIL",
+                    "email": "adchahboun@uae.ac.ma"
+                },
+                {
+                    "nom": "CHATT ABDELHAMID",
+                    "email": "a.chatt@uae.ac.ma"
+                },
+                {
+                    "nom": "DERFOUFI SOUFIANE",
+                    "email": "sderfoufi@uae.ac.ma"
+                },
+                {
+                    "nom": "DIANI MUSTAPHA",
+                    "email": "mdiani@uae.ac.ma"
+                },
+                {
+                    "nom": "DRAOUI ABDESLAM",
+                    "email": "adraoui@uae.ac.ma"
+                },
+                {
+                    "nom": "EL METOUI MUSTAPHA",
+                    "email": "melmetoui@uae.ac.ma"
+                },
+                {
+                    "nom": "ELAYACHI ILHAM",
+                    "email": "ielayachi@uae.ac.ma"
+                },
+                {
+                    "nom": "ELFELESOUFI ZOUBIR",
+                    "email": "zelfelsoufi@uae.ac.ma"
+                },
+                {
+                    "nom": "FAKRI NADIA",
+                    "email": "mfakri@uae.ac.ma"
+                },
+                {
+                    "nom": "JBILOU MOHAMED",
+                    "email": "mjbilou@uae.ac.ma"
+                },
+                {
+                    "nom": "MAHDAOUI MUSTAPHA",
+                    "email": "mmahdaoui@uae.ac.ma"
+                },
+                {
+                    "nom": "MAKROUM HASSAN",
+                    "email": "h.makroum@uae.ac.ma"
+                },
+                {
+                    "nom": "OUARDOUZ MUSTAPHA",
+                    "email": "mouardouz@uae.ac.ma"
+                },
+                {
+                    "nom": "TLEMÇANI NOURREDINE",
+                    "email": "n.tlemcani@uae.ac.ma"
+                },
+                {
+                    "nom": "ZANOUNI MOHAMED",
+                    "email": "mzanouni@uae.ac.ma"
+                }
+            ]
+        },
+        {
+            "nom": "Mathématiques et Applications (LMA)",
+            "link": "https://fstt.ac.ma/Portail2023/laboratoire-mathematiques-et-applications/",
+            "directeur": "Pr.El Jarroudi Mustapha",
+            "specialite": "Mathématiques",
+            "telephone": "Tél : 05 39 39 39 / 54 / 55 GSM : 06 63 02 36 39",
+            "email": "meljarroudi@uae.ac.ma",
+            "Equipes de recherche": [],
+            "Axe(s) de recherche": [
+                "Probabilités et Statistiques",
+                "Mathématique Physique"
+            ],
+            "Membres": [
+                {
+                    "nom": "AIT TOUCHENT KAMAL",
+                    "email": "k.aittouchent@uae.ac.ma"
+                },
+                {
+                    "nom": "AKHARIF ABDELHADI",
+                    "email": "a.akharif@uae.ac.ma"
+                },
+                {
+                    "nom": "ARHRIB ABDESSLAM",
+                    "email": "aarhrib@uae.ac.ma"
+                },
+                {
+                    "nom": "ASSADOUQ ABDELAZIZ",
+                    "email": "a.assadouq@uae.ac.ma"
+                },
+                {
+                    "nom": "BAHRAOUI MOHAMED AMIN",
+                    "email": "m.bahraoui@uae.ac.ma"
+                },
+                {
+                    "nom": "BELHADJ HASSAN",
+                    "email": "hbelhadj@uae.ac.ma"
+                },
+                {
+                    "nom": "EL AMRANI JAMAL",
+                    "email": "j.elamrani@uae.ac.ma"
+                },
+                {
+                    "nom": "EL ANJOUMI EL AMRANI MOFDI",
+                    "email": "moelamrani@uae.ac.ma"
+                },
+                {
+                    "nom": "EL FASSI KAOUTHAR",
+                    "email": "k.elfassi@uae.ac.ma"
+                },
+                {
+                    "nom": "EL HALIMI RACHID",
+                    "email": "r.elhalimi@uae.ac.ma"
+                },
+                {
+                    "nom": "EL JARROUDI MUSTAPHA",
+                    "email": "meljarroudi@uae.ac.ma"
+                },
+                {
+                    "nom": "EL MERZGUIOUI MHAMED",
+                    "email": "melmerzguioui@uae.ac.ma"
+                },
+                {
+                    "nom": "ER-RIANI MUSTAPHA",
+                    "email": "emerriani@uae.ac.ma"
+                },
+                {
+                    "nom": "HAMDOUNE SAID",
+                    "email": "shamdoune@uae.ac.ma"
+                },
+                {
+                    "nom": "IMLAHI ABDELOUAHID",
+                    "email": "a.imlahi@uae.ac.ma"
+                },
+                {
+                    "nom": "LAHROUZ AADIL",
+                    "email": "a.lahrouz@uae.ac.ma"
+                },
+                {
+                    "nom": "MELLOUK AMAL",
+                    "email": " "
+                },
+                {
+                    "nom": "NAJI AHMED",
+                    "email": "anaji@uae.ac.ma"
+                },
+                {
+                    "nom": "SETTATI ADEL",
+                    "email": "asettati@uae.ac.ma"
+                },
+                {
+                    "nom": "ZEGHAL AHMED",
+                    "email": " "
+                }
+            ]
+        },
+        {
+            "nom": "Mécanique et Génie Civil (LMGC)",
+            "link": "https://fstt.ac.ma/Portail2023/laboratoire-mecanique-et-genie-civil/",
+            "directeur": "Pr.Dkiouak Rachid",
+            "specialite": "Mécanique / Génie Civil",
+            "telephone": "Tél : 05 39 39 39 / 54 / 55 GSM : 06 50 34 60 70",
+            "email": "rdkiouak@uae.ac.ma",
+            "Equipes de recherche": [],
+            "Axe(s) de recherche": [
+                "Rupture des matériaux",
+                "Matériaux composites",
+                "Béton autoplaçant"
+            ],
+            "Membres": [
+                {
+                    "nom": "AJDOUR MOUNIA",
+                    "email": "majdour@uae.ac.ma"
+                },
+                {
+                    "nom": "BAKKALI FATIHA",
+                    "email": "fbakkalihassani@uae.ac.ma"
+                },
+                {
+                    "nom": "BENLAMLIH MOHAMMED",
+                    "email": "mbenlamlih@uae.ac.ma"
+                },
+                {
+                    "nom": "BEZZAZI MOHAMMED",
+                    "email": "mbezzazi@uae.ac.ma"
+                },
+                {
+                    "nom": "CHAT ABDELHAMID",
+                    "email": "a.chatt@uae.ac.ma"
+                },
+                {
+                    "nom": "CHENAOUI AHMED",
+                    "email": "a.chenaoui@uae.ac.ma"
+                },
+                {
+                    "nom": "DKIOUAK RACHID",
+                    "email": "rdkiouak@uae.ac.ma"
+                },
+                {
+                    "nom": "EL OMRI ABDERRAHIM",
+                    "email": "aelomri@uae.ac.ma"
+                },
+                {
+                    "nom": "HAFIDI ALAOUI ADIL",
+                    "email": "a.hafidi@uae.ac.ma"
+                },
+                {
+                    "nom": "JEBARI FOUAD",
+                    "email": "f.jebari@uae.ac.ma"
+                },
+                {
+                    "nom": "KHADDOR ILIAS",
+                    "email": "ilias.khaddor@uae.ac.ma"
+                },
+                {
+                    "nom": "MABSSOUT MOKHTAR",
+                    "email": "mmabssout@uae.ac.ma"
+                },
+                {
+                    "nom": "RUSI EL HASSANI ABDELJALIL",
+                    "email": "arusihassani@uae.ac.ma"
+                },
+                {
+                    "nom": "TLEMCANI NOUREDDINE",
+                    "email": "n.tlemcani@uae.ac.ma"
+                },
+                {
+                    "nom": "ZAHER MOUNIR",
+                    "email": "m.zaher@fstt.ac.ma"
+                }
+            ]
+        },
+        {
+            "nom": "Physico-Chimie des Matériaux, Substances Naturelles et Environnement (LAMSE)",
+            "link": "https://fstt.ac.ma/Portail2023/laboratoire-physico-chimie-des-materiaux-substances-naturelles-et-environnement-lamse/",
+            "directeur": "Pr.Khaddor Mohamed",
+            "specialite": "Spécialité : Chimie-physique",
+            "telephone": "Tél : 05 39 39 39 / 54 / 55 GSM : 06 65 91 54 76",
+            "email": "mkhaddor@uae.ac.ma",
+            "Equipes de recherche": [],
+            "Axe(s) de recherche": [
+                "Physico-chimie des matériaux et interface ",
+                "Bioorganique et substances naturelles ",
+                "Techniques de dépollution et ressources naturelles "
+            ],
+            "Membres": [
+                {
+                    "nom": "AALITI ABDELLATIF",
+                    "email": "aaaliti@uae.ac.ma"
+                },
+                {
+                    "nom": "ALISTIQSA FATHIA",
+                    "email": "falistiqsa@uae.ac.ma"
+                },
+                {
+                    "nom": "ALLALI NABIL",
+                    "email": "n.allali@uae.ac.ma"
+                },
+                {
+                    "nom": "ASSKALI ABDERRAHMAN",
+                    "email": "a.asskali@uae.ac.ma"
+                },
+                {
+                    "nom": "AZAAR KHALID",
+                    "email": "k.azaar@uae.ac.ma"
+                },
+                {
+                    "nom": "BOUASSAB ABDERRAHMAN",
+                    "email": "abouassab@uae.ac.ma"
+                },
+                {
+                    "nom": "BZIOUI SOUAD",
+                    "email": "s.bzioui@uae.ac.ma"
+                },
+                {
+                    "nom": "CHABBI MOHAMED",
+                    "email": "mchabbi@uae.ac.ma"
+                },
+                {
+                    "nom": "CHOUAIBI NOUR EDDINE",
+                    "email": "n.chouaibi@uae.ac.ma"
+                },
+                {
+                    "nom": "EL GOLBZOURI MOHAMED",
+                    "email": "m.elgolbzouri@uae.ac.ma"
+                },
+                {
+                    "nom": "EL HADDADI MOHAMED",
+                    "email": "m.elhaddadi@uae.ac.ma"
+                },
+                {
+                    "nom": "GUENDOUZ FARIDA",
+                    "email": "f.guendouz@uae.ac.ma"
+                },
+                {
+                    "nom": "KHADDOR MOHAMED",
+                    "email": "mkhaddor@uae.ac.ma"
+                },
+                {
+                    "nom": "SAIDI MOHAMED",
+                    "email": "msaidi@uae.ac.ma"
+                },
+                {
+                    "nom": "SALMOUN FARIDA",
+                    "email": "f.salmoune@uae.ac.ma"
+                },
+                {
+                    "nom": "ZIAT KHADIJA",
+                    "email": "kziat@uae.ac.ma"
+                }
+            ]
+        },
+        {
+            "nom": "Recherche et Développement en Géosciences Appliquées (R&DGéoAp)",
+            "link": "https://fstt.ac.ma/Portail2023/laboratoire-recherche-et-developpement-en-geosciences-appliquees/",
+            "directeur": "Pr.Mustapha MAATOUK",
+            "specialite": "Spécialité : Géosciences appliquées et Géomatique",
+            "telephone": "Tél : 05 39 39 39 / 54 / 55 GSM : 06 60 30 76 86",
+            "email": "mmaatouk@uae.ac.ma",
+            "Equipes de recherche": [
+                {
+                    "label": "Géorisques & Géoressources : G2R",
+                    "link": "https://fstt.ac.ma/Portail2023/equipe-environnement-marin-et-risques-naturels-eremrn/"
+                },
+                {
+                    "label": "Géomatique, Télédétection & Cartographie : GéoTéCa",
+                    "link": "https://fstt.ac.ma/Portail2023/equipe-geomatique-teledetection-et-cartographie-geoteca/"
+                }
+            ],
+            "Axe(s) de recherche": [
+                "Géosciences et Géorisques",
+                "Gestion intégrée des bassins côtiers marocains, dont la frange méditerranéenne",
+                "Sciences Géomatiques"
+            ],
+            "Membres": [
+                {
+                    "nom": "ABOUMARIA KHADIJA",
+                    "email": "kaboumaria@uae.ac.ma"
+                },
+                {
+                    "nom": "AFAILALTRIBAK ABDELGHANI",
+                    "email": "aafailal@uae.ac.ma"
+                },
+                {
+                    "nom": "AMARJOUF NAJAT",
+                    "email": "n.amarjouf@uae.ac.ma"
+                },
+                {
+                    "nom": "BOUHMADI BELKACEM",
+                    "email": "b.bouhmadi@uae.ac.ma"
+                },
+                {
+                    "nom": "BOULAASSAL HAKIM",
+                    "email": "h.boulaassal@uae.ac.ma"
+                },
+                {
+                    "nom": "CHERKAOUI DEKKAKI HINDE",
+                    "email": "hcherkaouidekkaki@uae.ac.ma"
+                },
+                {
+                    "nom": "EL KHARKI OMAR",
+                    "email": "o.elkharki@uae.ac.ma"
+                },
+                {
+                    "nom": "EL MOUSSAOUI SAID",
+                    "email": "s.elmoussaoui@uae.ac.ma"
+                },
+                {
+                    "nom": "EL TALIBI HAJAR",
+                    "email": "h.eltalibi@uae.ac.ma"
+                },
+                {
+                    "nom": "ETEBAAI ISSAM",
+                    "email": "i.etebaai@uae.ac.ma"
+                },
+                {
+                    "nom": "FKIHECH ABDELMALEK",
+                    "email": "a.fkihach@uae.ac.ma"
+                },
+                {
+                    "nom": "MAATOUK MUSTAPHA",
+                    "email": "mmaatouk@uae.ac.ma"
+                },
+                {
+                    "nom": "MOURABIT TAOUFIK",
+                    "email": "t.mourabit@uae.ac.ma"
+                },
+                {
+                    "nom": "ROSSI ABDELHAMID",
+                    "email": "arossi@uae.ac.ma"
+                },
+                {
+                    "nom": "TAHAYT ABDELILAH",
+                    "email": "atahayt@uae.ac.ma"
+                },
+                {
+                    "nom": "TAHER MORAD",
+                    "email": "m.taher@uae.ac.ma"
+                },
+                {
+                    "nom": "WAHBI MIRIAM",
+                    "email": "mwahbi@uae.ac.ma"
+                },
+                {
+                    "nom": "YAZIDI ALAOUI OTMANE",
+                    "email": "o.yalaoui@uae.ac.ma"
+                },
+                {
+                    "nom": "ZAGHLOUL MOHAMED NAJIB",
+                    "email": "mzaghloul@uae.ac.ma"
+                }
+            ]
+        }
+    ],
+    "equipes": [
+        {
+            "nom": "Biochimie et Génétique Moléculaire (UAE/U07FST)",
+            "link": "https://fstt.ac.ma/Portail2023/equipe-biochimie-et-genetique-moleculaire/",
+            "directeur": "Pr.NHIRI Mohamed",
+            "specialite": "Biochimie/Biotechnologie",
+            "telephone": "Tél : 05 39 39 39 / 54 / 55 GSM : 06 70 77 91 85",
+            "email": "mnhiri@uae.ac.ma",
+            "Axe(s) de recherche": [
+                "Criblage des molécules issues des plantes médicinales et aromatiques marocaines et leur effet antioxydant, anticancéreux, antidiabétique et anti-parkinson.",
+                "Interaction carbone/azote chez les plantes C4.",
+                "Recherche sur les biostimulants à partir des macro-algues et PAM.",
+                "Contribution à l’étude et la mise au point de méthodes spectrométriques de caractérisation des laits de vache commercialisés au Marocet application au contrôle qualité des produits laitiers."
+            ],
+            "Membres": [
+                {
+                    "nom": "CHIBI Fatiha",
+                    "email": "f.chibi@uae.ac.ma"
+                },
+                {
+                    "nom": "BENYASSI Ahmed",
+                    "email": "a.benyassi@uae.ac.ma"
+                },
+                {
+                    "nom": "BOUAYYAD Abdelwarith",
+                    "email": "abouayyad@uae.ac.ma"
+                },
+                {
+                    "nom": "NHIRI Mohamed",
+                    "email": "mnhiri@uae.ac.ma"
+                },
+                {
+                    "nom": "RKAINA Mohamed",
+                    "email": "m.rkaina@uae.ac.ma"
+                }
+            ]
+        },
+        {
+            "nom": "Biotechnologies et Génie des Biomolécules (ERBGB)",
+            "link": "https://fstt.ac.ma/Portail2023/equipe-biochimie-et-genetique-moleculaire/",
+            "directeur": "Pr.NHIRI Mohamed",
+            "specialite": "Biochimie/Biotechnologie",
+            "telephone": "Tél : 05 39 39 39 / 54 / 55 GSM : 06 70 77 91 85",
+            "email": "mnhiri@uae.ac.ma",
+            "Axe(s) de recherche": [
+                "Criblage des molécules issues des plantes médicinales et aromatiques marocaines et leur effet antioxydant, anticancéreux, antidiabétique et anti-parkinson.",
+                "Interaction carbone/azote chez les plantes C4.",
+                "Recherche sur les biostimulants à partir des macro-algues et PAM.",
+                "Contribution à l’étude et la mise au point de méthodes spectrométriques de caractérisation des laits de vache commercialisés au Marocet application au contrôle qualité des produits laitiers."
+            ],
+            "Membres": [
+                {
+                    "nom": "CHIBI Fatiha",
+                    "email": "f.chibi@uae.ac.ma"
+                },
+                {
+                    "nom": "BENYASSI Ahmed",
+                    "email": "a.benyassi@uae.ac.ma"
+                },
+                {
+                    "nom": "BOUAYYAD Abdelwarith",
+                    "email": "abouayyad@uae.ac.ma"
+                },
+                {
+                    "nom": "NHIRI Mohamed",
+                    "email": "mnhiri@uae.ac.ma"
+                },
+                {
+                    "nom": "RKAINA Mohamed",
+                    "email": "m.rkaina@uae.ac.ma"
+                }
+            ]
+        },
+        {
+            "nom": "Couches Minces et Nanomatériaux (ERCMN)",
+            "link": "https://fstt.ac.ma/Portail2023/equipe-georisques-georessources-g2r-copy/",
+            "directeur": "Pr.AOUNI ABDESAMAD",
+            "specialite": "Sciences des Matériaux",
+            "telephone": "Tél : 05 39 39 39 / 54 / 55 GSM : 0677 57 22 49",
+            "email": "aaouni@uae.ac.ma",
+            "Axe(s) de recherche": [
+                "Matériaux pour Stockage et Conversion d’Énergie",
+                "Simulation Théorique et Modélisation"
+            ],
+            "Membres": [
+                {
+                    "nom": "ADDOU Mohamed",
+                    "email": "maddou@uae.ac.ma"
+                },
+                {
+                    "nom": "DIANI Mustapha",
+                    "email": "mdiani@uae.ac.ma"
+                },
+                {
+                    "nom": "CHAHBOU N Adil",
+                    "email": "adchahboun@uae.ac.ma"
+                },
+                {
+                    "nom": "ZANOUNIN Mohamed",
+                    "email": "mzanouni@uae.ac.ma"
+                },
+                {
+                    "nom": "EL METOUI Mustapha",
+                    "email": "elmetoui@gmail.com"
+                },
+                {
+                    "nom": "AOUNI Abdesamad",
+                    "email": "aaouni@uae.ac.ma"
+                },
+                {
+                    "nom": "JBILOU Mohamed",
+                    "email": "mjbilou@uae.ac.ma"
+                },
+                {
+                    "nom": "CHATT Abdelhamid",
+                    "email": "chatthamid@hotmail.com"
+                }
+            ]
+        },
+        {
+            "nom": "DATA & INTELLIGENT SYSTEMS (DIS)",
+            "link": "https://fstt.ac.ma/Portail2023/equipe-geoinformation-amenagement-du-territoire-et-environnement-gate/",
+            "directeur": "Pr. GHADI Abderrahim",
+            "specialite": "Spécialité :  Informatique",
+            "telephone": "Tél : 05 39 39 39 / 54 / 55 GSM : 0661 93 15 63",
+            "email": "aghadi@uae.ac.ma",
+            "Axe(s) de recherche": [
+                "Data Mining, Decision Support Systems &Competitive intelligence Systems",
+                "Graph & Complex Networks",
+                "Serious Game & Smart Learning",
+                "Smart Systems"
+            ],
+            "Membres": [
+                {
+                    "nom": "FENNAN Abdelhadi",
+                    "email": "afennan@uae.ac.ma"
+                },
+                {
+                    "nom": "GHADI Abderrahim",
+                    "email": "aghadi@uae.ac.ma"
+                },
+                {
+                    "nom": "ELAACHAK Lotfi",
+                    "email": "lelaachak@uae.ac.ma"
+                },
+                {
+                    "nom": "ZILI Hassan",
+                    "email": "hzili@uae.ac.ma"
+                },
+                {
+                    "nom": "GIBET TANI Hicham",
+                    "email": "h.gibettani@uae.ac.ma"
+                }
+            ]
+        },
+        {
+            "nom": "Data Science, Artificial Intelligence and Smart Systems (E-DSAI2S)",
+            "link": "https://fstt.ac.ma/Portail2023/equipe-geoinformation-amenagement-du-territoire-et-environnement-gate/",
+            "directeur": "Pr. GHADI Abderrahim",
+            "specialite": "Spécialité :  Informatique",
+            "telephone": "Tél : 05 39 39 39 / 54 / 55 GSM : 0661 93 15 63",
+            "email": "aghadi@uae.ac.ma",
+            "Axe(s) de recherche": [
+                "Data Mining, Decision Support Systems &Competitive intelligence Systems",
+                "Graph & Complex Networks",
+                "Serious Game & Smart Learning",
+                "Smart Systems"
+            ],
+            "Membres": [
+                {
+                    "nom": "FENNAN Abdelhadi",
+                    "email": "afennan@uae.ac.ma"
+                },
+                {
+                    "nom": "GHADI Abderrahim",
+                    "email": "aghadi@uae.ac.ma"
+                },
+                {
+                    "nom": "ELAACHAK Lotfi",
+                    "email": "lelaachak@uae.ac.ma"
+                },
+                {
+                    "nom": "ZILI Hassan",
+                    "email": "hzili@uae.ac.ma"
+                },
+                {
+                    "nom": "GIBET TANI Hicham",
+                    "email": "h.gibettani@uae.ac.ma"
+                }
+            ]
+        },
+        {
+            "nom": "Génie Chimique et Valorisation des Ressources (GCVR)",
+            "link": "https://fstt.ac.ma/Portail2023/equipe-genie-chimique-et-valorisation-des-ressources-gcvr/",
+            "directeur": "Pr. CHAFIK Tarik",
+            "specialite": "Spécialité :  Génie des Procédés Catalytiques",
+            "telephone": "Tél : 05 39 39 39 / 54 / 55 GSM : 06 68 43 49 54",
+            "email": "tchafik@uae.ac.ma",
+            "Axe(s) de recherche": [
+                "Nanomatériaux pour énergie",
+                "Traitement des eaux",
+                "Production d’hydrogènestockage et conversion d’énergieProcédés de Dépollution",
+                "Valorisation des Ressources"
+            ],
+            "Membres": [
+                {
+                    "nom": "CHAFIK Tarik",
+                    "email": "tchafik@uae.ac.ma"
+                },
+                {
+                    "nom": "EL MOUJAHID Chaouki",
+                    "email": "celmoujahid@uae.ac.ma"
+                },
+                {
+                    "nom": "ACHAK Ouafae",
+                    "email": "oachak@uae.ac.ma"
+                },
+                {
+                    "nom": "LAKHMIRI RAJAE",
+                    "email": "rlakhmiri@uae.ac.ma"
+                },
+                {
+                    "nom": "AMRANI Mahacine",
+                    "email": "m.amrani2@uae.ac.ma"
+                },
+                {
+                    "nom": "ALLOUCH Mohamed",
+                    "email": "mallouch@uae.ac.ma"
+                },
+                {
+                    "nom": "HAMDOUNE Faouzia",
+                    "email": "fhamdoune@uae.ac.ma"
+                },
+                {
+                    "nom": "HAJJI Faouzia",
+                    "email": "f.hajji@uae.ac.ma"
+                }
+            ]
+        },
+        {
+            "nom": "Géoinformation, Aménagement du Territoire et Environnement (GATE)",
+            "link": "https://fstt.ac.ma/Portail2023/equipe-geoinformation-amenagement-du-territoire-et-environnement-gate-2/",
+            "directeur": "Pr. AMHARREF Mina",
+            "specialite": "Sciences de la Terre : Hydrogéologie, SIG et Analyse spatiale",
+            "telephone": "Tél : 05 39 39 39 / 54 / 55 GSM : 0648 71 92 65",
+            "email": "m.amharref@uae.ac.ma",
+            "Axe(s) de recherche": [
+                "Modélisation mathématiques des phénomènes environnementaux",
+                "Géoinformation appliquée à l’environnement et aux risques naturels",
+                "Vulnérabilité des systèmes spatio-temporel environnementaux",
+                "Dynamique des systèmes littoraux"
+            ],
+            "Membres": [
+                {
+                    "nom": "AMHARREF Mina",
+                    "email": "amharrefm@yahoo.fr"
+                },
+                {
+                    "nom": "EL ABDELLAOUI Jamal Eddine ",
+                    "email": "masgeoinfo@yahoo.fr"
+                },
+                {
+                    "nom": "BERNOUSSI Abdes Samed",
+                    "email": "abernoussi@uae.ac.ma"
+                },
+                {
+                    "nom": "BELFEKIH  Abdelaâziz",
+                    "email": "abelfekih@gmail.com"
+                },
+                {
+                    "nom": "ES SAOUINI Hind",
+                    "email": "essaouini.hind@gmail.com"
+                }
+            ]
+        },
+        {
+            "nom": "Géomatique, Télédétection et Cartographie (GéoTéCa)",
+            "link": "https://fstt.ac.ma/Portail2023/equipe-geoinformation-amenagement-du-territoire-et-environnement-gate-2/",
+            "directeur": "Pr. AMHARREF Mina",
+            "specialite": "Sciences de la Terre : Hydrogéologie, SIG et Analyse spatiale",
+            "telephone": "Tél : 05 39 39 39 / 54 / 55 GSM : 0648 71 92 65",
+            "email": "m.amharref@uae.ac.ma",
+            "Axe(s) de recherche": [
+                "Modélisation mathématiques des phénomènes environnementaux",
+                "Géoinformation appliquée à l’environnement et aux risques naturels",
+                "Vulnérabilité des systèmes spatio-temporel environnementaux",
+                "Dynamique des systèmes littoraux"
+            ],
+            "Membres": [
+                {
+                    "nom": "AMHARREF Mina",
+                    "email": "amharrefm@yahoo.fr"
+                },
+                {
+                    "nom": "EL ABDELLAOUI Jamal Eddine ",
+                    "email": "masgeoinfo@yahoo.fr"
+                },
+                {
+                    "nom": "BERNOUSSI Abdes Samed",
+                    "email": "abernoussi@uae.ac.ma"
+                },
+                {
+                    "nom": "BELFEKIH  Abdelaâziz",
+                    "email": "abelfekih@gmail.com"
+                },
+                {
+                    "nom": "ES SAOUINI Hind",
+                    "email": "essaouini.hind@gmail.com"
+                }
+            ]
+        },
+        {
+            "nom": "GéoRisques & GéoRessources (G2R)",
+            "link": "https://fstt.ac.ma/Portail2023/equipe-environnement-marin-et-risques-naturels-eremrn/",
+            "directeur": "Pr.Aboumaria Khadija",
+            "specialite": "Géologie (Sédimentologie)",
+            "telephone": "Tél : 05 39 39 39 / 54 / 55 GSM : 0661 10 53 47",
+            "email": "kaboumaria@uae.ac.ma",
+            "Axe(s) de recherche": [
+                " Géosciences de l’environnement",
+                "Minéralogie appliquée à l’environnement",
+                "Hydrogéologie",
+                "Mise en valeur des ressources Naturelles (minières…)",
+                "Risques Naturels",
+                "Micropaléontologie appliquée à l’environnement actuel",
+                "Géophysique et géodésiquement",
+                "Géodynamique des bassins sédimentaires"
+            ],
+            "Membres": [
+                {
+                    "nom": "ABOUMARIA Khadija",
+                    "email": "kaboumaria@uae.ac.ma"
+                },
+                {
+                    "nom": "AFAILALTRIBAK Abdelghani",
+                    "email": "aafailal@uae.ac.ma"
+                },
+                {
+                    "nom": "BOUHMADI Belkacem",
+                    "email": "b.bouhmadi@uae.ac.ma"
+                },
+                {
+                    "nom": "FKIHECH Abdelmalek",
+                    "email": "a.fkihach@uae.ac.ma"
+                },
+                {
+                    "nom": "MOURABIT Taoufik",
+                    "email": "t.mourabit@uae.ac.ma"
+                },
+                {
+                    "nom": "ROSSI  Abdelhamid",
+                    "email": "arossi@uae.ac.ma"
+                },
+                {
+                    "nom": "TAHAYT Abdelilah",
+                    "email": "atahayt@uae.ac.ma"
+                },
+                {
+                    "nom": "ZAGHLOUL Mohamed Najib",
+                    "email": "zaghloul@geologist.com"
+                }
+            ]
+        },
+        {
+            "nom": "Industrial Systems Engineering and Energy Conversion (ISEEC)",
+            "link": "https://fstt.ac.ma/Portail2023/equipe-industrial-systems-engineering-and-energy-conversion-iseec/",
+            "directeur": "Pr.BOULAALA MOHAMMED",
+            "specialite": "Génie Électrique",
+            "telephone": "Tél : 05 39 39 39 / 54 / 55 GSM : 0664 24 92 93",
+            "email": "m.boulaala@uae.ac.ma",
+            "Axe(s) de recherche": [
+                "Conversion d’énergie",
+                "Énergie renouvelable",
+                "Robotique et vision",
+                "Ingénierie numérique"
+            ],
+            "Membres": [
+                {
+                    "nom": "EL HARZLI MOHAMED",
+                    "email": "melharzli@uae.ac.ma"
+                },
+                {
+                    "nom": "EL MRABET MHAMED",
+                    "email": "melmrabet@uae.ac.ma"
+                },
+                {
+                    "nom": "HADJ BARAKA IBRAHIM",
+                    "email": "ihadjbaraka@uae.ac.ma"
+                },
+                {
+                    "nom": "MEKRINI ZINEB",
+                    "email": "zmekrini@uae.ac.ma"
+                },
+                {
+                    "nom": "EL MESBAHI  ABDELILAH",
+                    "email": "a.mesbahi@uae.ac.ma"
+                },
+                {
+                    "nom": "BENLAMLIH  MOHAMMED",
+                    "email": "benlamlih@gmail.com"
+                },
+                {
+                    "nom": "HAMDOUNE SALAHEDDINE",
+                    "email": "shamdoun@hotmail.com"
+                },
+                {
+                    "nom": "BOULAALA MOHAMMED",
+                    "email": "m.boulaala@uae.ac.ma"
+                }
+            ]
+        },
+        {
+            "nom": "Ingénierie et Pilotage des Systèmes Innovants (IPSI) ",
+            "link": "https://fstt.ac.ma/Portail2023/equipe-industrial-systems-engineering-and-energy-conversion-iseec/",
+            "directeur": "Pr.BOULAALA MOHAMMED",
+            "specialite": "Génie Électrique",
+            "telephone": "Tél : 05 39 39 39 / 54 / 55 GSM : 0664 24 92 93",
+            "email": "m.boulaala@uae.ac.ma",
+            "Axe(s) de recherche": [
+                "Conversion d’énergie",
+                "Énergie renouvelable",
+                "Robotique et vision",
+                "Ingénierie numérique"
+            ],
+            "Membres": [
+                {
+                    "nom": "EL HARZLI MOHAMED",
+                    "email": "melharzli@uae.ac.ma"
+                },
+                {
+                    "nom": "EL MRABET MHAMED",
+                    "email": "melmrabet@uae.ac.ma"
+                },
+                {
+                    "nom": "HADJ BARAKA IBRAHIM",
+                    "email": "ihadjbaraka@uae.ac.ma"
+                },
+                {
+                    "nom": "MEKRINI ZINEB",
+                    "email": "zmekrini@uae.ac.ma"
+                },
+                {
+                    "nom": "EL MESBAHI  ABDELILAH",
+                    "email": "a.mesbahi@uae.ac.ma"
+                },
+                {
+                    "nom": "BENLAMLIH  MOHAMMED",
+                    "email": "benlamlih@gmail.com"
+                },
+                {
+                    "nom": "HAMDOUNE SALAHEDDINE",
+                    "email": "shamdoun@hotmail.com"
+                },
+                {
+                    "nom": "BOULAALA MOHAMMED",
+                    "email": "m.boulaala@uae.ac.ma"
+                }
+            ]
+        },
+        {
+            "nom": "Innovation et Ingénierie (II) ",
+            "link": "https://fstt.ac.ma/Portail2023/equipe-industrial-systems-engineering-and-energy-conversion-iseec/",
+            "directeur": "Pr.BOULAALA MOHAMMED",
+            "specialite": "Génie Électrique",
+            "telephone": "Tél : 05 39 39 39 / 54 / 55 GSM : 0664 24 92 93",
+            "email": "m.boulaala@uae.ac.ma",
+            "Axe(s) de recherche": [
+                "Conversion d’énergie",
+                "Énergie renouvelable",
+                "Robotique et vision",
+                "Ingénierie numérique"
+            ],
+            "Membres": [
+                {
+                    "nom": "EL HARZLI MOHAMED",
+                    "email": "melharzli@uae.ac.ma"
+                },
+                {
+                    "nom": "EL MRABET MHAMED",
+                    "email": "melmrabet@uae.ac.ma"
+                },
+                {
+                    "nom": "HADJ BARAKA IBRAHIM",
+                    "email": "ihadjbaraka@uae.ac.ma"
+                },
+                {
+                    "nom": "MEKRINI ZINEB",
+                    "email": "zmekrini@uae.ac.ma"
+                },
+                {
+                    "nom": "EL MESBAHI  ABDELILAH",
+                    "email": "a.mesbahi@uae.ac.ma"
+                },
+                {
+                    "nom": "BENLAMLIH  MOHAMMED",
+                    "email": "benlamlih@gmail.com"
+                },
+                {
+                    "nom": "HAMDOUNE SALAHEDDINE",
+                    "email": "shamdoun@hotmail.com"
+                },
+                {
+                    "nom": "BOULAALA MOHAMMED",
+                    "email": "m.boulaala@uae.ac.ma"
+                }
+            ]
+        },
+        {
+            "nom": "Matériaux, Environnement et Développement Durable (MEDD)",
+            "link": "https://fstt.ac.ma/Portail2023/equipe-materiaux-environnement-et-developpement-durable-medd/",
+            "directeur": "Pr.BEN ALLAL Laïla",
+            "specialite": "Génie Civil et Environnemental",
+            "telephone": "Tél : 05 39 39 39 / 54 / 55 GSM : 0667 11 19 09",
+            "email": "lbenallal@uae.ac.ma",
+            "Axe(s) de recherche": [
+                "Économie Circulaire et Éco-Matériaux",
+                "Changement Climatique",
+                "Valorisation des biodéchets",
+                "Développement Durable",
+                "Agroalimentaire"
+            ],
+            "Membres": [
+                {
+                    "nom": "BEN ALLAL  Laïla",
+                    "email": "lbenallal@uae.ac.ma"
+                },
+                {
+                    "nom": "EL AYADI  Houda",
+                    "email": "h.elayadi@uae.ac.ma"
+                },
+                {
+                    "nom": "AMMARI  Mohammed",
+                    "email": "mammari@uae.ac.ma"
+                },
+                {
+                    "nom": "FAKIH LANJRI  Asmaa",
+                    "email": "a.fakihlanjri@uae.ac.ma"
+                },
+                {
+                    "nom": "FATH ALLAH  Rabie",
+                    "email": "r.fathallah@uae.ac.ma"
+                },
+                {
+                    "nom": "BOUCHARA  Aicha",
+                    "email": "abouchara@uae.ac.ma"
+                },
+                {
+                    "nom": "BRIGUI  Jamal",
+                    "email": "j.brigui@uae.ac.ma"
+                }
+            ]
+        },
+        {
+            "nom": "Modélisation Mathématique et Contrôle (MMC)",
+            "link": "https://fstt.ac.ma/Portail2023/equipe-modelisation-mathematique-et-controle-mmc/",
+            "directeur": "Pr. OUARDOUZ Mustapha",
+            "specialite": "Modélisation Systèmes complexes",
+            "telephone": "Tél/GSM : 06 61 23 06 37",
+            "email": "mouardouz@uae.ac.ma",
+            "Axe(s) de recherche": [
+                "Génie Industriel",
+                "Modélisation et contrôle",
+                "Mécanique et Matériaux"
+            ],
+            "Membres": [
+                {
+                    "nom": "FAKRI Nadia",
+                    "email": "mfakri@ uae.ac.ma"
+                },
+                {
+                    "nom": "ELFELESOUFI Zoubir",
+                    "email": "zelfelsoufi @uae.ac.ma"
+                },
+                {
+                    "nom": "AKOURRI Omar",
+                    "email": "oakourri@uae.ac.ma"
+                },
+                {
+                    "nom": "ELAYACHI Ilham",
+                    "email": "ielayachi@uae.ac.ma"
+                },
+                {
+                    "nom": "OUARDOUZ Mustapha",
+                    "email": "mouardouz@uae.ac.ma"
+                }
+            ]
+        },
+        {
+            "nom": "Physique Appliquée (PA) ",
+            "link": "https://fstt.ac.ma/Portail2023/equipe-physique-appliquee-pa/",
+            "directeur": "Pr.CHENTOUF Abdellah",
+            "specialite": "Physique appliquée",
+            "telephone": "Tél : 05 39 39 39 / 54 / 55 GSM : 0670 29 83 51",
+            "email": "achentouf@uae.ac.ma",
+            "Axe(s) de recherche": [
+                "Interaction rayonnement matière",
+                "Modélisation, Intelligence artificielle ",
+                "Matière condensé"
+            ],
+            "Membres": [
+                {
+                    "nom": "CHENTOUF Abdellah",
+                    "email": "achentouf@uae.ac.ma"
+                },
+                {
+                    "nom": "DAANOUN Ali",
+                    "email": "adaanoun@uae.ac.ma"
+                },
+                {
+                    "nom": "JEBARI  Fouad",
+                    "email": "fjebari@uae.ac.ma"
+                },
+                {
+                    "nom": "RACHAFI  said",
+                    "email": "mrachafihausi@uae.ac.ma"
+                },
+                {
+                    "nom": "RUSI Elhassani Abdeljalil",
+                    "email": "arusihassani@uae.ac.ma"
+                }
+            ]
+        },
+        {
+            "nom": "Recherche en Environnement Marin et Risques Naturels (EREMRN)",
+            "link": "https://fstt.ac.ma/Portail2023/equipe-physique-appliquee-pa/",
+            "directeur": "Pr.CHENTOUF Abdellah",
+            "specialite": "Physique appliquée",
+            "telephone": "Tél : 05 39 39 39 / 54 / 55 GSM : 0670 29 83 51",
+            "email": "achentouf@uae.ac.ma",
+            "Axe(s) de recherche": [
+                "Interaction rayonnement matière",
+                "Modélisation, Intelligence artificielle ",
+                "Matière condensé"
+            ],
+            "Membres": [
+                {
+                    "nom": "CHENTOUF Abdellah",
+                    "email": "achentouf@uae.ac.ma"
+                },
+                {
+                    "nom": "DAANOUN Ali",
+                    "email": "adaanoun@uae.ac.ma"
+                },
+                {
+                    "nom": "JEBARI  Fouad",
+                    "email": "fjebari@uae.ac.ma"
+                },
+                {
+                    "nom": "RACHAFI  said",
+                    "email": "mrachafihausi@uae.ac.ma"
+                },
+                {
+                    "nom": "RUSI Elhassani Abdeljalil",
+                    "email": "arusihassani@uae.ac.ma"
+                }
+            ]
+        },
+        {
+            "nom": "Smart Systems & Emerging Technologies (SSET)",
+            "link": "https://fstt.ac.ma/Portail2023/equipe-physique-appliquee-pa/",
+            "directeur": "Pr.CHENTOUF Abdellah",
+            "specialite": "Physique appliquée",
+            "telephone": "Tél : 05 39 39 39 / 54 / 55 GSM : 0670 29 83 51",
+            "email": "achentouf@uae.ac.ma",
+            "Axe(s) de recherche": [
+                "Interaction rayonnement matière",
+                "Modélisation, Intelligence artificielle ",
+                "Matière condensé"
+            ],
+            "Membres": [
+                {
+                    "nom": "CHENTOUF Abdellah",
+                    "email": "achentouf@uae.ac.ma"
+                },
+                {
+                    "nom": "DAANOUN Ali",
+                    "email": "adaanoun@uae.ac.ma"
+                },
+                {
+                    "nom": "JEBARI  Fouad",
+                    "email": "fjebari@uae.ac.ma"
+                },
+                {
+                    "nom": "RACHAFI  said",
+                    "email": "mrachafihausi@uae.ac.ma"
+                },
+                {
+                    "nom": "RUSI Elhassani Abdeljalil",
+                    "email": "arusihassani@uae.ac.ma"
+                }
+            ]
+        },
+        {
+            "nom": "Transferts Thermiques et Energétique (ETTE)",
+            "link": "https://fstt.ac.ma/Portail2023/equipe-biochimie-et-genetique-moleculaire/",
+            "directeur": "Pr.NHIRI Mohamed",
+            "specialite": "Biochimie/Biotechnologie",
+            "telephone": "Tél : 05 39 39 39 / 54 / 55 GSM : 06 70 77 91 85",
+            "email": "mnhiri@uae.ac.ma",
+            "Axe(s) de recherche": [
+                "Criblage des molécules issues des plantes médicinales et aromatiques marocaines et leur effet antioxydant, anticancéreux, antidiabétique et anti-parkinson.",
+                "Interaction carbone/azote chez les plantes C4.",
+                "Recherche sur les biostimulants à partir des macro-algues et PAM.",
+                "Contribution à l’étude et la mise au point de méthodes spectrométriques de caractérisation des laits de vache commercialisés au Marocet application au contrôle qualité des produits laitiers."
+            ],
+            "Membres": [
+                {
+                    "nom": "CHIBI Fatiha",
+                    "email": "f.chibi@uae.ac.ma"
+                },
+                {
+                    "nom": "BENYASSI Ahmed",
+                    "email": "a.benyassi@uae.ac.ma"
+                },
+                {
+                    "nom": "BOUAYYAD Abdelwarith",
+                    "email": "abouayyad@uae.ac.ma"
+                },
+                {
+                    "nom": "NHIRI Mohamed",
+                    "email": "mnhiri@uae.ac.ma"
+                },
+                {
+                    "nom": "RKAINA Mohamed",
+                    "email": "m.rkaina@uae.ac.ma"
+                }
+            ]
+        },
+        {
+            "nom": "Valorisation Biotechnologique des Microorganismes, Génomique et Bio-Informatique (VBMGBI) ",
+            "link": "https://fstt.ac.ma/Portail2023/equipe-valorisation-biotechnologique-des-microorganismes-genomique-et-bio-informatique-vbmgbi/",
+            "directeur": "Pr.Barrijal Said",
+            "specialite": "Biologie moléculaire",
+            "telephone": "Tél : 05 39 39 39 / 54 / 55 GSM : 0668 90 69 04",
+            "email": "s.barrijal@uae.ac.ma",
+            "Axe(s) de recherche": [
+                "Microbiologie Médicale",
+                "Phytopathologie",
+                "Lutte Biologique/Génétique",
+                "Diversité Génétique"
+            ],
+            "Membres": [
+                {
+                    "nom": "BARRIJAL Said",
+                    "email": "s.barrijal@uae.ac.ma"
+                },
+                {
+                    "nom": "ESSALMANI Haiat",
+                    "email": "hessalmani@gmail.com "
+                },
+                {
+                    "nom": "EL AMRANI Amal",
+                    "email": "elamrania@hotmail.com "
+                },
+                {
+                    "nom": "LEBBADI Meriem",
+                    "email": "lebbadim@hotmail.com "
+                },
+                {
+                    "nom": "LAIRINI Khalid",
+                    "email": "khalidlairini@gmail.com "
+                },
+                {
+                    "nom": "ELBOUKARI Mohamed",
+                    "email": "m.elboukari@uae.ac.ma"
+                }
+            ]
+        }
+    ]
+}
