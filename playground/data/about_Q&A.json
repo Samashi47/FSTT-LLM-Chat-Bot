@@ -1,0 +1,94 @@
+ [
+        {
+            "instruction": "Quel est le nom de la faculté ?",
+            "response": "Faculté des Sciences et Techniques de Tanger"
+        },
+        {
+            "instruction": "Quelle est l'adresse de la Faculté des Sciences et Techniques de Tanger?",
+            "response": "Ancienne Route de l’Aéroport, Km 10, Ziaten. BP : 416. Tanger - Maroc"
+        },
+        {
+            "instruction": "Quelle est l'adresse de la fst Tanger?",
+            "response": "Ancienne Route de l’Aéroport, Km 10, Ziaten. BP : 416. Tanger - Maroc"
+        },
+        {
+            "instruction": "Quel est le numéro de téléphone de la Faculté des Sciences et Techniques de Tanger?",
+            "response": "+212 539 39 39 54/55"
+        },
+        {
+            "instruction": "Quel est le numéro de téléphone de la fst Tanger?",
+            "response": "+212 539 39 39 54/55"
+        },
+        {
+            "instruction": "Quel est le numéro de téléphone fixe de la Faculté des Sciences et Techniques de Tanger?",
+            "response": "+212 539 39 39 53"
+        },
+        {
+            "instruction": "Quel est le numéro de téléphone fixe de la fst Tanger?",
+            "response": "+212 539 39 39 53"
+        },
+        {
+            "instruction": "Quel est l'email de la Faculté des Sciences et Techniques de Tanger?",
+            "response": "administration@fstt.ac.ma"
+        },
+        {
+            "instruction": "Quel est l'email de la fst Tanger?",
+            "response": "administration@fstt.ac.ma"
+        },
+        {
+            "instruction": "Quel est le site web de la Faculté des Sciences et Techniques de Tanger?",
+            "response": "https://fstt.ac.ma/Portail2023/"
+        },
+        {
+            "instruction": "Quel est le site web de la fst Tanger?",
+            "response": "https://fstt.ac.ma/Portail2023/"
+        },
+        {
+            "instruction": "Qui est le doyen de la Faculté des Sciences et Techniques de Tanger?",
+            "response": "Pr. MUSTAPHA DIANI"
+        },
+        {
+            "instruction": "Qui est le doyen de la fst Tanger?",
+            "response": "Pr. MUSTAPHA DIANI"
+        },
+        {
+            "instruction": "Pouvez-vous me donner une présentation de la Faculté des Sciences et Techniques de Tanger?",
+            "response": "La Faculté des Sciences et Techniques de Tanger (FSTT), relevant de l’Université Abdelmalek Essaâdi a été créée en 1995. Elle fait partie des établissements de l’enseignement supérieur à accès régulé et a pour missions la formation initiale dans les domaines scientifiques et techniques, la formation continue ainsi que la recherche et le développement dans les domaines des sciences et techniques."
+        },
+        {
+            "instruction": "Pouvez-vous me donner une présentation de la fst Tanger ?",
+            "response": "La Faculté des Sciences et Techniques de Tanger (FSTT), relevant de l’Université Abdelmalek Essaâdi a été créée en 1995. Elle fait partie des établissements de l’enseignement supérieur à accès régulé et a pour missions la formation initiale dans les domaines scientifiques et techniques, la formation continue ainsi que la recherche et le développement dans les domaines des sciences et techniques."
+        },
+        {
+            "instruction": "Quels sont les diplômes offerts par la Faculté des Sciences et Techniques de Tanger?",
+            "response": "DEUST : Diplôme d’Etudes Universitaire en Sciences et Techniques (Bac +2). LST : Diplôme de Licence en Sciences et Techniques (Bac +3) MST : Diplôme de Master en Sciences et Techniques (Bac +5) DI : Diplôme d’Ingénieur d’État (Bac +5) Doctorat en Sciences et Techniques (Bac +8) La FST de Tanger propose une panoplie de formation riches et diversifiées répondant aux divers besoins du monde socio-économique (12 filières LST, 13 filières MST, 4 filières Ingénieurs)"
+        },
+        {
+            "instruction": "Quels sont les diplômes offerts par la fst Tanger?",
+            "response": "DEUST : Diplôme d’Etudes Universitaire en Sciences et Techniques (Bac +2). LST : Diplôme de Licence en Sciences et Techniques (Bac +3) MST : Diplôme de Master en Sciences et Techniques (Bac +5) DI : Diplôme d’Ingénieur d’État (Bac +5) Doctorat en Sciences et Techniques (Bac +8) La FST de Tanger propose une panoplie de formation riches et diversifiées répondant aux divers besoins du monde socio-économique (12 filières LST, 13 filières MST, 4 filières Ingénieurs)"
+        },
+        {
+            "instruction": "Quels sont les objectifs de la Faculté des Sciences et Techniques de Tanger?",
+            "response": "La Faculté des Sciences et Techniques de Tanger a pour missions la formation initiale dans les domaines scientifiques et techniques, la formation continue ainsi que la recherche et le développement dans les domaines des sciences et techniques."
+        },
+        {
+            "instruction": "Quels sont les objectifs de la fst Tanger ?",
+            "response": "La Faculté des Sciences et Techniques de Tanger a pour missions la formation initiale dans les domaines scientifiques et techniques, la formation continue ainsi que la recherche et le développement dans les domaines des sciences et techniques."
+        },
+        {
+            "instruction": "Pouvez-vous me parler de la recherche scientifique à la Faculté des Sciences et Techniques de Tanger?",
+            "response": "La recherche scientifique à la FST de Tanger est structurée autour de 7 laboratoires, 11 équipes de recherche, 2 centres (CDI : Centre de Développement et de l’Innovation et le CFA : Centre de Fabrication Additive) et un Observatoire Digital de l’Environnement. Les thématiques de recherches développées par ces structures concernent : L’agro-alimentaire, la biotechnologie, Biologie et santé. L’Énergie et l’Efficacité Énergétique. L’Eau et l’Environnement. Les Matériaux et les Nanomatériaux. Les Mathématiques et Informatique. Autres"
+        },
+        {
+            "instruction": "Pouvez-vous me parler de la recherche scientifique à la fst Tanger?",
+            "response": "La recherche scientifique à la FST de Tanger est structurée autour de 7 laboratoires, 11 équipes de recherche, 2 centres (CDI : Centre de Développement et de l’Innovation et le CFA : Centre de Fabrication Additive) et un Observatoire Digital de l’Environnement. Les thématiques de recherches développées par ces structures concernent : L’agro-alimentaire, la biotechnologie, Biologie et santé. L’Énergie et l’Efficacité Énergétique. L’Eau et l’Environnement. Les Matériaux et les Nanomatériaux. Les Mathématiques et Informatique. Autres"
+        },
+        {
+            "instruction": "Qu'est-ce que le Fablab Green Lab?",
+            "response": "Le Green Lab est un FabLab a été créé pour encourager l’innovation, la créativité et l’esprit d’entreprise chez les étudiants et les membres de la communauté locale. Le Green Lab est équipé d’une variété d’outils et de technologies, tels que des imprimantes 3D, des machines de découpe laser, des fraiseuses CNC et des équipements électroniques. Ces outils permettent aux membres du laboratoire de concevoir, prototyper et fabriquer une grande variété de projets, allant de petits gadgets électroniques aux prototypes de produits commerciaux. Le laboratoire est également axé sur la durabilité et l’environnement, avec une forte emphase sur les projets qui utilisent des matériaux recyclés ou respectueux de l’environnement. Les Etudiants du Green Lab travaillent sur des projets qui abordent des problèmes environnementaux tels que la pollution de l’eau, la gestion des déchets, la durabilité des ressources naturelles et l’agriculture urbaine. Le Green Lab est ouvert aux étudiants de tous les départements de la Faculté des Sciences et Techniques de Tanger, ainsi qu’aux membres de la communauté locale qui souhaitent utiliser les installations. Il offre également des ateliers de formation sur les compétences techniques, la conception de produits et l’entrepreneuriat."
+        },
+        {
+            "instruction": "Quelle est l'importance des clubs des étudiants?",
+            "response": "Les clubs des étudiants peuvent apporter une valeur ajoutée significative à la vie universitaire. Tout d’abord, les clubs offrent une occasion aux étudiants de s’engager dans des activités qui les passionnent et de rencontrer des personnes partageant les mêmes intérêts. De plus, les clubs peuvent aider à renforcer les compétences de leadership et à développer des compétences"
+        }
+    ]
