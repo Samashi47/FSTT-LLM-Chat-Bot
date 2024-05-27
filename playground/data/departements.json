@@ -1,0 +1,47 @@
+[
+    {
+        "Nom": "GÉNIE INFORMATIQUE",
+        "Chef": "Pr. EL BRAK Mohamed",
+        "Email": "melbrak@uae.ac.ma"
+    },
+    {
+        "Nom": "GÉNIE CHIMIQUE",
+        "Chef": "Pr. CHABBI Mohamed",
+        "Email": "mchabbi@uae.ac.ma"
+    },
+    {
+        "Nom": "SCIENCES DE LA TERRE",
+        "Chef": "Pr. BOULAASSAL Hakim",
+        "Email": "h.boulaassal@uae.ac.ma"
+    },
+    {
+        "Nom": "GÉNIE MÉCANIQUE",
+        "Chef": "Pr. ELAYACHI Ilham",
+        "Email": "i.elayachi@uae.ac.ma"
+    },
+    {
+        "Nom": "SCIENCES DE LA VIE",
+        "Chef": "Pr. HASSANI ZERROUK Mounir",
+        "Email": "mhassani@uae.ac.ma"
+    },
+    {
+        "Nom": "GÉNIE ELECTRIQUE",
+        "Chef": "Pr.HADJ BARAKA Ibrahim",
+        "Email": "ihadjbaraka@uae.ac.ma"
+    },
+    {
+        "Nom": "TEC",
+        "Chef": "Pr. OUCHEN MOHAMED",
+        "Email": "mouchen@uae.ac.ma"
+    },
+    {
+        "Nom": "PHYSIQUE",
+        "Chef": "Pr. AJDOUR Mounia",
+        "Email": "majdour@uae.ac.ma"
+    },
+    {
+        "Nom": "MATHÉMATIQUES",
+        "Chef": "Pr. EL HALIMI RACHID",
+        "Email": "r.elhalimi@uae.ac.ma"
+    }
+]
