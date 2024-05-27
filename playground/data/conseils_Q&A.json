@@ -1,8 +1,6 @@
+[
 {
-    "Conseil de l’établissement": [
-
-{
-    "instruction": "Qui est le doyen de l'établissement?",
+    "instruction": "Qui est le doyen de la fstt ?",
     "response": "DIANI Mustapha"
 },
 {
@@ -212,11 +210,10 @@
 {
     "instruction": "Quel est le rôle de JAYED Youssef?",
     "response": "Représentant des étudiants"
-}
-],
-  "Commission Scientifique": [
+},
+
     {
-        "instruction": "Qui est le doyen de l'établissement?",
+        "instruction": "Qui est le doyen de la fst Tanger ?",
         "response": "DIANI Mustapha"
     },
     {
@@ -362,11 +359,9 @@
     {
         "instruction": "Quelle est la responsabilité de HASSANI ZERROUK Mounir?",
         "response": "Chef du département des Sciences de la Vie"
-    }
-],
-"Commission de la Recherche Scientifique et de Coopération": [
+    },
     {
-        "instruction": "Qui est le doyen de l'établissement?",
+        "instruction": "Qui est le doyen de la Faculté des Sciences et Techniques de Tanger?",
         "response": "DIANI Mustapha"
     },
     {
@@ -524,12 +519,6 @@
     {
         "instruction": "Quel est le rôle de KHALI ISSA Sanae?",
         "response": "Représentant des P.A"
-    }
-],
-"Commission Pédagogique": [
-    {
-        "instruction": "Qui est le doyen de l'établissement?",
-        "response": "DIANI Mustapha"
     },
     {
         "instruction": "Quel est le rôle de DIANI Mustapha?",
@@ -742,12 +731,6 @@
     {
         "instruction": "Quel est le rôle de JAYED Youssef?",
         "response": "Représentant des étudiants"
-    }
-],
-"Commission d’Activités Culturelles et Sportives": [
-    {
-        "instruction": "Qui est le doyen de l'établissement?",
-        "response": "DIANI Mustapha"
     },
     {
         "instruction": "Quel est le rôle de DIANI Mustapha?",
@@ -896,12 +879,6 @@
     {
         "instruction": "Quel est le rôle de JAYED Youssef?",
         "response": "Représentant des étudiants"
-    }
-],
-"Commission de suivi du budget": [
-    {
-        "instruction": "Qui est le doyen de l'établissement?",
-        "response": "DIANI Mustapha"
     },
     {
         "instruction": "Quel est le rôle de DIANI Mustapha?",
@@ -1103,6 +1080,4 @@
         "instruction": "Qui est MAAREF Abdelkader?",
         "response": "Le Représentant des Personnels Administratifs et Techniques"
     }
-
 ]
-}

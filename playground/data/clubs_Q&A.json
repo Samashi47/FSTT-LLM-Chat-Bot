@@ -1,9 +1,6 @@
 [
 
-    {
-        "instruction": "Quel est le nom du club?",
-        "response": "Club Greenology"
-    },
+    
     {
         "instruction": "Pouvez-vous me donner une description du Club Greenology?",
         "response": "Le Club de l’environnement de la FST de Tanger, dénommé Greenology Club, est nouvellement créé et a pour vocation de : transmettre aux étudiants une conscience nationale éclairée, un patriotisme activé pour un environnement préservé; sensibiliser et rendre les étudiants de la FST de Tanger des combattants contre la dégradation de l’environnement. Tous unis, bien convaincus que nos richesses environnementales très précieuses sont menacées, et qu’avec une conscience large du désastre écologique qui frappe à la porte de notre pays, nous pourrons gagner la bataille et sauver ce qu’il reste encore à sauver."
@@ -45,10 +42,6 @@
         "response": "Actif"
     },
     {
-        "instruction": "Quel est le nom du club?",
-        "response": "Club d'art Dramatique et d'Animation Culturelle"
-    },
-    {
         "instruction": "Pouvez-vous me donner une description du Club d'art Dramatique et d'Animation Culturelle?",
         "response": "Un Club de théâtre Multidisciplinaire fondé en 2011 par un groupe des étudiants provenant d’horizons géographiques et disciplines diverses."
     },
@@ -88,10 +81,7 @@
         "instruction": "Quel est le statut actuel du Club d'art Dramatique et d'Animation Culturelle?",
         "response": "Inactif"
     },
-    {
-        "instruction": "Quel est le nom du club?",
-        "response": "Club Génie civil"
-    },
+
     {
         "instruction": "Pouvez-vous me donner une description du Club Génie civil?",
         "response": "Le Club Génie civil est un club scientifique de la faculté des sciences et techniques Tanger crée en 2014 par l’étudiant KALOUCH Hammam Qui vise à développer la culture scientifique chez les étudiants de la FSTT ainsi que présenter la filière LST et MST Génie Civil de la FSTT et d’organiser plusieurs activités scientifiques dans le domaine de Génie civil, qui incluent des visites de chantiers, des conférences, des Ateliers et un évènement annuel la journée Génie civil FSTT."
@@ -136,10 +126,7 @@
         "instruction": "Quel est le statut actuel du Club Génie civil?",
         "response": "Actif"
     },
-    {
-        "instruction": "Quel est le nom du club?",
-        "response": "Club Les sophistes"
-    },
+
     {
         "instruction": "Pouvez-vous me donner une description du Club Les sophistes?",
         "response": "Information indisponible"
@@ -176,10 +163,7 @@
         "instruction": "Quel est le statut actuel du Club Les sophistes?",
         "response": "Inactif"
     },
-    {
-        "instruction": "Quel est le nom du club?",
-        "response": "Club Design & Photography"
-    },
+
     {
         "instruction": "Pouvez-vous me donner une description du Club Design & Photography?",
         "response": "Le « Club Design & Photography », est une filiale de “l’Association Marocaine de Design & Photography ”, c’est tout simplement un espace de pure beauté et de créativité où tout le monde a le droit de laisser son esprit naviguer dans l’océan infini de la création et de la pure inspiration. Comme l’indique son nom, c’est un club de design, de conception grâce à des programmes et logiciel comme « Photoshop, Photo filtre,… ». Le design c’est aussi l’art de dessin d’objet, étant un design d’intérieur, un stylisme ou un simple dessin à la main. ’un autre coté c’est un club de photographie, de prise de vue selon plusieurs angles, et qui diffère selon l’expérience et la créativité de chaque photographe. Et ce qu’on veut dire par le mot Photographie, non pas des prises ordinaires et simples, mais des prises ayant un certain charme respectant plusieurs lois de base pour donner une belle allure au résultat voulu."
@@ -215,10 +199,6 @@
     {
         "instruction": "Quel est le statut actuel du Club Design & Photography?",
         "response": "Inactif"
-    },
-    {
-        "instruction": "Quel est le nom du club?",
-        "response": "Club d'astronomie"
     },
     {
         "instruction": "Pouvez-vous me donner une description du Club d'astronomie?",
@@ -257,10 +237,6 @@
         "response": "Inactif"
     },
     {
-        "instruction": "Quel est le nom du club?",
-        "response": "Club du Coran"
-    },
-    {
         "instruction": "Pouvez-vous me donner une description du Club du Coran?",
         "response": "Le Club Iqra pour le Saint Coran est un espace scientifique, cognitif et éducatif pour le travail étudiant au sein de la Faculté des Sciences et Technologies de l'Université Abdelmalek Saadi de Tanger, qui est né en octobre 2010 et est un club de jeunes étudiants marocains indépendant de tout parti ou affiliation politique, ainsi que distant et indépendant des différentes factions du mouvement islamique, et ne promeut pas les idées d'un parti ou d'un groupe spécifique, mais appelle à un Islam modéré, « Et aussi Nous avons fait de vous une communauté de justes » Al-Baqarah verset 143. La vision du club est basée sur la volonté de contribuer au renouvellement global de l'activité estudiantine islamique à l'université, en prônant les valeurs de la recherche du savoir et de l'assiduité dans sa réalisation, en renforçant son lien avec la mission d'appel à Allah Tout-Puissant par la sagesse et le bon conseil, en affirmant l'autorité de l'Islam, en soutenant les efforts de rationalisation de l'éveil estudiantin islamique, en affirmant les valeurs du dialogue, de la différence, de la modération et de la citoyenneté, en rejetant la violence, l'extrémisme, et en soutenant les efforts de développement et de renaissance au Maroc."
     },
@@ -295,10 +271,6 @@
     {
         "instruction": "Quel est le statut actuel du Club du Coran?",
         "response": "Actif"
-    },
-    {
-        "instruction": "Quel est le nom du club?",
-        "response": "Club Enactus"
     },
     {
         "instruction": "Pouvez-vous me donner une description du Club Enactus?",
@@ -337,10 +309,6 @@
         "response": "Actif"
     },
     {
-        "instruction": "Quel est le nom du club?",
-        "response": "Club Biotechnologie"
-    },
-    {
         "instruction": "Pouvez-vous me donner une description du Club Biotechnologie?",
         "response": "Le Club Biotechnologie est une organisation à but non lucratif, c’est une organisation estudiantine qui accueille des événements et offre des services qui permettent aux membres d’explorer le monde des affaires et de la biotechnologie."
     },
@@ -375,10 +343,6 @@
     {
         "instruction": "Quel est le statut actuel du Club Biotechnologie?",
         "response": "Inactif"
-    },
-    {
-        "instruction": "Quel est le nom du club?",
-        "response": "Future Leaders"
     },
     {
         "instruction": "Pouvez-vous me donner une description du club Future Leaders?",
@@ -421,10 +385,6 @@
         "response": "Inctif"
     },
     {
-        "instruction": "Quel est le nom du club?",
-        "response": "Club IT Geeks"
-    },
-    {
         "instruction": "Pouvez-vous me donner une description du club IT Geeks?",
         "response": "IT Geeks est un club agréé par la faculté des sciences et technologies de Tanger. Fondé en 2022 par six membres fondateurs. Vous êtes passionné par la technologie ? Vous codez ? Vous concevez ? Vous êtes un débogueur ? Si vous avez répondu 'oui' à l'une de ces questions et que vous voulez en savoir plus, rejoignez-nous dès maintenant et ne ratez pas l'occasion."
     },
@@ -459,10 +419,6 @@
     {
         "instruction": "Quel est le statut actuel du club IT Geeks?",
         "response": "Actif"
-    },
-    {
-        "instruction": "Quel est le nom du club?",
-        "response": "Chess Club"
     },
     {
         "instruction": "Pouvez-vous me donner une description du Chess Club?",
