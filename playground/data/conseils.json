@@ -1,0 +1,526 @@
+{
+    "Conseil de l’établissement": [
+        {
+            "Membre": "DIANI Mustapha",
+            "Responsabilité": "Doyen"
+        },
+        {
+            "Membre": "Doyen",
+            "Responsabilité": "Doyen"
+        },
+        {
+            "Membre": "JBILOU Mohammed",
+            "Responsabilité": "Vice Doyen de la Formation"
+        },
+        {
+            "Membre": "OUARDOUZ Mustapha",
+            "Responsabilité": "Vice Doyen de la Recherche et de la coopération"
+        },
+        {
+            "Membre": "BIHRI Hassan",
+            "Responsabilité": "SG chargé du secrétariat du conseil"
+        },
+        {
+            "Membre": "AJDOUR Mounia",
+            "Responsabilité": "Chef du département de Physique"
+        },
+        {
+            "Membre": "CHABBI Mohamed",
+            "Responsabilité": "Chef du département de Génie Chimique"
+        },
+        {
+            "Membre": "EL HALIMI Rachid",
+            "Responsabilité": "Chef du département des Mathématiques"
+        },
+        {
+            "Membre": "EL BRAK Mohamed",
+            "Responsabilité": "Chef du département de Génie Informatique"
+        },
+        {
+            "Membre": "BOULAASSAL Hakim",
+            "Responsabilité": "Chef du département des Sciences de la Terre"
+        },
+        {
+            "Membre": "HADJ BARAKA Ibrahim",
+            "Responsabilité": "Chef du département de Génie Électrique"
+        },
+        {
+            "Membre": "ELAYACHI Ilham",
+            "Responsabilité": "Chef du département de Génie Mécanique"
+        },
+        {
+            "Membre": "OUCHEN Mohamed",
+            "Responsabilité": "Chef du département de Langue et Communication"
+        },
+        {
+            "Membre": "HASSANI ZERROUK Mounir",
+            "Responsabilité": "Chef du département des Sciences de la Vie"
+        },
+        {
+            "Membre": "AOUNI Abdesamad",
+            "Responsabilité": "Représentant des P.E.S"
+        },
+        {
+            "Membre": "BOUASSAB Abderrahman",
+            "Responsabilité": "Représentant des P.E.S"
+        },
+        {
+            "Membre": "EL METOUI Mustapha",
+            "Responsabilité": "Représentant des P.E.S"
+        },
+        {
+            "Membre": "EN-NAIMI El Mokhtar",
+            "Responsabilité": "Représentant des P.E.S"
+        },
+        {
+            "Membre": "DERFOUFI Soufiane",
+            "Responsabilité": "Représentant des P.H"
+        },
+        {
+            "Membre": "EL MERZGUIOUI Mhamed",
+            "Responsabilité": "Représentant des P.H"
+        },
+        {
+            "Membre": "JEBARI HASSANI Khalid",
+            "Responsabilité": "Représentant des P.H"
+        },
+        {
+            "Membre": "ZANOUNI Mohamed",
+            "Responsabilité": "Représentant des P.H"
+        },
+        {
+            "Membre": "BOUAYAD Nouredin",
+            "Responsabilité": "Représentant des P.A"
+        },
+        {
+            "Membre": "BOUZID Saida",
+            "Responsabilité": "Représentant des P.A"
+        },
+        {
+            "Membre": "FIKRI BENBRAHIM Chahinaze",
+            "Responsabilité": "Représentant des P.A"
+        },
+        {
+            "Membre": "KHALI ISSA Sanae",
+            "Responsabilité": "Représentant des P.A"
+        },
+        {
+            "Membre": "EL MAMOUN Abdellah",
+            "Responsabilité": "Représentant des Personnels Administratifs et Techniques"
+        },
+        {
+            "Membre": "MAAREF Abdelkader",
+            "Responsabilité": "Représentant des Personnels Administratifs et Techniques"
+        },
+        {
+            "Membre": "EZ-ZHAR EL IDRISSI Mohammed Yassine",
+            "Responsabilité": "Représentant des étudiants"
+        },
+        {
+            "Membre": "JAYED Youssef",
+            "Responsabilité": "Représentant des étudiants"
+        }
+    ],
+    "Commission Scientifique": [
+        {
+            "Membre": "DIANI Mustapha",
+            "Responsabilité": "Doyen"
+        },
+        {
+            "Membre": "OUARDOUZ Mustapha",
+            "Responsabilité": "Vice Doyen de la Recherche et de la coopération"
+        },
+        {
+            "Membre": "JBILOU Mohammed",
+            "Responsabilité": "Vice Doyen de la Formation"
+        },
+        {
+            "Membre": "ARHRIB Abdesslam",
+            "Responsabilité": "P.E.S"
+        },
+        {
+            "Membre": "EL HARZLI Mohamed",
+            "Responsabilité": "P.E.S"
+        },
+        {
+            "Membre": "EN-NAIMI El Mokhtar",
+            "Responsabilité": "P.E.S"
+        },
+        {
+            "Membre": "ROSSI Abdelhamid",
+            "Responsabilité": "P.E.S"
+        },
+        {
+            "Membre": "AMHARREF Mina",
+            "Responsabilité": "P.E.S (Désignée)"
+        },
+        {
+            "Membre": "CHAFIK Tarik",
+            "Responsabilité": "P.E.S (Désigné)"
+        },
+        {
+            "Membre": "AJDOUR Mounia",
+            "Responsabilité": "Chef du département de Physique"
+        },
+        {
+            "Membre": "CHABBI Mohamed",
+            "Responsabilité": "Chef du département de Génie Chimique"
+        },
+        {
+            "Membre": "EL HALIMI Rachid",
+            "Responsabilité": "Chef du département des Mathématiques"
+        },
+        {
+            "Membre": "EL BRAK Mohamed",
+            "Responsabilité": "Chef du département de Génie Informatique"
+        },
+        {
+            "Membre": "BOULAASSAL Hakim",
+            "Responsabilité": "Chef du département des Sciences de la Terre"
+        },
+        {
+            "Membre": "HADJ BARAKA Ibrahim",
+            "Responsabilité": "Chef du département de Génie Électrique"
+        },
+        {
+            "Membre": "ELAYACHI Ilham",
+            "Responsabilité": "Chef du département de Génie Mécanique"
+        },
+        {
+            "Membre": "OUCHEN Mohamed",
+            "Responsabilité": "Chef du département de Langue et Communication"
+        },
+        {
+            "Membre": "HASSANI ZERROUK Mounir",
+            "Responsabilité": "Chef du département des Sciences de la Vie"
+        }
+    ],
+    "Commission de la Recherche Scientifique et de Coopération": [
+        {
+            "Membre": "DIANI Mustapha",
+            "Responsabilité": "Doyen"
+        },
+        {
+            "Membre": "OUARDOUZ Mustapha",
+            "Responsabilité": "Vice Doyen de la Recherche et de la coopération"
+        },
+        {
+            "Membre": "JBILOU Mohammed",
+            "Responsabilité": "Vice Doyen de la Formation"
+        },
+        {
+            "Membre": "AJDOUR Mounia",
+            "Responsabilité": "Chef du département de Physique"
+        },
+        {
+            "Membre": "CHABBI Mohamed",
+            "Responsabilité": "Chef du département de Génie Chimique"
+        },
+        {
+            "Membre": "EL HALIMI Rachid",
+            "Responsabilité": "Chef du département des Mathématiques"
+        },
+        {
+            "Membre": "EL BRAK Mohamed",
+            "Responsabilité": "Chef du département de Génie Informatique"
+        },
+        {
+            "Membre": "BOULAASSAL Hakim",
+            "Responsabilité": "Chef du département des Sciences de la Terre"
+        },
+        {
+            "Membre": "HADJ BARAKA Ibrahim",
+            "Responsabilité": "Chef du département de Génie Électrique"
+        },
+        {
+            "Membre": "ELAYACHI Ilham",
+            "Responsabilité": "Chef du département de Génie Mécanique"
+        },
+        {
+            "Membre": "OUCHEN Mohamed",
+            "Responsabilité": "Chef du département de Langue et Communication"
+        },
+        {
+            "Membre": "HASSANI ZERROUK Mounir",
+            "Responsabilité": "Chef du département des Sciences de la Vie"
+        },
+        {
+            "Membre": "AOUNI Abdesamad",
+            "Responsabilité": "Représentant des P.E.S"
+        },
+        {
+            "Membre": "EL METOUI Mustapha",
+            "Responsabilité": "Représentant des P.E.S"
+        },
+        {
+            "Membre": "EN-NAIMI El Mokhtar",
+            "Responsabilité": "Représentant des P.E.S"
+        },
+        {
+            "Membre": "EL MERZGUIOUI Mhamed",
+            "Responsabilité": "Représentant des P.H"
+        },
+        {
+            "Membre": "JEBARI HASSANI Khalid",
+            "Responsabilité": "Représentant des P.H"
+        },
+        {
+            "Membre": "ZANOUNI Mohamed",
+            "Responsabilité": "Représentant des P.H"
+        },
+        {
+            "Membre": "BOUZID Saida",
+            "Responsabilité": "Représentant des P.A"
+        },
+        {
+            "Membre": "FIKRI BENBRAHIM Chahinaze",
+            "Responsabilité": "Représentant des P.A"
+        },
+        {
+            "Membre": "KHALI ISSA Sanae",
+            "Responsabilité": "Représentant des P.A"
+        }
+    ],
+    "Commission Pédagogique": [
+        {
+            "Membre": "DIANI Mustapha",
+            "Responsabilité": "Doyen"
+        },
+        {
+            "Membre": "JBILOU Mohammed",
+            "Responsabilité": "Vice Doyen de la Formation"
+        },
+        {
+            "Membre": "OUARDOUZ Mustapha",
+            "Responsabilité": "Vice Doyen de la Recherche et de la coopération"
+        },
+        {
+            "Membre": "AJDOUR Mounia",
+            "Responsabilité": "Chef du département de Physique"
+        },
+        {
+            "Membre": "CHABBI Mohamed",
+            "Responsabilité": "Chef du département de Génie Chimique"
+        },
+        {
+            "Membre": "EL HALIMI Rachid",
+            "Responsabilité": "Chef du département des Mathématiques"
+        },
+        {
+            "Membre": "BOULAASSAL Hakim",
+            "Responsabilité": "Chef du département des Sciences de la Terre"
+        },
+        {
+            "Membre": "HADJ BARAKA Ibrahim",
+            "Responsabilité": "Chef du département de Génie Électrique"
+        },
+        {
+            "Membre": "ELAYACHI Ilham",
+            "Responsabilité": "Chef du département de Génie Mécanique"
+        },
+        {
+            "Membre": "OUCHEN Mohamed",
+            "Responsabilité": "Chef du département de Langue et Communication"
+        },
+        {
+            "Membre": "HASSANI ZERROUK Mounir",
+            "Responsabilité": "Chef du département des Sciences de la Vie"
+        },
+        {
+            "Membre": "EL BRAK Mohamed",
+            "Responsabilité": "Chef du département de Génie Informatique"
+        },
+        {
+            "Membre": "BOUASSAB Abderrahman",
+            "Responsabilité": "Représentant des P.E.S"
+        },
+        {
+            "Membre": "EL METOUI Mustapha",
+            "Responsabilité": "Représentant des P.E.S"
+        },
+        {
+            "Membre": "EN-NAIMI El Mokhtar",
+            "Responsabilité": "Représentant des P.E.S"
+        },
+        {
+            "Membre": "DERFOUFI Soufiane",
+            "Responsabilité": "Représentant des P.H"
+        },
+        {
+            "Membre": "EL MERZGUIOUI Mhamed",
+            "Responsabilité": "Représentant des P.H"
+        },
+        {
+            "Membre": "JEBARI HASSANI Khalid",
+            "Responsabilité": "Représentant des P.H"
+        },
+        {
+            "Membre": "ZANOUNI Mohamed",
+            "Responsabilité": "Représentant des P.H"
+        },
+        {
+            "Membre": "BOUZID Saida",
+            "Responsabilité": "Représentant des P.A"
+        },
+        {
+            "Membre": "FIKRI BENBRAHIM Chahinaze",
+            "Responsabilité": "Représentant des P.A"
+        },
+        {
+            "Membre": "KHALI ISSA Sanae",
+            "Responsabilité": "Représentant des P.A"
+        },
+        {
+            "Membre": "JAYED Youssef",
+            "Responsabilité": "Représentant des étudiants"
+        }
+    ],
+    "Commission d’Activités Culturelles et Sportives": [
+        {
+            "Membre": "DIANI Mustapha",
+            "Responsabilité": "Doyen"
+        },
+        {
+            "Membre": "JBILOU Mohammed",
+            "Responsabilité": "Vice Doyen de la Formation"
+        },
+        {
+            "Membre": "OUARDOUZ Mustapha",
+            "Responsabilité": "Vice Doyen de la Recherche et de la coopération"
+        },
+        {
+            "Membre": "AJDOUR Mounia",
+            "Responsabilité": "Chef du département de Physique"
+        },
+        {
+            "Membre": "CHABBI Mohamed",
+            "Responsabilité": "Chef du département de Génie Chimique"
+        },
+        {
+            "Membre": "EL HALIMI Rachid",
+            "Responsabilité": "Chef du département des Mathématiques"
+        },
+        {
+            "Membre": "EL BRAK Mohamed",
+            "Responsabilité": "Chef du département de Génie Informatique"
+        },
+        {
+            "Membre": "BOULAASSAL Hakim",
+            "Responsabilité": "Chef du département des Sciences de la Terre"
+        },
+        {
+            "Membre": "HADJ BARAKA Ibrahim",
+            "Responsabilité": "Chef du département de Génie Électrique"
+        },
+        {
+            "Membre": "ELAYACHI Ilham",
+            "Responsabilité": "Chef du département de Génie Mécanique"
+        },
+        {
+            "Membre": "OUCHEN Mohamed",
+            "Responsabilité": "Chef du département de Langue et Communication"
+        },
+        {
+            "Membre": "HASSANI ZERROUK Mounir",
+            "Responsabilité": "Chef du département des Sciences de la Vie"
+        },
+        {
+            "Membre": "JAYED Youssef",
+            "Responsabilité": "Représentant des étudiants"
+        }
+    ],
+    "Commission de suivi du budget": [
+        {
+            "Membre": "DIANI Mustapha",
+            "Responsabilité": "Doyen"
+        },
+        {
+            "Membre": "JBILOU Mohammed",
+            "Responsabilité": "Vice Doyen de la Formation"
+        },
+        {
+            "Membre": "OUARDOUZ Mustapha",
+            "Responsabilité": "Vice Doyen de la Recherche et de la coopération"
+        },
+        {
+            "Membre": "AJDOUR Mounia",
+            "Responsabilité": "Chef du département de Physique"
+        },
+        {
+            "Membre": "CHABBI Mohamed",
+            "Responsabilité": "Chef du département de Génie Chimique"
+        },
+        {
+            "Membre": "EL HALIMI Rachid",
+            "Responsabilité": "Chef du département des Mathématiques"
+        },
+        {
+            "Membre": "BOULAASSAL Hakim",
+            "Responsabilité": "Chef du département des Sciences de la Terre"
+        },
+        {
+            "Membre": "HADJ BARAKA Ibrahim",
+            "Responsabilité": "Chef du département de Génie Électrique"
+        },
+        {
+            "Membre": "ELAYACHI Ilham",
+            "Responsabilité": "Chef du département de Génie Mécanique"
+        },
+        {
+            "Membre": "OUCHEN Mohamed",
+            "Responsabilité": "Chef du département de Langue et Communication"
+        },
+        {
+            "Membre": "HASSANI ZERROUK Mounir",
+            "Responsabilité": "Chef du département des Sciences de la Vie"
+        },
+        {
+            "Membre": "EL BRAK Mohamed",
+            "Responsabilité": "Chef du département de Génie Informatique"
+        },
+        {
+            "Membre": "BOUASSAB Abderrahman",
+            "Responsabilité": "Représentant des P.E.S"
+        },
+        {
+            "Membre": "EL METOUI Mustapha",
+            "Responsabilité": "Représentant des P.E.S"
+        },
+        {
+            "Membre": "EN-NAIMI El Mokhtar",
+            "Responsabilité": "Représentant des P.E.S"
+        },
+        {
+            "Membre": "DERFOUFI Soufiane",
+            "Responsabilité": "Représentant des P.H"
+        },
+        {
+            "Membre": "EL MERZGUIOUI Mhamed",
+            "Responsabilité": "Représentant des P.H"
+        },
+        {
+            "Membre": "JEBARI HASSANI Khalid",
+            "Responsabilité": "Représentant des P.H"
+        },
+        {
+            "Membre": "ZANOUNI Mohamed",
+            "Responsabilité": "Représentant des P.H"
+        },
+        {
+            "Membre": "BOUZID Saida",
+            "Responsabilité": "Représentant des P.A"
+        },
+        {
+            "Membre": "FIKRI BENBRAHIM Chahinaze",
+            "Responsabilité": "Représentant des P.A"
+        },
+        {
+            "Membre": "KHALI ISSA Sanae",
+            "Responsabilité": "Représentant des P.A"
+        },
+        {
+            "Membre": "MAAREF Abdelkader",
+            "Responsabilité": "Représentant des Personnels Administratifs et Techniques"
+        }
+    ]
+}
