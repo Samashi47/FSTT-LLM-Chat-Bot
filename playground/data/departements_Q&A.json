@@ -1,0 +1,74 @@
+[
+    {
+        "instruction": "Qui est le chef du département GÉNIE INFORMATIQUE?",
+        "response": "Pr. EL BRAK Mohamed"
+    },
+    {
+        "instruction": "Quel est l'email du département GÉNIE INFORMATIQUE?",
+        "response": "melbrak@uae.ac.ma"
+    },
+    {
+        "instruction": "Qui est le chef du département GÉNIE CHIMIQUE?",
+        "response": "Pr. CHABBI Mohamed"
+    },
+    {
+        "instruction": "Quel est l'email du département GÉNIE CHIMIQUE?",
+        "response": "mchabbi@uae.ac.ma"
+    },
+    {
+        "instruction": "Qui est le chef du département SCIENCES DE LA TERRE?",
+        "response": "Pr. BOULAASSAL Hakim"
+    },
+    {
+        "instruction": "Quel est l'email du département SCIENCES DE LA TERRE?",
+        "response": "h.boulaassal@uae.ac.ma"
+    },
+    {
+        "instruction": "Qui est le chef du département GÉNIE MÉCANIQUE?",
+        "response": "Pr. ELAYACHI Ilham"
+    },
+    {
+        "instruction": "Quel est l'email du département GÉNIE MÉCANIQUE?",
+        "response": "i.elayachi@uae.ac.ma"
+    },
+    {
+        "instruction": "Qui est le chef du département SCIENCES DE LA VIE?",
+        "response": "Pr. HASSANI ZERROUK Mounir"
+    },
+    {
+        "instruction": "Quel est l'email du département SCIENCES DE LA VIE?",
+        "response": "mhassani@uae.ac.ma"
+    },
+    {
+        "instruction": "Qui est le chef du département GÉNIE ELECTRIQUE?",
+        "response": "Pr. HADJ BARAKA Ibrahim"
+    },
+    {
+        "instruction": "Quel est l'email du département GÉNIE ELECTRIQUE?",
+        "response": "ihadjbaraka@uae.ac.ma"
+    },
+    {
+        "instruction": "Qui est le chef du département TEC?",
+        "response": "Pr. OUCHEN MOHAMED"
+    },
+    {
+        "instruction": "Quel est l'email du département TEC?",
+        "response": "mouchen@uae.ac.ma"
+    },
+    {
+        "instruction": "Qui est le chef du département PHYSIQUE?",
+        "response": "Pr. AJDOUR Mounia"
+    },
+    {
+        "instruction": "Quel est l'email du département PHYSIQUE?",
+        "response": "majdour@uae.ac.ma"
+    },
+    {
+        "instruction": "Qui est le chef du département MATHÉMATIQUES?",
+        "response": "Pr. EL HALIMI RACHID"
+    },
+    {
+        "instruction": "Quel est l'email du département MATHÉMATIQUES?",
+        "response": "r.elhalimi@uae.ac.ma"
+    }
+]
