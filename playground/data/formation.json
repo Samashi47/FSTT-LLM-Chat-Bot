@@ -1,0 +1,2180 @@
+{
+    "DEUST": [
+        {
+            "formation": "MATHÉMATIQUES-INFORMATIQUE-PHYSIQUE-CHIMIE",
+            "objectif": "\nL’objectif du tronc commun MIPC est de donner à l’étudiant une base solide dans les matières scientifiques (physique, chimie et mathématiques etc…) qui vont lui permettre de continuer ses études dans les semestres S5 et S6 des cycles licences qui émanent de ce parcours tout en gardant la possibilité de se réorienter vers d’autres troncs communs comme MIP et GE/GM.\nÉgalement, ce tronc commun permet à l’étudiant de postuler à des concours d’accès aux cycles ingénieurs dispensés dans notre établissement et aussi à des concours nationaux ou internationaux des écoles d’ingénieurs.\n",
+            "semesters": {
+                "Semestre 1": {
+                    "Module 1": "Circuits électriques et électroniques",
+                    "Module 2": "Electricité",
+                    "Module 3": "Analyse 1 : Fonction d’une variable réelle",
+                    "Module 4": "Algèbre 1 : Polynômes et espaces vectoriels",
+                    "Module 5": "Algorithmique et Programmation 1",
+                    "Module 6": "Langues et Communication -LC1"
+                },
+                "Semestre 2": {
+                    "Module 1": "Thermodynamique",
+                    "Module 2": "Mécanique du point et Optique géométrique",
+                    "Module 3": "Analyse 2 : Calcul intégral et équations différentielles",
+                    "Module 4": "Algèbre 2 : Réduction des endomorphismes et formes quadratiques",
+                    "Module 5": "Structure de la matière",
+                    "Module 6": "Langues et Communication –LC2"
+                },
+                "Semestre 3": {
+                    "Module 1": "Électromagnétisme",
+                    "Module 2": "Analyse 3 : Fonctions de plusieurs variables et calcul des intégrales multiples",
+                    "Module 3": "Statistique descriptive/probabilités",
+                    "Module 4": "Algorithmique et Programmation 2",
+                    "Module 5": "Réactivité chimique",
+                    "Module 6": "LC3"
+                },
+                "Semestre 4": {
+                    "Module 1": "Mécanique des Solides",
+                    "Module 2": "Mécanique quantique et Relativité",
+                    "Module 3": "Analyse 4: Séries de fonctions et calcul des résidus",
+                    "Module 4": "Structure de données en C",
+                    "Module 5": "Chimie organique 1",
+                    "Module 6": "Chimie minérale 1"
+                }
+            },
+            "competence": "\n",
+            "email_coord": "mjbilou@uae.ac.ma",
+            "name_coord": "Pr.Jbilou Mohammed"
+        },
+        {
+            "formation": "MATHÉMATIQUE-INFORMATIQUE-PHYSIQUE",
+            "objectif": "\nL’objectif du tronc commun MIP est de donner à l’étudiant une base solide dans les matières scientifiques (physique, chimie et mathématiques etc…) qui vont lui permettre de continuer ses études dans les semestres S5 et S6 des cycles licences qui émanent de ce parcours tout en gardant la possibilité de se réorienter vers d’autres troncs communs comme MIPC et GE/GM.\nÉgalement, ce tronc commun permet à l’étudiant de postuler à des concours d’accès aux cycles ingénieurs dispensés dans notre établissement et aussi à des concours nationaux ou internationaux des écoles d’ingénieurs.\n",
+            "semesters": {
+                "Semestre 1": {
+                    "Module 1": "Circuits électriques et électroniques",
+                    "Module 2": "Electricité",
+                    "Module 3": "Analyse 1 : Fonction d’une variable réelle",
+                    "Module 4": "Algèbre 1 : Polynômes et espaces vectoriels",
+                    "Module 5": "Algorithmique et Programmation 1",
+                    "Module 6": "Langues et Communication -LC1"
+                },
+                "Semestre 2": {
+                    "Module 1": "Thermodynamique",
+                    "Module 2": "Mécanique du point et Optique géométrique",
+                    "Module 3": "Analyse 2 : Calcul intégral et équations différentielles",
+                    "Module 4": "Algèbre 2 : Réduction des endomorphismes et formesquadratiques",
+                    "Module 5": "Structure de la matière",
+                    "Module 6": "Langues et Communication –LC2"
+                },
+                "Semestre 3": {
+                    "Module 1": "Mécanique des Solides",
+                    "Module 2": "Analyse 3 : Fonctions de plusieurs variables et calcul des intégrales multiples",
+                    "Module 3": "Statistique descriptive/probabilités",
+                    "Module 4": "Algorithmique et Programmation 2",
+                    "Module 5": "Réactivité chimique",
+                    "Module 6": "Langues et Communication –LC3"
+                },
+                "Semestre 4": {
+                    "Module 1": "Électromagnétisme",
+                    "Module 2": "Mécanique quantique et Relativité",
+                    "Module 3": "Analyse 4: Séries de fonctions et calcul des résidus",
+                    "Module 4": "Structure de données en C",
+                    "Module 5": "Chimie organique 1",
+                    "Module 6": "Chimie minérale 1"
+                }
+            },
+            "competence": "\n",
+            "email_coord": "mjbilou@uae.ac.ma",
+            "name_coord": "Pr.Jbilou Mohammed"
+        },
+        {
+            "formation": "GÉNIE ELECTRIQUE – GÉNIE MÉCANIQUE",
+            "objectif": "\nL’objectif du tronc commun GE/GM est de donner à l’étudiant une base solide en matières scientifiques (physique, chimie et mathématiques etc…) et techniques (Electrotechnique, Automatique, mécanique et instrumentation et métrologie) qui vont lui permet de continuer ses études en licences qui émanent de ce parcours tout en gardant la possibilité de se réorienter à d’autres licences des autres troncs communs comme MIP et MIPC.\nÉgalement, ce tronc commun permet à l’étudiant de postuler à des concours nationaux ou internationaux des écoles d’ingénieurs.\n",
+            "semesters": {
+                "Semestre 1": {
+                    "Module 1": "Circuits électriques et électroniques",
+                    "Module 2": "Electricité",
+                    "Module 3": "Analyse 1 : Fonction d’une variable réelle",
+                    "Module 4": "Algèbre 1 : Polynômes et espaces vectoriels",
+                    "Module 5": "Algorithmique et Programmation 1",
+                    "Module 6": "Langues et Communication -LC1"
+                },
+                "Semestre 2": {
+                    "Module 1": "Thermodynamique",
+                    "Module 2": "Mécanique du point et Optique géométrique",
+                    "Module 3": "Analyse 2 : Calcul intégral et équations différentielles",
+                    "Module 4": "Algèbre 2 : Réduction des endomorphismes et formesquadratiques",
+                    "Module 5": "Structure de la matière",
+                    "Module 6": "Langues et Communication –LC2"
+                },
+                "Semestre 3": {
+                    "Module 1": "Mécanique des Solides",
+                    "Module 2": "Electronique",
+                    "Module 3": "Statistique descriptive/probabilités",
+                    "Module 4": "Algorithmique et Programmation 2",
+                    "Module 5": "Métrologie et instrumentation",
+                    "Module 6": "Gestion"
+                },
+                "Semestre 4": {
+                    "Module 1": "Electrotechnique",
+                    "Module 2": "Automatique",
+                    "Module 3": "Fabrication mécanique",
+                    "Module 4": "Construction mécanique",
+                    "Module 5": "Informatique 3",
+                    "Module 6": "Analyse numérique"
+                }
+            },
+            "competence": "\n",
+            "email_coord": "mjbilou@uae.ac.ma",
+            "name_coord": "Pr.Jbilou Mohammed"
+        },
+        {
+            "formation": "BIOLOGIE-CHIMIE-GEOLOGIE",
+            "objectif": "\n\nLe tronc commun BCG est un cursus qui comporte un ensemble de modules pris dans plusieurs champs disciplinaires et ayant pour objectif de faire acquérir des connaissances, des aptitudes et des compétences. Donner à l’étudiant les outils méthodologique pour qu’il puisse organiser son travail et développer un esprit de synthèse, de rigueur et d’initiative.\nL’objectif de cette formation et de donner à l’étudiant les possibilités d'orienter sa carrière vers les licences de chimie, de biologie et de géologie.\nÉgalement, ce tronc commun permet à l’étudiant de postuler à des concours d’accès aux cycles ingénieurs de notre établissement ainsi qu’au concours nationaux ou internationaux des écoles d’ingénieurs.\n",
+            "semesters": {
+                "Semestre 1": {
+                    "Module 1": "Biologie cellulaire",
+                    "Module 2": "Optique et Radioactivité",
+                    "Module 3": "Cosmologie & Géodynamique interne",
+                    "Module 4": "Structure de la matière",
+                    "Module 5": "Algèbre",
+                    "Module 6": "Langues et Communication -LC1"
+                },
+                "Semestre 2": {
+                    "Module 1": "Biologie animale",
+                    "Module 2": "Thermodynamique/ Mécanique des fluides",
+                    "Module 3": "Géodynamique externe",
+                    "Module 4": "Réactivité chimique",
+                    "Module 5": "Analyse",
+                    "Module 6": "Langues et Communication –LC2"
+                },
+                "Semestre 3": {
+                    "Module 1": "Biologie végétale",
+                    "Module 2": "Électricité",
+                    "Module 3": "Stratigraphie & Paléo-environnement",
+                    "Module 4": "Chimie Organique 1",
+                    "Module 5": "Chimie Minérale 1",
+                    "Module 6": "Probabilités/Statistiques"
+                },
+                "Semestre 4": {
+                    "Module 1": "Biochimie structurale",
+                    "Module 2": "Microbiologie",
+                    "Module 3": "Chimie organique 2/ chimie minérale 2",
+                    "Module 4": "Biochimie métabolique",
+                    "Module 5": "Base de données",
+                    "Module 6": "Langues et Communication –LC3"
+                }
+            },
+            "competence": "\n",
+            "email_coord": "n.chouaibi@uae.ac.ma",
+            "name_coord": "Pr.Chouaibi Nour Eddine"
+        }
+    ],
+    "Licence": [
+        {
+            "formation": "LST : Analytique des données",
+            "objectif": "La Licence Science et Techniques en analytique des données permet aux étudiants de doter de compétences en matière d'outils informatiques, destechniques et des méthodes statistiques pour permettre d’organiser, de synthétiser et de traduire efficacement les données métier d’uneorganisation. L'étudiant doit être en mesure d'apporter un appui analytique à la conduite d'exploration et à l'analyse complexe de données. ",
+            "semesters": {
+                "Semestre 5": {
+                    "Module 1": "Mathématiques pour la science des données",
+                    "Module 2": "Structures des données avancées et théorie des graphes",
+                    "Module 3": "Fondamentaux des bases de données",
+                    "Module 4": "Algorithmique avancée et programmation",
+                    "Module 5": "Développement WEB",
+                    "Module 6": "Développement personnel et intelligence émotionnelle (Soft skills)"
+                },
+                "Semestre 6": {
+                    "Module 1": "Analyse et fouille de données",
+                    "Module 2": "Systèmes et réseaux",
+                    "Module 3": "Ingénierie des données",
+                    "Module 4": "PFE"
+                }
+            },
+            "competence": "Masters en sciences de données: fouille de données, business analytiques, blockchain,Masters orientés e-Technologies: e-Business, e-Administration et e-LogistiqueFormations d’Ingénieurs dans une école d’ingénieurs à l’issue de la deuxième ou de la troisième année de licenceData scientistTechnicien supérieur en SGBD R : installation, configuration et administration des SGBDWebMaster et développeur de sites web dynamiquesIntégration du monde du travail dans les entreprises et les bureaux d’études ",
+            "email_coord": "wbaida@uae.ac.ma",
+            "name_coord": "Pr.BAIDA Ouafae"
+        },
+        {
+            "formation": "LST: Biotechnologies",
+            "objectif": "L’objectif de la licence Biotechnologie consiste à former des étudiants dans les différents champs disciplinaires de la biologie moderne et de permettre aux étudiants d’acquérir de solides connaissances scientifiques pour une réelle compréhension du Vivant. L’enseignement est conçu pour allier concepts fondamentaux et apprentissage des outils méthodologiques. Il est également conçu pour étendre les compétences au-delà du domaine de la biologie, en particulier vers le monde économique. Ce parcours de licence vise donc à :Donner des bases fondamentales et des techniques dans le domaine de la biologie moléculaire, de la génétique, de l’immunologie, du génie microbiologique, de l’enzymologie, de la physiologie animale ou végétale, de la biotechnologie animale ou végétale, de l’Ecologie appliquée à la biologie et de la lutte biologique.Sensibiliser les étudiants aux évolutions technologiques des disciplines concernées.Permettre aux étudiants d'accéder à un Master.Intégrer la réflexion scientifique aux problèmes de société. ",
+            "semesters": {
+                "Semestre 5": {
+                    "Module 1": "Biologie moléculaire",
+                    "Module 2": "Génétique",
+                    "Module 3": "Enzymologie",
+                    "Module 4": "Immunologie et immunotechnologie",
+                    "Module 5": "Génie Microbiologique",
+                    "Module 6": "Techniques appliquées à la Biologie"
+                },
+                "Semestre 6 ( Option : végétale)": {
+                    "Module 1": "Valorisation des ressources végétales et génie des biomolécules",
+                    "Module 2": "Physiologie végétale",
+                    "Module 3": "Biotechnologie végétale",
+                    "Module 4": "Projet de fin d’études"
+                },
+                "Semestre 6 ( Option : Animale)": {
+                    "Module 1": "Ecologie appliquée à la biologie et lutte biologique",
+                    "Module 2": "Physiologie Animale",
+                    "Module 3": "Biotechnologie Animale",
+                    "Module 4": "Projet de fin d’études"
+                }
+            },
+            "competence": "                Les métiers auxquels peuvent prétendre les diplômés de la Licence Biotechnologie sont :Les métiers de l'enseignement primaire, secondaire.Les métiers de la recherche appliquée et du développement dans les secteurs des biotechnologies, de l'agro-  alimentaire, de l'industrie pharmaceutique,...Les métiers de la vente (délégués médicaux, technico-commerciaux, entretien d'appareillages scientifiques...).Les métiers du conseil (consultants, experts auprès de cabinets juridiques ou d'institutions).Les métiers du journalisme scientifique. ",
+            "email_coord": "nbouayad@uae.ac.ma",
+            "name_coord": "Pr.Bouayad Noureddin"
+        },
+        {
+            "formation": "LST: Design Industriel et Productique",
+            "objectif": "Le Lauréat de Licence en Design et Productique en Génie Mécanique, à travers sa formation technique et scientifique, sera en mesure de suivre et d’intervenir dans toutes les étapes de Design, de réalisation, de Contrôle et de suivi du produit tout au long de son cycle de vie. ",
+            "semesters": {
+                "Semestre 5": {
+                    "Module 1": "Choix des matériaux, dimensionnement et essais",
+                    "Module 2": "Eléments de machines",
+                    "Module 3": "Machines industrielles",
+                    "Module 4": "Management Industriel",
+                    "Module 5": "CAO : Conception Assistée par Ordinateur",
+                    "Module 6": "Métrologie et Contrôle de Qualité"
+                },
+                "Semestre 6": {
+                    "Module 1": "FAO : Fabrication Assistée par Ordinateur",
+                    "Module 2": "Prototypage Rapide",
+                    "Module 3": "Innovation et créativité",
+                    "Module 4": "Projet de fin d’études"
+                }
+            },
+            "competence": "Planification et ordonnancement des opérations de fabrication ;Participation à l’élaboration d’un cahier de charge de produit mécanique ;Gestion de la production mécanique ;Maintenance des équipements mécaniques (Roulements, embrayages, pompes, …) ;Contrôle de la conformité des produits dans les Laboratoires et Département qualité : Spécification géométriques        et d’état de surface, Essais Mécaniques, Traitements thermiques des matériaux ; Intégration des Services Techniques d’Achat de vente et après-vente. ",
+            "email_coord": "a.mesbahi@uae.ac.ma",
+            "name_coord": "Pr.Elmesbahi Abdelilah"
+        },
+        {
+            "formation": "LST: Energies Renouvelables",
+            "objectif": "Approfondir les connaissances scientifiques et techniques en énergies renouvelables. Ce domaine inclut l’énergie solaire, éolienne, géothermique, hydraulique, thermoélectrique, L’énergie de la biomasse, le stockage de l’énergie, l’efficacité énergétique.Elle permettra aux étudiants de pouvoir créer leur entreprise pour l’installation et l’entretien des mini installations photovoltaïques, éolienne, donner du conseil au niveau EnR, ou intégrer des cycles d’ingénieurs ou de Master spécialisés. ",
+            "semesters": {
+                "Semestre 5": {
+                    "Module 1": "Calcul Scientifique/Traitement du Signal",
+                    "Module 2": "Mécanique des Fluides/Transferts Thermiques",
+                    "Module 3": "Génie des Matériaux",
+                    "Module 4": "Convertisseurs Statiques d’Énergie Électrique",
+                    "Module 5": "Électrotechnique et Machines Électriques",
+                    "Module 6": "Production des Énergies Renouvelables"
+                },
+                "Semestre 6": {
+                    "Module 1": "Énergie Solaire",
+                    "Module 2": "Énergie Éolienne",
+                    "Module 3": "Maintenance et fiabilité/Gestion de projets- Législation",
+                    "Module 4": "Projet de fin d’études"
+                }
+            },
+            "competence": "Lors de cette formation, les étudiants auront à étudier les différentes formes de production des énergies renouvelables (EnR). Ils apprendront les fondements scientifiques et techniques sur l’énergie solaire (photovoltaïque, thermique), éolien, hydraulique, géothermique, l’énergie de biomasse et déchets, le stockage d’énergie, et l’efficacité énergétique. ",
+            "email_coord": "mahachad@uae.ac.ma",
+            "name_coord": "Pr.Ahachad Mohammed"
+        },
+        {
+            "formation": "LST: Génie Civil",
+            "objectif": "Former les étudiants aux sciences mécaniques en général et au génie civil en particulier ;Doter les étudiants des outils théoriques, numériques et pratiques pour les applications de la Mécanique aux technologies du Génie Civil et aux techniques de la mécanique des structures ;Dispenser une formation fondamentale en mécanique des structures et en Génie Civil leur permettant la poursuite des études. ",
+            "semesters": {
+                "Semestre 5": {
+                    "Module 1": "Mécanique des milieux continus et Outils Techniques en Génie Civil",
+                    "Module 2": "Résistance des matériaux",
+                    "Module 3": "Béton armé",
+                    "Module 4": "Mécanique des sols et notions de base de la géotechnique",
+                    "Module 5": "Matériaux de construction",
+                    "Module 6": "Méthodes numériques et calcul scientifique"
+                },
+                "Semestre 6": {
+                    "Module 1": "Analyse et calcul des structures",
+                    "Module 2": "Électricité du bâtiment",
+                    "Module 3": "Hydraulique et Assainissement",
+                    "Module 4": "Projet de fin d’études"
+                }
+            },
+            "competence": "La licence Génie Civil conduit vers un Master ou une formation d’ingénieur. Elle permet également                   une insertion professionnelle, grâce aux différentes compétences acquises durant ce parcours.Cette insertion peut être dans des secteurs d’activités, comme des bureaux d’études ‘en Génie Civil, en environnement, en aménagement… etc), des entreprises du secteur du bâtiment et des travaux publics, des cabinets de maîtrise d’œuvre, des services de maîtrise d’œuvre, des services d’ouvrages ou de bureaux de contrôle technique. ",
+            "email_coord": "mmabssout@uae.ac.ma",
+            "name_coord": "Pr.MABSSOUT Mokhtar"
+        },
+        {
+            "formation": "LST 8 : Génie des Procédés",
+            "objectif": "Formation visant à donner aux étudiants des bases solides en chimie, physique, mathématiques, informatique et de gestion des procédés industriels. Les lauréats de la formation seront capables de conduire des ateliers de fabrication continue et séquentielle, de manager une équipe, de connaître et de prendre en compte les contraintes de sécurité, d’environnement et de l’organisation scientifique du travail. ",
+            "semesters": {
+                "Semestre 5": {
+                    "Module 1": "Calculs des réacteurs",
+                    "Module 2": "Bilan Matière et Énergie",
+                    "Module 3": "Opérations Unitaires",
+                    "Module 4": "Mécanique des fluides et Hydraulique",
+                    "Module 5": "Optimisation des Procédés Industrielle",
+                    "Module 6": "Modélisation des processus et Régulation des Procédés"
+                },
+                "Semestre 6": {
+                    "Module 1": "Matériaux et Industrie chimique",
+                    "Module 2": "Procédés de Dépollution",
+                    "Module 3": "Valorisation des Ressources",
+                    "Module 4": "Projet de fin d’études"
+                }
+            },
+            "competence": "Mettre l’étudiant au cœur des problèmes technologique réel qu’il devra résoudre.Le futur lauréat doit convaincre le secteur industriel et laboratoires de ses capacités scientifiques, multidisciplinaires, décisionnelles et organisationnelles. ",
+            "email_coord": "k.azaar@uae.ac.ma",
+            "name_coord": "Pr.AZAAR Khalid"
+        },
+        {
+            "formation": "LST: Génie Electrique Option: GénieElectrique & Système Industriel",
+            "objectif": "L’objectif de la licence Génie électrique est de donner aux étudiants les éléments de base en physique mathématique et informatique et de leur apporter une formation solide dans les domaines du génie électrique, en particulier en électronique électrotechnique. Ce qui leur permettra de préparer un master à dominante ingénierie EEA ou d’intégrer les grandes écoles d’ingénieurs. Ils pourront aussi se présenter aux différentes fonctions publiques ou privées exigeant le niveau de la licence.Les étudiants sont également initiés à la vie professionnelle par le biais de stages au sein des entreprises.",
+            "semesters": {
+                "Semestre 5": {
+                    "Module 1": "Traitement de signal & Télécommunication",
+                    "Module 2": "Actionneurs industriels",
+                    "Module 3": "Électronique et systèmes",
+                    "Module 4": "Automatismes",
+                    "Module 5": "Électronique de puissance",
+                    "Module 6": "Gestion de maintenance et sûreté de fonctionnement"
+                },
+                "Semestre 6": {
+                    "Module 1": "Management du projet",
+                    "Module 2": "Microcontrôleur microprocesseur",
+                    "Module 3": "Réseaux et base de données",
+                    "Module 4": "Projet de fin d’études"
+                }
+            },
+            "competence": "Elles sont complémentaires et transversales à beaucoup de domaines :Électronique de contrôle, de mesure et de commande.Traitement et analyse du signal.Principe de fonctionnement et le domaine d’application des machines électriques.Électronique de puissance.Automates programmables.Techniques de commande de processus industriels.Systèmes à microprocesseur.Réseaux informatique.Bases de données.Gestion de la maintenance. ",
+            "email_coord": "zmekrini@uae.ac.ma",
+            "name_coord": "Pr. Mekrini Zineb"
+        },
+        {
+            "formation": "LST : Génie Industriel",
+            "objectif": "Cette formation pluridisciplinaire garantit l’ouverture d’esprit nécessaire pour appréhender et dominer les problèmes concernant un projet industriel dont l’aspect technique ne constitue qu’une partie parmi d’autres.L’étudiant disposant d’une licence Sciences et techniques Génie Industriel pourra poursuivre ses études supérieures dans les différentes grandes écoles ou bien en Master Science et Techniques. Il pourra aussi intégrer le tissu industriel essentiellement les PME/PMI.",
+            "semesters": {
+                "Semestre 5": {
+                    "Module 1": "Machines Hydrauliques",
+                    "Module 2": "Gestion de production",
+                    "Module 3": "Machines Thermiques",
+                    "Module 4": "Gestion de la qualité",
+                    "Module 5": "Gestion de la maintenance et sureté de fonctionnement",
+                    "Module 6": "Matériaux et RDM"
+                },
+                "Semestre 6": {
+                    "Module 1": "Logistique et Supply Chain Management",
+                    "Module 2": "Optimisation des Systèmes",
+                    "Module 3": "Management de projet",
+                    "Module 4": "Projet de fin d’études"
+                }
+            },
+            "competence": "Métiers de l’ingénieur : Production ; Méthodes ; Maintenance ; Management de la qualité.Poursuite des études en Master ou en cycle d’ingénieur. ",
+            "email_coord": "helmramet@uae.ac.ma",
+            "name_coord": "Pr.Hassan El"
+        },
+        {
+            "formation": "LST: Génie Informatique",
+            "objectif": "Avoir une culture de base scientifique ;Acquérir une base solide dans les axes majeurs et fondamentaux de la discipline informatique : Algorithmique, Programmation, Bases de Données, Technologies Web, Systèmes d’Exploitation et Réseaux Informatiques, ... ;Développer un savoir-faire technique en informatique : technologie objet, informatique distribuée, architectures client-serveur et n-tiers, applications hétérogènes, … ;  ",
+            "semesters": {
+                "Semestre 5": {
+                    "Module 1": "Programmation Orientée Objet en C++",
+                    "Module 2": "Bases de Données",
+                    "Module 3": "Architecture C/S et Développement Web Dynamique",
+                    "Module 4": "Introduction aux Réseaux Informatiques",
+                    "Module 5": "Système d’exploitation UNIX/Linux",
+                    "Module 6": "TEC & Anglais"
+                },
+                "Semestre 6": {
+                    "Module 1": "Modélisation UML",
+                    "Module 2": "Programmation Orientée Objet en Langage JAVA",
+                    "Module 3": "Les Réseaux TCP/IP",
+                    "Module 4": "Projet de fin d’études"
+                }
+            },
+            "competence": "Technicien supérieur en développement d’application en C++ et JAVA ; Technicien supérieur en réseaux locaux ; Technicien supérieur en SGBD-R : installation, configuration et administration des SGBD ; WebMaster et développeur des sites web dynamiques, ...Les orientations potentielles de poursuite des études sont de type : Masters à dominance informatique, Masters orientés e-Technologies, Masters à dominance automatique ou informatique industrielle ou informatique décisionnelle et Formations d’ingénieurs. ",
+            "email_coord": "aboudhir@uae.ac.ma",
+            "name_coord": "Pr.Boudhir Anouar"
+        },
+        {
+            "formation": "LST: Géosciences Appliquées",
+            "objectif": "Cette licence mettra l’accent sur trois aspects fondamentaux :Compléter la formation du premier cycle (acquisition des méthodes et concepts généraux).Apporter aux étudiants à la fois une formation solide et équilibrée combinant outils théoriques, expérimentaux et techniques diversifiés liés aux Sciences de la Terre et de l’Environnement.Préparer les étudiants à la vie active ou à la poursuite des études supérieures. ",
+            "semesters": {
+                "Semestre 5": {
+                    "Module 1": "Pétrographie/Minéralogie",
+                    "Module 2": "Environnements sédimentaires",
+                    "Module 3": "Élément de  tectonique/Domaines structuraux du Maroc",
+                    "Module 4": "Ressources hydriques",
+                    "Module 5": "Géochimie et pollution urbaine",
+                    "Module 6": "Pédologie"
+                },
+                "Semestre 6": {
+                    "Module 1": "Traitement des données géologiques",
+                    "Module 2": "Cartographie numérique",
+                    "Module 3": "Géologie appliquée",
+                    "Module 4": "Projet de fin d’études"
+                }
+            },
+            "competence": "Poursuite  des  études  supérieures  en Sciences de la Terre et de l’Environnement (Master, Doctorat). Intégrer le marché du travail dans le domaine de :L’expertise et Cartographie.La Géotechnique et Géo-matériaux (achat et vente du matériel de génie géologique).L’environnement (technicien de l’environnement). ",
+            "email_coord": "mwahbi@uae.ac.ma",
+            "name_coord": "Pr.Wahbi Miriam"
+        },
+        {
+            "formation": "LST : Ingénierie de développement d’applications informatiques",
+            "objectif": "La Licence Science et Technique permet en Ingénierie de développement d’applications informatiques aux étudiants :d'avoir une culture de base scientifique,d’acquérir une base solide dans les axes majeurs et fondamentaux de la discipline informatique : algorithmique, programmation, bases de données, systèmes d’exploitations et réseaux.de développer un savoir-faire technique en informatique : technologie objet, informatique distribuée, architectures client-serveur et n-tiers, applications hétérogènes...d’améliorer leur niveau d’anglaisd’avoir une culture d’entreprise suffisante pour se faire une idée concrète sur le monde du travail.  ",
+            "semesters": {
+                "Semestre 5": {
+                    "Module 1": "Modélisations avancée et Méthodes de génie logiciel",
+                    "Module 2": "Développement Web",
+                    "Module 3": "Base de données Structurées et non Structurées",
+                    "Module 4": "Programmation Orientée Objet en C++/Java",
+                    "Module 5": "Systèmes et réseaux informatiques",
+                    "Module 6": "Développement de soft skills"
+                },
+                "Semestre 6": {
+                    "Module 1": "Innover, Entreprendre et s’initier à la Gestion d'une Entreprise avec un ERP",
+                    "Module 2": "Initiation en développement mobile et Edge Computing",
+                    "Module 3": "Développement web avancé Back end (Python)",
+                    "Module 4": "PFE"
+                }
+            },
+            "competence": "Technicien supérieur en développement d’application en C++ et JAVATechnicien supérieur en réseaux locaux : installation, configuration et administration des réseaux locauxTechnicien supérieur en SGBD R : installation, configuration et administration des SGBDWebMaster et développeur de sites web dynamiquesPoursuivre des études supérieures en Informatique ",
+            "email_coord": "m.kounaidi@@uae.ac.ma",
+            "name_coord": "Pr.KOUNAIDI Mohamed"
+        },
+        {
+            "formation": "LST: Ingénierie Statistique",
+            "objectif": "Permettre aux étudiants d’acquérir des connaissances mathématiques fondamentales et appliquées.Apporter aux étudiants une formation solide en statistique, tout en leur permettant  d’acquérir une culture scientifique générale pour favoriser leur intégration dans leur futur environnement.Développer les aspects théoriques par des enseignements adaptés (cours, travaux dirigés, étude de cas, mini projets) et des aspects pratiques par des études de problèmes concrets de la statistique appliquée (stages en entreprise, visites et projets de fin d’études).Utiliser efficacement l’outil informatique et les logiciels statistiques.Former des jeunes diplômés, aptes à répondre aux besoins des entreprises dans le domaine du traitement statistique de l’information et des techniques d’aide à la décision.Préparer les étudiants aux carrières de recherche universitaire. ",
+            "semesters": {
+                "Semestre 5": {
+                    "Module 1": "Topologies dans les espaces métriques",
+                    "Module 2": "Intégration",
+                    "Module 3": "Probabilités avancées",
+                    "Module 4": "Recherche Opérationnelle",
+                    "Module 5": "Concept de base de Programmation avancée C++",
+                    "Module 6": "Analyse des données"
+                },
+                "Semestre 6": {
+                    "Module 1": "Statistique Mathématique",
+                    "Module 2": "MSP",
+                    "Module 3": "Régression–Anova",
+                    "Module 4": "Projet de fin d’études"
+                }
+            },
+            "competence": "Formation académique en mathématiques fondamentales et statistiques mathématiques offrant ainsi la possibilité de poursuivre les études en Master fondamental ou professionnel.Maîtrise de l’outil informatique et les logiciels statistiques spécialisés.Capacité à concevoir et à mener des études statistiques offrant des perspectives professionnelles dans différents secteurs socio-économiques et industriels. ",
+            "email_coord": "melmerzguioui@uae.ac.ma",
+            "name_coord": "Pr.El Merzguioui"
+        },
+        {
+            "formation": "LST: Mathématiques et Applications",
+            "objectif": "Acquérir une double compétence mathématiques et informatique grâce à laquelle ils aborderont les problèmes de modélisation et de simulation scientifique sous tous leurs aspects, de la conception à la mise en oeuvre numérique.L’accent est donc mis à la fois sur des techniques d’ingénierie mathématiques et sur les langages de programmation et les outils algorithmiques.",
+            "semesters": {
+                "Semestre 5": {
+                    "Module 1": "Topologies dans les espaces métriques",
+                    "Module 2": "Intégration",
+                    "Module 3": "Probabilités avancées",
+                    "Module 4": "Recherche Opérationnelle",
+                    "Module 5": "Concepts de base de programmation orientée C",
+                    "Module 6": "Analyse numérique matricielle"
+                },
+                "Semestre 6": {
+                    "Module 1": "Calcul différentiel et équations différentielles",
+                    "Module 2": "Topologie générale et distributions",
+                    "Module 3": "Analyse numérique des équations différentielles",
+                    "Module 4": "Projet de fin d’études"
+                }
+            },
+            "competence": "Cette licence a pour débouchés :Les entreprises et les bureaux d’études ;La poursuite des études en cycle ingénieur ;La poursuite des études en cycle Master ;L’enseignement public ou privé. ",
+            "email_coord": "a.lahrouz1@uae.ac.ma",
+            "name_coord": "Pr.Lahrouz Adil"
+        },
+        {
+            "formation": "LST : Mathématiques et Informatique Décisionnelles",
+            "objectif": "Maîtriser et mettre en œuvre des outils et méthodes mathématiques de hautFormer des jeunes diplômés, aptes à répondre aux besoins du milieu socio-économique dans le domaine du traitement de l’information et des techniques d’aide à la décision.Utiliser efficacement l’outil informatique et lesPréparer les étudiants aux carrières de recherche ",
+            "semesters": {
+                "Semestre 5": {
+                    "Module 1": "Base de données Relationnelles et Nosql",
+                    "Module 2": "POO/ Développement web",
+                    "Module 3": "Intégration et Probabilités",
+                    "Module 4": "Topologie et Calcul différentiel",
+                    "Module 5": "Optimisation non linéaire et recherche opérationnelle",
+                    "Module 6": "Anglais et Management de Projet"
+                },
+                "Semestre 6": {
+                    "Module 1": "PYTHON ET MACHINE LEARNING",
+                    "Module 2": "Mathématiques pour l'Intelligence Artificiel",
+                    "Module 3": "Analyse numérique et équations différentielles",
+                    "Module 4": "PFE"
+                }
+            },
+            "competence": "Master de mathématiques et informatique (fondamental, spécialisé ou professionnel) dans une université marocaine ou étrangère.Intégration (sur concours ou dossier) des écoles d'ingénieursAdministrationIndustries et commerceSociétés financières.Bureaux d’études ",
+            "email_coord": "a.lahrouz@uae.ac.ma",
+            "name_coord": "Pr.LAHROUZ Adil"
+        },
+        {
+            "formation": "LST: Risques et Ressources Naturels",
+            "objectif": "Le Maroc est exposé, vu sa position géographique et spécifications géologiques, à la production d’éventuelle catastrophes naturelles, en particulier les séismes, les inondations, les crus torrentielle, le risque hydrique, etc. c’est devenu un sujet de préoccupation en raison de l’impact de ces phénomènes sur le plan socioéconomique. A cet effet, le Maroc a adopté le plan d’action national pour la gestion des risques de catastrophes naturelles couvrant essentiellement 4 types de catastrophes : les tsunamis, l’érosion des sols, les séismes, et les inondations. Sans oublier que la menace de ces catastrophes croit avec le changement climatique et le développement démographique. Ces derniers, influent également sur les réserves des ressources naturelles du pays d’une manière flagrante, les exposant ainsi au risque d’épuisement. En effet, là il s’agit d’un autre risque qui menace le secteur socioéconomique du pays. Ainsi, pour faire face à cette menace, et dans une optique de la mise en œuvre des ODD pour l’horizon 2030, le Maroc adopte la Charte Nationale de l’Environnement et du Développement Durable qui a été concrétisée entre autres grâce à la Stratégie nationale de la protection de l’environnement (SNPE) et la Stratégie nationale de développement durable (SNDD). Cette dernière a entrainé la prise en compte de divers stratégie et plans mis en place comme le Plan Maroc Vert, Stratégie énergétique, Plan Halieutis, etc.Cette formation vient alors pour répondre à un besoin important en compétences maitrisant d’une part les différentes techniques de diagnostic des risques et d’identification de leurs aléas et enjeux, etc. D’autre part, cette filière vise à fournir aux acteurs socioéconomiques des compétences en matière d’évaluation des ressources naturelles, estimation des gisements, méthodes d’exploitation avec une gestion rationnelle et durable. ",
+            "semesters": {
+                "Semestre 5": {
+                    "Module 1": "Risques et ressources naturels",
+                    "Module 2": "Techniques géophysiques/géotechniques/géochimiques",
+                    "Module 3": "Techniques géomatiques",
+                    "Module 4": "Informatiques",
+                    "Module 5": "Modélisation et analyse de données",
+                    "Module 6": "Soft Skills"
+                },
+                "Semestre 6 ( Option : Risques naturels)": {
+                    "Module 1": "Risques géologiques",
+                    "Module 2": "Risques hydroclimatiques",
+                    "Module 3": "Risques naturels et aménagement",
+                    "Module 4": "Projet de fin d’études"
+                },
+                "Semestre 6 ( Option : Ressources naturelles)": {
+                    "Module 1": "Géoressources Naturelles",
+                    "Module 2": "Bioressources Naturelles",
+                    "Module 3": "Valorisation et durabilité des ressources",
+                    "Module 4": "Projet de fin d’études"
+                }
+            },
+            "competence": "La formation entend fournir aux étudiants une possibilité d’une insertion professionnelle :Observatoire National des Risques Naturels,Bureaux d’étude,Laboratoire d’étude (LPEE),Organismes gestionnaires des ressources hydriques, de sols, minières, ,Les institutions administratives et professionnelles,Les institutions de recherche scientifique et technique,Etc. ",
+            "email_coord": "sbouzid@uae.ac.ma",
+            "name_coord": "Pr.Bouzid Saida"
+        },
+        {
+            "formation": "LST : Statistique et Science des données",
+            "objectif": "Permettre aux étudiants d’acquérir des connaissances en mathématiques fondamentales et appliquées et aussi en sciences des données et informatique.Apporter aux étudiants une formation solide en statistique et science des données, tout en leur permettant d’acquérir une culture scientifique générale pour favoriser leur intégration dans leur futurDévelopper les aspects théoriques par des enseignements adaptés (cours, travaux dirigés, étude de cas, mini projets) et des aspects pratiques par des études de problèmes concrets de la statistique, Science des donnée et informatique (stages en entreprise, visites et projets de fin d’études).Utiliser efficacement l’outil informatique et les logicielsFormer des jeunes diplômés, aptes à répondre aux besoins des entreprises dans le domaine du traitement statistique de l’information et des techniques d’aide à la décision.Préparer les étudiants aux carrières de recherche ",
+            "semesters": {
+                "Semestre 5": {
+                    "Module 1": "Base de données Relationnelles et NoSQL",
+                    "Module 2": "Programmation orientée objet et Développement Web",
+                    "Module 3": "Statistique Inférentielle et Recherche Opérationnelle",
+                    "Module 4": "Intégration et Probabilités",
+                    "Module 5": "Analyse des Données et Datamining",
+                    "Module 6": "Anglais et Management de Projet"
+                },
+                "Semestre 6": {
+                    "Module 1": "Programmation Python et Machine Learning",
+                    "Module 2": "Mathématiques pour l’Intelligence Artificielle",
+                    "Module 3": "Régression – Anova et Maîtrise Statistique des Procédés",
+                    "Module 4": "PFE"
+                }
+            },
+            "competence": "Master de mathématiques et informatique (fondamental, spécialisé ou professionnel) dans une université marocaine ou étrangère.Intégration (sur concours ou dossier) des écoles d'ingénieursAdministrationIndustries et commerceSociétés financières.Bureaux d’études ",
+            "email_coord": "melmerzguioui@uae.ac.ma",
+            "name_coord": "Pr.EL MERZGUIOUI"
+        },
+        {
+            "formation": "LST: Techniques d’Analyses Chimiques",
+            "objectif": "Apporter aux étudiants des connaissances théoriques en chimie de base et de comprendre les principes des techniques physico-chimiques et instrumentales, leurs domaines d'application et spécificités, savoir les appliquer à des cas concrets  en analyse et contrôle.Comprendre comment l’analyse chimique est appliquée dans les domaines pharmaceutiques, alimentaires, environnementaux ; Posséder des notions sur les réglementations, les normes, le risque chimique, la sécurité des produits, leur importance dans l’industrie.Maîtriser les tableurs en chimie analytique ; Maîtrise de l'outil statistique.Permettre aux étudiants de construire leur projet de formation, en leur offrant particulièrement des enseignements permettant un accès à des cycles diversifiés (Masters, filières d’ingénieurs…) ",
+            "semesters": {
+                "Semestre 5": {
+                    "Module 1": "Chimie organique avancée",
+                    "Module 2": "Chimie inorganique",
+                    "Module 3": "Thermochimie, Cinétique et Catalyse",
+                    "Module 4": "Electrochimie et Méthodes électro-analytiques",
+                    "Module 5": "Méthodes Spectroscopiques",
+                    "Module 6": "Techniques d’analyse inorganiques"
+                },
+                "Semestre 6": {
+                    "Module 1": "Techniques Séparatives",
+                    "Module 2": "Chimie et analyse des eaux",
+                    "Module 3": "Assurance qualité dans les laboratoires d’analyses chimiques",
+                    "Module 4": "Projet de fin d’études"
+                }
+            },
+            "competence": "Les diplômés issus de cette formation seront capables de:- Maîtriser les différentes techniques d’analyses chimiques;- Acquérir les bonnes pratiques de laboratoire;- Se familiariser avec les méthodes instrumentales les plus courantes dans les laboratoires d’analyse;- Avoir une idée sur les normes, les certifications, les systèmes de management;- Savoir la pratique de l’assurance qualité dans un laboratoire d’analyse. ",
+            "email_coord": "mchabbi@uae.ac.ma",
+            "name_coord": "Pr.Chabbi Mohamed"
+        }
+    ],
+    "Master": [
+        {
+            "formation": "MST : Analyse Appliquée etIngénierie Statistique",
+            "objectif": "Le Master Analyse Appliquée et Ingénierie Statistique (MAAIS) de l'Université Abdelmalek Essaadi a pour vocation d'offrir des parcours qui trouvent leurs bases dans une approche pluridisciplinaire. Au département de mathématiques on propose aux étudiants d’acquérir une double compétence en mathématiques et en statistiques appliquées s’appuyant sur un tronc commun développant des concepts et des outils de base. Pour une approche pluridisciplinaire des problèmes liés aux applications, les mathématiques et les statistiques appliquées ne peuvent que former des étudiants pour la recherche et les activités professionnelles de haut niveau avec un bon bagage mathématique. La spécialisation se ferait au terme du second semestre (S2) selon le choix des étudiants. En plus une bonne formation en tronc commun solide permettra de mieux optimiser les ressources humaines surtout au niveau des encadrants des PFEs (Master) et/ou des Doctorants. ",
+            "semesters": {
+                "Semestre 1": {
+                    "Module 1": "Statistique mathématique (inférence 1)",
+                    "Module 2": "Programmation avancée",
+                    "Module 3": "Compléments d’analyses",
+                    "Module 4": "Compléments d’algèbres",
+                    "Module 5": "Analyse Numérique Matricielle et Calcul Parallèle",
+                    "Module 6": "Équation différentielle stochastique (EDS)"
+                },
+                "Semestre 2": {
+                    "Module 1": "Théorie des EDP",
+                    "Module 2": "Statistiques décisionnelles et simulation",
+                    "Module 3": "Analyse fonctionnelle appliquée I",
+                    "Module 4": "Les éléments finis et calculs scientifiques",
+                    "Module 5": "Optimisation et contrôle optimale",
+                    "Module 6": "Anglais Scientifique I (Soft Skills)"
+                },
+                "Semestre 3 - SA": {
+                    "Module 1": "Analyses de données & BIG DATA",
+                    "Module 2": "ANOVA & Modèles MIXTES",
+                    "Module 3": "Techniques de Sondages",
+                    "Module 4": "Statistique des valeurs extrêmes",
+                    "Module 5": "Séries chronologiques",
+                    "Module 6": "Anglais Scientifiques II (Soft Skills)"
+                },
+                "Semestre 3 - SM": {
+                    "Module 1": "Homogénéisation et Analyses asymptotiques",
+                    "Module 2": "Modélisation 1 et Système dynamiques",
+                    "Module 3": "Réseaux de Neurones et Apprentissage Automatique & Programmation avancée 2",
+                    "Module 4": "Espaces Lebesgue et Sobolev & Méthode variationelle",
+                    "Module 5": "Analyses numériques des systèmes hyperboliques & Méthodes des volumes finis",
+                    "Module 6": "Analyse numérique"
+                }
+            },
+            "competence": "Donner une formation mathématique et statistique de haut niveau et vise à développer les compétences en communication et l'autonomie des étudiants.Connaissance de méthodes mathématiques et statistiques pour la résolution de problèmes issus d'autres disciplines (physique, chimie, biologie, informatique, économie, etc.).Compréhension et analyse de documents scientifiques et de grandes bases de données.Conduite d'un projet d'une durée d’un semestre.Rédaction de rapports et présentation d'exposés de nature mathématique.Préparation à l'agrégation de mathématiques et concours des professeurs de second cycle.Ingénieur en simulation numérique ",
+            "email_coord": "r.elhalimi@uae.ac.ma",
+            "name_coord": "Pr.EL HALIMI"
+        },
+        {
+            "formation": "MST : Bases Cellulaires et Moléculaires en Biotechnologie",
+            "objectif": "Le master BCMB vise la formation des spécialistes dans le domaine des Biotechnologies capables de répondre aux exigences de la recherche fondamentale et appliquée, et de s’adapter au marché de l’emploi dans les secteurs socio-économique et industriel. Le lauréat sera doté d’une nouvelle conception à la biologie alliant théorie à la pratique. A l’issu de cette formation, le lauréat sera capable d’élaborer des protocoles, de maîtriser la manipulation, de pouvoir analyser et exploiter les résultats expérimentaux obtenus. Il sera aussi capable d’innover en apportant des solutions dans le domaine des Biotechnologies, d’animer une équipe et de gérer des projets, de rédiger mémoires et articles scientifiques, rapports et présenter des exposés.L’objectif final est de former des chercheurs et des cadres de haut niveau, spécialistes en biotechnologies appliquées notamment dans les domaines de la sélection et l’amélioration génétique des plantes.  ",
+            "semesters": {
+                "Semestre 1": {
+                    "Module 1": "Techniques Expérimentales en Biotechnologie",
+                    "Module 2": "Biologie Moléculaire",
+                    "Module 3": "Technologie d’ADN recombinant",
+                    "Module 4": "Communication cellulaire et voies de signalisation",
+                    "Module 5": "BioInformatique",
+                    "Module 6": "Du protocole expérimental à la rédaction scientifique"
+                },
+                "Semestre 2": {
+                    "Module 1": "Microbiologie Appliquée",
+                    "Module 2": "Génomique",
+                    "Module 3": "Concepts de Base en Génétique Quantitative",
+                    "Module 4": "Protéomique",
+                    "Module 5": "Technologie de transformation et de valorisation des bio-ressources",
+                    "Module 6": "Système de Management intégré QSE"
+                },
+                "Semestre 3 - BVA": {
+                    "Module 1": "Fonctionnement des cellules végétales",
+                    "Module 2": "Interaction plante/Microorganismes,application en agroécologie",
+                    "Module 3": "Technologies des PAM et des microalgues",
+                    "Module 4": "Marqueurs moléculaires et cartographie génétique",
+                    "Module 5": "Épidémiologie et contrôle des maladies dans les plantes de grande culture",
+                    "Module 6": "Biotechnologie des Biomolécules"
+                },
+                "Semestre 3 - BV": {
+                    "Module 1": "Techniques d’amélioration et de sélection chez les plante",
+                    "Module 2": "Pathologie microbienne des plantes",
+                    "Module 3": "Biochimie Intégrative du Végétal",
+                    "Module 4": "Interaction plantes-microorganismes",
+                    "Module 5": "Lutte Biologique et Protection Intégrée des Plantes",
+                    "Module 6": "Kit Pour l’Emploi/ Projet professionnel"
+                },
+                "Semestre 3 - BA": {
+                    "Module 1": "Neurobiologie Cellulaire",
+                    "Module 2": "Biologie de développement",
+                    "Module 3": "Pathologies et génétique moléculaire",
+                    "Module 4": "Techniques d’amélioration et de sélection chez les animaux",
+                    "Module 5": "Thérapie Cellulaire et Génique",
+                    "Module 6": "Kit Pour l’Emploi/ Projet professionnel"
+                },
+                "Semestre 4": {
+                    "Module 1": "Projet de fin d’étude"
+                }
+            },
+            "competence": "Les lauréats ont la possibilité de continuer leurs études en formation doctorale, comme ils peuvent intégrer le monde de travail dans plusieurs secteurs publics et privés. Les profils et métiers visés par cette formation couvrent plusieurs secteurs publics, industriels et de service.Secteur public : chercheur, responsable, ingénieur dans des organismes dépendant de plusieurs ministères en particulier, du ministère de l’environnement, de l’agriculture et pêches maritimes, santé publique, éducation nationale et recherche scientifique ainsi que le ministère de l’intérieur.Industries : Ingénieur et chef d’équipe en industrie agroalimentaire, pharmaceutique, médicale et toute industrie ayant un pôle Biotechnologie.Service : poste de responsabilité dans les laboratoires publics ou privés d’analyse et de contrôle, organismes d’expertise, service vétérinaire et agricole, service de douanes, services spécialisés dans la gestion et le traitement des eaux, des déchets, bureaux d'études, hygiène et sécurité alimentaire, etc ",
+            "email_coord": "mnhiri@uae.ac.ma",
+            "name_coord": "Pr.Mohamed NHIRI"
+        },
+        {
+            "formation": "MST : Environnement, Aquacultureet Développement Durable",
+            "objectif": "Encore peu développée au Maroc, l’aquaculture offre des perspectives de développement très intéressantes. Le Maroc s’est donné tous les moyens pour insuffler une nouvelle dynamique dans le secteur halieutique, à travers le lancement du plan décennal 2015-2024 pour le développement de l’aquaculture continentale et le plan Halieutis qui vise une expansion importante de l’aquaculture marine. Les prévisions tablent sur une expansion importante de l’aquaculture, des industries et des services associés. C’est pour cette raison, et en vue de répondre aux besoins immédiats en métiers relatifs à la gestion et l’exploitation de l’environnement incluant les ressources aquacoles continentales et marines que se place le projet master interuniversitaire « Environnement, aquaculture et développement durable ( البيئة وتربية الأحياء المائية والتنمية المستدامة ). Ce master consiste en une formation pratique et interdisciplinaire. Elle pourvoit à une intégration aisée dans la vie active professionnelle. Il s'agit de former des cadres spécialisés dans le domaine de l’environnement, de l’aquaculture et du développement durable disposant d’une grande base de connaissances scientifiques pluridisciplinaires, leur permettant d’appréhender pertinemment la complexité et la dynamique environnementale des systèmes aquatiques et la problématique de leur gestion intégrée. ",
+            "semesters": {
+                "Semestre 1": {
+                    "Module 1": "Écosystèmes aquatiques et pollution : salubrité et biosurveillance gouvernance",
+                    "Module 2": "typologie des écosystèmes aquatiques",
+                    "Module 3": "Ressources halieutiques (biologie, évaluation et gestion)",
+                    "Module 4": "Téledetection et traitement d’images optiques",
+                    "Module 5": "Analyse bio statistique/Méthodologie de la rédaction",
+                    "Module 6": "Anglais/développement personnel"
+                },
+                "Semestre 2": {
+                    "Module 1": "Océanologie",
+                    "Module 2": "Ingénierie aquacol/ gestion des entreprises aquacoles",
+                    "Module 3": "SIG Appliqués",
+                    "Module 4": "Pathologie des organismes aquatiques/Amélioration génétique des espèces d’élevage",
+                    "Module 5": "Base biologique de l’aquaculture/Alimentation et nutrition en aquaculture personnel",
+                    "Module 6": "Economie de l'environnement, des ressources naturelles renouvelables et d’aquaculture"
+                },
+                "Semestre 3": {
+                    "Module 1": "Gestion intégrée des zones côtières et développement durable",
+                    "Module 2": "Commercialisation, marketing et qualité des produits de la mer qualité/valorisation Gestion de Projet",
+                    "Module 3": "Interaction environnement /aquaculture et aquaculture intégrée",
+                    "Module 4": "Traitements physico-chimique des eaux / Bioremédiation",
+                    "Module 5": "Gestion de projet",
+                    "Module 6": "Management environnemental et droit de l’environnement"
+                },
+                "Semestre 4": {
+                    "Module 1": "Projet de fin d’étude"
+                }
+            },
+            "competence": "L’éventail des métiers ciblés couvre les domaines dans lesquels les diplômés de ce Master auront développé des connaissances scientifiques et un savoir-faire pratique et professionnel, notamment la production aquacole à divers niveaux de responsabilité, la création de nouveaux projets aquacoles, les industries directement liées à l'aquaculture, la transformation du poisson et de marketing. Les futurs diplômés peuvent également intégrer les institutions administratives et professionnelles, les institutions de recherche scientifique et technique, etc.",
+            "email_coord": "h.erraioui@fstt.ac.ma",
+            "name_coord": "Pr.Hassan Er"
+        },
+        {
+            "formation": "MST : Géoressources Énergétiques et Réservoirs",
+            "objectif": "L’activité accrue dans la recherche en géosciences appliquées aux prospections géoressources énergétiques et réservoirs s’intègre dans le cadre de la stratégie gouvernementale Marocaine « Stratégie Energétique Horizon 2030 » en tant qu’activité à fort impact économique pour le pays. C’est dans ce Contexte que l’Etat marocain s’est mis sur deux composantes en parallèle pour répondre à ses besoins en matière de l’énergie : Les Energies renouvelables (Solaire et Eolienne) et les Géoressources énergétiques (Gaz/Pétrole). Cette Dynamique a été accéléré par la mise en place des mesures fiscales en vue d’inciter l’exploration. Un dispositif qui a permis l’installation depuis 2012 de plus de 37 compagnies pétrolières étrangères, dont Repsol, Anadarko Petroleum, Kosmos Energy, Sound Energy, Chevron, deuxième compagnie pétrolière aux Etats-Unis, le géant pétrolier britannique British Petroleum (BP) et plusieurs autres en vue de mener des travaux d’exploration géologiques et géophysique pour la recherche d’hydrocarbures sur l’offshore Atlantique et sur l’Onshore Marocain sur plus de 770 000 Km². L’évaluation géologique, géophysique et pétrolière des différents permis et zones de reconnaissance a permis l’évidence de plusieurs « prospects » et « play concepts » notamment au niveau des permis Tendrara et dans le bassin du Gharb.Pour un accompagnement universitaire de la vision de la Stratégie Energétique Horizon 2030, ce Master « Géoressources énergétiques et Réservoirs » sera le PREMIER MASTER À L’ÉCHELLE NATIONALE s’intéressant aux Géoressources énergétiques et réservoirs et se présentera en tant qu’une nécessité objective afin d’assurer :Une formation scientifique de haut niveau avec un background scientifique solide en géosciences fondamentales et appliquées couplées aux disciplines liées à l’exploration des réservoirs et géoressources énergétiques associées,Une formation scientifique adaptée aux besoins et à l’évolution du marché du travail national et international notamment en matière des cadres supérieurs qualifiés,Une formation scientifique visant la mise en place des cadres hautement qualifiés sur le marché de l’emploi national et international,Une formation scientifique comblant le vide des cadres compétents en géosciences fondamentales et appliquées dont plusieurs établissements privés, semi-publiques et publiques ont en besoin.Les principaux objectifs du Master GEORESERVES s’inscrivent dans le cadre national « Stratégie Energétique Horizon 2030 » et se focalisent essentiellement :Mettre en relief une formation académique universitaire de haute qualité en tant que passerelle entre l’Université et les opérateurs socio-économiques dans le Domaine des géoressources énergétiques (Gaz, pétrole et géothermie),Drainer des experts internationaux pour la collaboration et le renforcement du cursus universitaire du Master Pour assurer un transfert du « How-Know » en guise de formation/qualification des cadres pluridisciplinaires,Former et contribuer à la formation et la qualification de jeunes chercheurs des cadres à haut niveau capables d’intégrer les compagnies nationales et internationales opérant en géoressources énergétiques,Renforcer la dynamique d’ouverture des jeunes diplômés sur le marché national et international et surtout africain dans le cadre des partenariats Sud-Sud et Sud-Nord avec les compagnies et Etablissements nationaux et internationaux afin de stimuler la promotion des richesses en géoressources énergétiques du pays.Créer un label de renommé international pour la formation académique « Master GEORESERVES » en en faisant un pôle d’excellence d’innovation dans le domaine des géoressources énergétiques ; et ce en développant l’engagement et la responsabilisation du management pour instaurer une culture de la performance, de l’intégrité. ",
+            "semesters": {
+                "Semestre 1": {
+                    "Module 1": "Géodynamique et Analyse des Bassins Sédimentaires",
+                    "Module 2": "Géologie structurale et Tectonophysique",
+                    "Module 3": "Micropaléontologie intégrée",
+                    "Module 4": "Géologie du Maroc et systèmes pétroliers associées",
+                    "Module 5": "Mécanique des fluides et Hydraulique",
+                    "Module 6": "Géomatique Appliquée aux Géoressources énergétiques"
+                },
+                "Semestre 2": {
+                    "Module 1": "Pétrologie Sédimentaire",
+                    "Module 2": "Sédimentologie et paléoenvironnements sédimentaires",
+                    "Module 3": "Modélisation et Simulation Numérique en Géosciences",
+                    "Module 4": "Télédétection Optique et Radar Appliquées aux Géoressources énergétiques",
+                    "Module 5": "Géostatistiques et analyse des données",
+                    "Module 6": "Anglais scientifique et Développement personnel"
+                },
+                "Semestre 3": {
+                    "Module 1": "Introduction aux géosciences du pétrole",
+                    "Module 2": "Caractéristiques géologiques et pétrophysiques des réservoirs",
+                    "Module 3": "Hydrocarbures et maturité de la Matière Organique",
+                    "Module 4": "Interprétation 2D-3D des profils séismiques",
+                    "Module 5": "Prospection géophysique et techniques de forage",
+                    "Module 6": "Management et Gestion de projets"
+                },
+                "Semestre 4": {
+                    "Module 1": "Stage d’initiation a la recherche"
+                }
+            },
+            "competence": "Cette formation est proposée afin de former et Contribuer à la formation et la qualification de jeunes chercheurs des cadres à haut niveau capables d’intégrer les compagnies nationales et internationales opérant en géoressources énergétiques afin d’explorer de nouveaux marchés d’emplois au près des diverses compagnies pétrolières au Maroc, et également pour combler le vide en matière des cadres supérieurs qualifiés en géologie fondamentale nécessaires à plusieurs établissements universitaires, d’améliorer l’offre d’emploi sur le marché et de satisfaire le besoin en cadres des établissements privés, semi-publiques, et publiques notamment le service géologique et cartographique du ministère de l’énergie et des mines pour la revue et la réalisation de plusieurs cartes géologiques sachant bien leur utilité pour toute éventuelle exploration des ressources.     ",
+            "email_coord": "mzaghloul@uae.ac.ma",
+            "name_coord": "Pr.Mohamed Najib"
+        },
+        {
+            "formation": "MST : Génie Civil",
+            "objectif": "Le programme vise la formation des cadres en Génie Civil. A l’issue des deux années de formation, le lauréat en Master de Génie Civil doit être capable d’intervenir dans la conception, le suivi et la réalisation de projets dans les secteurs du Bâtiments et des Travaux Publics. La formation vise, également, à développer chez l’étudiant l’esprit d’initiative, de responsabilité et de gestion. Outre les compétences scientifique et technique, le programme dispense un ensemble d’activités facilitant l’insertion professionnelle de l’étudiant : les techniques d’expression, les langues, conférences sur des réalisations de chantier, les visites d’entreprises et de chantiers…etc. ",
+            "semesters": {
+                "Semestre 1": {
+                    "Module 1": "Mathématiques Pour l’Ingénieur",
+                    "Module 2": "Calculs et Analyses des Structures",
+                    "Module 3": "Géotechnique",
+                    "Module 4": "Géophysique Appliquée & Géo-risques",
+                    "Module 5": "Méthodes Numériques",
+                    "Module 6": "Matériaux de construction"
+                },
+                "Semestre 2": {
+                    "Module 1": "Béton précontraint",
+                    "Module 2": "Dynamique et calcul parasismique",
+                    "Module 3": "Transferts thermiques et Acoustique",
+                    "Module 4": "Béton armé",
+                    "Module 5": "Procédés Généraux de Constructions",
+                    "Module 6": "Routes"
+                },
+                "Semestre 3": {
+                    "Module 1": "Ouvrages de Génie Civil",
+                    "Module 2": "Assainissement",
+                    "Module 3": "Construction Métallique",
+                    "Module 4": "Urbanisme, Architecture et Construction",
+                    "Module 5": "Efficacité Énergétique",
+                    "Module 6": "Management de projet & BIM appliquée"
+                },
+                "Semestre 4": {
+                    "Module 1": "Projet de fin d'étude"
+                }
+            },
+            "competence": "Les connaissances et compétences acquises par la présente formation dans le domaine de Génie Civil peuvent être considérées à la pointe du savoir dans cette discipline.Ce haut niveau de qualification renforcé par un certain savoir de gérer des projets appliqués et de création d’entreprise, dispose nos lauréats d’une haute qualification leurs permettant, de choisir entre poursuivre des études doctorales, intégrer des établissements nationaux ou multinationaux œuvrant dans le domaine de génie Civil, ou la création de leur propre entreprise. ",
+            "email_coord": "r.dkiouak@uae.ac.ma",
+            "name_coord": "Pr.Dkiouak Rachid"
+        },
+        {
+            "formation": "MST : Génie des Matériaux pour Plasturgie et Métallurgie",
+            "objectif": "Le Master Génie des Matériaux pour Plasturgie et Métallurgie (GMPM) se positionne dans le contexte de synergie ; Formation / Recherche / Industrie, avec des enseignements en relation avec les activités des industries de la région. Le programme vise à fournir des bases de chimie, génie des matériaux, mécanique avec un lien entre les procédés d’élaboration, de synthèse et de mise en forme de la matière première ainsi que l’étude des propriétés structurales et/ou fonctionnelles des matériaux tels que les polymères, les composites, les alliages métalliques, les céramiques et les biomatériaux.",
+            "semesters": {
+                "Semestre 1": {
+                    "Module 1": "Cristallographie et phénomènes",
+                    "Module 2": "Métallurgie et matériaux métalliques",
+                    "Module 3": "Formulation, rhéologie et modélisation",
+                    "Module 4": "Verres, céramiques et matériaux",
+                    "Module 5": "Polymères synthétiques",
+                    "Module 6": "Anglais scientifique et communication"
+                },
+                "Semestre 2": {
+                    "Module 1": "Propriétés physiques et mécaniques",
+                    "Module 2": "Métallurgie des poudres et fiabilité",
+                    "Module 3": "Conception, modélisation et fabrication",
+                    "Module 4": "Fonctionnalisation revêtements",
+                    "Module 5": "Matériaux catalytiques",
+                    "Module 6": "Gestion de projet, propriété"
+                },
+                "Semestre 3": {
+                    "Module 1": "Corrosion et Protection des matériaux",
+                    "Module 2": "Techniques de caractérisation et d’analyses",
+                    "Module 3": "Nanomatériaux et matériaux stratégiques",
+                    "Module 4": "Mécanique de contact, tribologie",
+                    "Module 5": "Choix des matériaux et procédés",
+                    "Module 6": "Lean Management et analyse"
+                },
+                "Semestre 4": {
+                    "Module 1": "Projet de fin d’étude"
+                }
+            },
+            "competence": "Les concepts fondamentaux en sciences des matériaux:Élaboration, caractérisation et contrôle des matériauxExigences liées au choix des matériauxMaîtrise des mécanismes de dégradation des matériaux et du comportement matériau/milieuAinsi que les procédés et techniques de protectionLes techniques de diagnostic des matériaux dans les domaines de métallurgie et plasturgieAnalyse de défaillance et évaluation des coûtsSavoir-faire en matière d’élaboration de matériaux et de préparation d’échantillons ",
+            "email_coord": "tchafik@uae.ac.ma",
+            "name_coord": "Pr.Tarik CHAFIK"
+        },
+        {
+            "formation": "MST : Génie Energétique",
+            "objectif": "Former des lauréats pour accompagner la stratégie énergétique nationale et mettre sur le marché du travail des jeunes « énergéticiens » capables de contribuer à la réalisation des différents projets dans le domaine d’énergétique. ",
+            "semesters": {
+                "Semestre 1": {
+                    "Module 1": "Thermodynamique Industrielle",
+                    "Module 2": "Transferts Thermiques",
+                    "Module 3": "Mathématiques de l’Ingénieur",
+                    "Module 4": "Mécanique des Fluides",
+                    "Module 5": "Méthodes Numériques",
+                    "Module 6": "Matériaux pour l’Énergie"
+                },
+                "Semestre 2": {
+                    "Module 1": "Métrologie Thermique & Échangeurs Thermiques",
+                    "Module 2": "Production & Stockage de l’Énergie",
+                    "Module 3": "Automatique & Régulation",
+                    "Module 4": "Ingénierie des Procédés",
+                    "Module 5": "Énergie Éolienne",
+                    "Module 6": "Langues et Techniques de Communication (TEC)"
+                },
+                "Semestre 3": {
+                    "Module 1": "Énergétique du bâtiment",
+                    "Module 2": "Énergie Solaire",
+                    "Module 3": "Efficacité Énergétique",
+                    "Module 4": "Bioénergie",
+                    "Module 5": "Gestion de la maintenance et Sureté de fonctionnement",
+                    "Module 6": "Gestion de Projets & Gestion d’Entreprises"
+                },
+                "Semestre 4": {
+                    "Module 1": "Projet de Fin d’Etudes"
+                }
+            },
+            "competence": "La formation vise à donner aux lauréats des compétences scientifiques dans le domaine de l’énergétique qui leur permettront de pouvoir intervenir pour la réalisation des audits énergétiques et réaliser le bilan des divers systèmes énergétiques et ceci pour améliorer leur efficacité énergétique (systèmes industriels, bâtiments….), de contribuer et d’accompagner la réalisation et le suivi des grands projets nationaux dans le domaine de l’énergétique (centrales thermiques, projets des énergies renouvelables, ….).Les lauréats pourront :Intégrer les organismes étatiques et privés en tant que cadres supérieurs, chefs de projets ;Intégrer des bureaux d’études et éventuellement, créer leur propre bureau d’études ou leur propre entreprise ;Créer leur propre entreprise (installation des systèmes énergétiques, audit et diagnostic énergétique, réhabilitation énergétique des bâtiments) ;La formation vise aussi à former des lauréats avec des bases scientifiques nécessaires dans le domaine de l’énergétique pour pouvoir poursuivre des travaux de recherche scientifique dans le cadre des études doctorales ou en intégrant des organismes de recherche dans le domaine de l’énergétique (IRESEN, AMEE, MASEN…). ",
+            "email_coord": "adraoui@uae.ac.ma",
+            "name_coord": "Pr.Abdessalam DRAOUI"
+        },
+        {
+            "formation": "MST : Ingénierie Environnementale, Changement Climatique et Développement Durable",
+            "objectif": "Ce Master « IE2C2D » a été préparé dans le cadre d’une convention de partenariat entre l’Université Abdelmalek Essaâdi (UAE) et le Centre de Compétences Changements Climatiques du Maroc (4C Maroc) avec le soutien du Programme des Nations Unies pour le Développement (PNUD).Ce master a pour but de répondre à la demande extrêmement forte de former des experts professionnels multidisciplinaires en changement climatique capables d’élaborer des projets et de concevoir des stratégies pour le développement.Cette formation fournit des bases fondamentales et appliquées indispensable pour traiter des problèmes environnementaux, et des problèmes de changement climatique, et aussi initier des stratégies de développement durable.Les modules de cette filière sont relatifs aux études de l’Ingénierie Environnementale, Changement climatique et Développement Durable. Elle offre une formation de professionnalisation et de recherche-développement.Ces experts seront amenés à travailler dans les métiers verts de différents secteurs publics ou privés touchant aux domaines d’adaptation au changement climatique, Atténuation au changement climatique, de l'ingénierie environnementale ou du développement économique et de l'expertise. Ils pourront intervenir sur des problématiques aussi variées que les risques naturels, les pollutions chimiques ou physiques et leurs impacts sur les écosystèmes, mais aussi sur des aspects liés au développement durable, à la gestion de l’environnement.                            ",
+            "semesters": {
+                "Semestre 1": {
+                    "Module 1": "Gestions des Ressources Hydriques et Changement Climatique",
+                    "Module 2": "Développement Durable et Changement Climatique",
+                    "Module 3": "Gestion des Déchets et Economie Circulaire",
+                    "Module 4": "Analyse de Cycle de Vie et Empreinte Carbone",
+                    "Module 5": "Formation et Traitement des Polluants Atmosphérique",
+                    "Module 6": "Méthodes de Collecte et Analyse de Données"
+                },
+                "Semestre 2": {
+                    "Module 1": "Techniques d'Expressions et Anglais Scientifique",
+                    "Module 2": "Énergies Renouvelables et Efficacité Énergétique",
+                    "Module 3": "Télédétection et Système d'Information Géographique",
+                    "Module 4": "Statistiques/ Plans d'Expérience et Modélisation de Process",
+                    "Module 5": "Management Environnemental dans l'Entreprise",
+                    "Module 6": "Écotoxicologie du Sol"
+                },
+                "Semestre 3": {
+                    "Module 1": "Méthodologie de la Recherche Scientifique/Conférences",
+                    "Module 2": "Anglais Scientifique II",
+                    "Module 3": "Accords,Négociations, Instruments de Changement Climatique",
+                    "Module 4": "Vulnérabilité et Adaptation  au Changement Climatique",
+                    "Module 5": "Inventaire de Gaz à Effet de Serre et Atténuation au Changement Climatique",
+                    "Module 6": "Science et Politique de Changement Climatique"
+                },
+                "Semestre 4": {
+                    "Module 1": "Projet de fin d’étude"
+                }
+            },
+            "competence": "La formation vise les débouchés pour des chercheurs dans diverses structures publiques et privées (administrations publiques de l'Etat, agences spécialisées, organismes dépendant du ministère de l’environnement, industries spécialisées dans la gestion et le traitement des eaux, des déchets, de l'air et des sols, bureaux d'études, toute industrie ayant un pôle environnement, laboratoires publics ou privés d’analyse et de contrôle.……) :Cadre dans le secteur privé ou public capable de faire la Diagnostic, planification et élaboration de stratégies pour le développement des régions vulnérables (Adaptation au changement climatique/ Atténuation du Changement Climatique). Concepteur de plans et dimensionnement d'installations énergétiquement efficientes, gestion et maintenance.Cadre aux métiers verts qui sont de plus en plus sollicités par les acteurs économiques pour relever leurs défis d’intégrer les marchés internationaux, notamment de l’union européenne qui exigent des niveaux de conformité avec des normes élevés d’atténuation des émissions des Gaz à effet de serre.Responsable de bureau de changement climatiqueChargés de mener des évaluations de risques environnementaux ; impliqués dans les procédés industriels et leurs conséquences sanitaires; concernés par la gestion de risques sanitaires liés à l'environnement.Possédant les compétences scientifiques nécessaires à l'analyse, la prévention et le traitement des pollutions et des nuisances d'origines chimiques et capables d'effectuer des études sur les impacts environnementaux d'une activité ou d'unaménagement, de prendre en compte les contraintes imposées par l'environnement sur les activités humaines (évaluation des risques - inondations, mouvements de terrain) et de proposer des stratégies environnementales en conformité avec les réglementations en cours.Chercheurs dans des domaines associant la chimie ; « R&D » dans des entreprises développant un pôle environnement ou dépollution (automobiles, traitement des déchets, de l'air, industrie nucléaire); cadres dans les agences spécialisées enenvironnement et les réseaux de mesure et de surveillance de la pollution atmosphérique.Négociateurs de contrats (acquisitions ou échanges de technologies), responsables dans le domaine de la propriété intellectuelle, responsables technico-commerciaux, conseil en matière d'élaboration de programmes de développement durable.Les lauréats de la formation peuvent s’inscrire dans différentes écoles doctorales en vue de préparer le doctorat national. Ils ont la possibilité de continuer leurs études en formation doctorale dans les disciplines de l'Environnement et Changement Climatique. ",
+            "email_coord": "h.elayadi@uae.ac.ma",
+            "name_coord": "Pr.HOUDA EL"
+        },
+        {
+            "formation": "MST : Intelligence Artificielle et Sciences de Données",
+            "objectif": "Cette formation d'excellence offre de solides connaissances en conception de systèmes d'intelligence artificielle et mathématiques appliquées afin de couvrir l'ensemble des problématiques de traitement et d'analyse des données massives que rencontre les entreprises. Elle met l'accent sur l'articulation entre apprentissage automatique, gestion et fouille de grandes masses de données, paradigmes du Big Data, représentation des connaissances, le traitement des données et sur les méthodologies récemment développées.                            ",
+            "semesters": {
+                "Semestre 1": {
+                    "Module 1": "THÉORIES ET SYSTÈMES DE RAISONNEMENTS INTELLIGENTS",
+                    "Module 2": "MATHÉMATIQUES POUR ANALYSE DE DONNÉES",
+                    "Module 3": "PROGRAMMATION AVANCÉE",
+                    "Module 4": "BASES DE DONNÉES AVANCÉES",
+                    "Module 5": "MACHINE LEARNING 1",
+                    "Module 6": "ANGLAIS ET TECHNIQUE D’EXPRESSION"
+                },
+                "Semestre 2": {
+                    "Module 1": "INFRASTRUCTURE ET ARCHITECTURE DES SYSTÈMES DISTRIBUES & BIG DATA",
+                    "Module 2": "PLATEFORMES IOT CORE: TECHNOLOGIES, DATA ET IA",
+                    "Module 3": "METAHEURISTIQUES & ALGORITHMES DE RECHERCHE STOCHASTIQUE",
+                    "Module 4": "SMA & NLP",
+                    "Module 5": "DATAMING & BI",
+                    "Module 6": "DEVELOPPEMENT PERSONNEL ET INTELLIGENCE EMOTIONNELL"
+                },
+                "Semestre 3": {
+                    "Module 1": "MULTIMEDIA MINING AND INDEXING",
+                    "Module 2": "MACHINE LEARNING 2 : DEEP and TRANSFERT LEARNING",
+                    "Module 3": "DATA SPACES & DATA  INTEGRATION & SEMANTIC INTEROPERABILITY",
+                    "Module 4": "BLOCKCHAIN & SECURITE APPLICATIVE",
+                    "Module 5": "VIRTUALIZATION, CLOUD AND EDGE COMPUTING",
+                    "Module 6": "DIGITAL BUSINESS STRATEGIES  LEADERSHIP IN THE AGE OF AI"
+                },
+                "Semestre 4 ": {
+                    "Module 1": "Projet de fin d’étude"
+                }
+            },
+            "competence": "",
+            "email_coord": "mezziyyani@uae.ac.ma",
+            "name_coord": "Pr.EZZIYYANI MOSTAFA"
+        },
+        {
+            "formation": "MST : Mobiquité et Big Data",
+            "objectif": "Récemment, le \"Big Data\" et la mobiquité sont devenus un véritable enjeu stratégique et économique. Le traitement et l’exploitation massive des Méga données est désormais une priorité stratégique pour s’engager dans l’évolution. En effet, ses applications se font sentir dans des domaines aussi variés que les sciences, le marketing, le développement durable, les transports, la santé et l’éducation, et représente un potentiel énorme de création d’emplois.Le Master a pour but, de former des étudiants capables de répondre aux besoins de collecte, stockage, traitement et analyse des données massives, afin d’accompagner les organisations dans des processus de développement stratégique.",
+            "semesters": {
+                "Semestre 1": {
+                    "Module 1": "Programmation Orientée Objet Avancée : Java Et Python",
+                    "Module 2": "Systèmes Embarqués Et Mobilité",
+                    "Module 3": "Recherche Opérationnelle Et Théorie des Graphes",
+                    "Module 4": "IP Mobile Et Protocoles",
+                    "Module 5": "Administration Des Bases De Données",
+                    "Module 6": "Anglais"
+                },
+                "Semestre 2": {
+                    "Module 1": "Data Mining Et Machine Learning",
+                    "Module 2": "Statistique Descriptive Et Inférentielle",
+                    "Module 3": "Bases Des Données Nosql",
+                    "Module 4": "Architecture Et Technologies Big Data",
+                    "Module 5": "Cloud Computing Et Virtualization",
+                    "Module 6": "Soft Skills"
+                },
+                "Semestre 3": {
+                    "Module 1": "Analysis, Mining And Indexing In Big Multimedia Systems",
+                    "Module 2": "Développement Mobile",
+                    "Module 3": "Big Data Analytics",
+                    "Module 4": "Objets Connectés Et Intelligence Artificielle Distribuée & SMA",
+                    "Module 5": "Big Data Et Sécurité",
+                    "Module 6": "Management De Projet Et Gestion De L'innovation"
+                },
+                "Semestre 4": {
+                    "Module 1": "Projet de fin d’étude"
+                }
+            },
+            "competence": "Big Data ArchitecteBig Data AnalystData ScientistDéveloppeur MobileAdministrateur des bases de données ",
+            "email_coord": "mbenahmed@uae.ac.ma",
+            "name_coord": "Pr.Mohamed BEN"
+        },
+        {
+            "formation": "MST : Modélisation Mathématique et Science de Données",
+            "objectif": "Le Master Modélisation Mathématique et Science de Données (MMSD) de l'Université Abdelmalek Essaadi a pour vocation d'offrir des parcours qui trouvent leurs bases dans une approche pluridisciplinaire. Au département de mathématiques on propose aux étudiants d’acquérir une double compétence en Modélisation Mathématiques et en Science de Données s’appuyant sur la maîtrise de l'informatique scientifique notamment pour le calcul haute Performance, la Statistique et la Science de Données. Cela peut inclure des compétences en programmation, en visualisation de données et en utilisation de bibliothèques de modélisation.Pour une approche pluridisciplinaire des problèmes liés aux applications, la Modélisation Mathématique et la Science de Données ne peuvent que former des étudiants pour la recherche et les activités professionnelles de haut niveau avec des compétences nécessaires pour mener un travail de recherche et/ou de développement en misant sur : l’autonomie dans l’analyse d’un problème complexe et la proposition d’approches (théoriques, numériques et/ou expérimentales) appropriées ; la maîtrise de l’outil informatique (notamment pour l’analyse de grandes quantités de données) et le calcul scientifique qui se pose à l’entreprise et une solution innovante et compétitive.Capacité de communication : Les étudiants doivent être capables de présenter et de communiquer efficacement leurs résultats et leurs conclusions. Des compétences en visualisation des données et en présentation orale sont essentielles.En plus une bonne formation en MMSD permettra de mieux optimiser les ressources humaines surtout au niveau des encadrants des PFEs (Master) et/ou des Doctorants. ",
+            "semesters": {
+                "Semestre 1": {
+                    "Module 1": "Anglais Scientifique I & Soft Skils",
+                    "Module 2": "Programmation Avancée avec Python et R",
+                    "Module 3": "Analyse Numérique Matricielle Avancée",
+                    "Module 4": "Modélisation et calcul fractionnaire",
+                    "Module 5": "Equation différentielle stochastique (EDS)",
+                    "Module 6": "Analyse fonctionnelle et applications"
+                },
+                "Semestre 2": {
+                    "Module 1": "Sécurité Informatique",
+                    "Module 2": "Analyse numérique des EDPs",
+                    "Module 3": "Séminaire / Initiation à la recherche",
+                    "Module 4": "IA et Machine Learning",
+                    "Module 5": "Statistiques des valeurs extrêmes",
+                    "Module 6": "Analyse asymptotique et modélisation"
+                },
+                "Semestre 3": {
+                    "Module 1": "Analyses de données /BIG DATA",
+                    "Module 2": "Modèles Mixtes et applications sous R",
+                    "Module 3": "Semi Groupes et équation d'évolution",
+                    "Module 4": "Optimisation et contrôle Optimal",
+                    "Module 5": "Séries chronologiques et Méthodes de prévision",
+                    "Module 6": "Anglais Scientifique II & Soft Skils"
+                },
+                "Semestre 4": {
+                    "Module 1": "Projet de fin d’étude"
+                }
+            },
+            "competence": "Donner une formation mathématique et statistique-informatique de haut niveau et vise à développer les compétences en communication et l'autonomie des étudiants.Connaissance des outils pratiques de modélisation mathématiques et d’analyse des données pour la résolution de problèmes issus d'autres disciplines (physique, chimie, biologie, informatique, économie, etc.).Compréhension et analyse de documents scientifiques et de grandes bases de données.Conduite d'un projet d'une durée d’un semestre.Rédaction de rapports et présentation d'exposés de nature mathématique.Préparation à l'agrégation de mathématiques et concours des professeurs de second cycle.Ingénieur en simulation numérique ",
+            "email_coord": "r.elhalimi@uae.ac.ma",
+            "name_coord": "Pr.EL HALIMI"
+        },
+        {
+            "formation": "MST : Sciences Agroalimentaires",
+            "objectif": "L'objectif global de cette formation du Master est de former des ressources humaines dont le pays a besoin pour un développement optimal des sciences agroalimentaires.Parmi les objectifs spécifiques :Fournir aux étudiants une formation scientifique et professionnelle avec une approche globale et interdisciplinaire, couvrant différents domaines des sciences et technologies agroalimentaires.Préparer les étudiants à entamer leur vie active dans les différents domaines couvrant les technologies agroalimentaires.Former des professionnels ayant des compétences pour innover et solutionner des problèmes liés aux différents domaines couvrant les sciences agroalimentaires. Les cadres ainsi formés seront dotés d’une double compétence technologique et organisationnelle et seront capables de prendre en charge des projets de recherche et de développement en entreprise et de conduire des activités de production. ",
+            "semesters": {
+                "Semestre 1": {
+                    "Module 1": "Procédés industriels",
+                    "Module 2": "Techniques d’analyses des biomolécules 1",
+                    "Module 3": "Anglais scientifique",
+                    "Module 4": "Biochimie alimentaire",
+                    "Module 5": "Microbiologie Alimentaire",
+                    "Module 6": "Exploitation des Données expérimentales"
+                },
+                "Semestre 2": {
+                    "Module 1": "Techniques d’analyses des biomolécules 2",
+                    "Module 2": "Production animale/Production végétale",
+                    "Module 3": "Marketing et économie de filière",
+                    "Module 4": "Réglementation et système de management de la santé et sécurité alimentaire",
+                    "Module 5": "Filière de production : Transformation des produits d’origine végétale",
+                    "Module 6": "Filière de production : Transformation des produits d’origine animale"
+                },
+                "Semestre 3": {
+                    "Module 1": "Formulation, et chimie des aliments",
+                    "Module 2": "Emballage et sécurité alimentaire",
+                    "Module 3": "Soft Skill",
+                    "Module 4": "Analyse de cycle de vie et valorisation des bioressources et biodéchets",
+                    "Module 5": "Valeur nutritionnelle et sensorielle",
+                    "Module 6": "Gestion de projet"
+                },
+                "Semestre 4": {
+                    "Module 1": "Stage d’initiation a la recherche"
+                }
+            },
+            "competence": "La formation du Master a pour but d’approfondir les compétences des étudiants dans les domaines suivants :Conduite d’un projet R&DCaractérisation physico-chimique, nutritionnelle, organoleptique et rhéologique des alimentsMéthodes d’analyse des données et d’interprétation des résultatsFormation générale à la communication et à la connaissance de l’environnement professionnel. ",
+            "email_coord": "alaglaoui@uae.ac.ma",
+            "name_coord": "Pr.Amin LAGLAOUI"
+        },
+        {
+            "formation": "MST : Sciences de l’Environnement",
+            "objectif": "Cette formation permettra aux étudiants d’acquérir une spécialisation en environnement répondant aux exigences de la recherche fondamentale et appliquée, et apportant une ouverture sur les applications de la recherche dans les secteurs socio-économiques. ",
+            "semesters": {
+                "Semestre 1": {
+                    "Module 1": "Procédés de séparation",
+                    "Module 2": "Chimie de l’environnement et rejets urbains",
+                    "Module 3": "Statistique et Simulation numérique",
+                    "Module 4": "Microbiologie de l’Environnement",
+                    "Module 5": "Changements climatiques",
+                    "Module 6": "Anglais/ Expression et communication environnementale"
+                },
+                "Semestre 2": {
+                    "Module 1": "Fonctionnement et préservation des écosystèmes/Étude d’impact sur l’environnement",
+                    "Module 2": "Ressources hydriques et risque de contamination",
+                    "Module 3": "Risques environnementaux nature/ Gestion des déchets",
+                    "Module 4": "Bio-remédiation et lutte biologique en environnement",
+                    "Module 5": "Méthodes spectrométriques",
+                    "Module 6": "Droit et management environnement"
+                },
+                "Semestre 3": {
+                    "Module 1": "Génie physico-chimique des traitements des eaux/ Dépollution atmosphérique",
+                    "Module 2": "Environnement marin",
+                    "Module 3": "Gestion des déchets, traitement et valorisation",
+                    "Module 4": "Gestion intégrée des zones côtières/Développement durable",
+                    "Module 5": "Microorganismes et Environnement",
+                    "Module 6": "Gestion de projet"
+                },
+                "Semestre 4": {
+                    "Module 1": "Projet de fin d’étude"
+                }
+            },
+            "competence": "Cadres de compétence pluridisciplinaire capables :D’identifier et d’évaluer les différentes pollutions et de mettre en œuvre des technologies de traitements appropriés ;D’acquérir les grandes techniques d’instrumentation, d’analyse et de contrôle pour la protection de l’environnement ;De se préparer aux carrières de recherche universitaire et industrielle ; ",
+            "email_coord": "a.elarrim@uae.ac.ma",
+            "name_coord": "Pr.A.El Arrim"
+        },
+        {
+            "formation": "MST : Sciences du Littoral:Approche Pluridisciplinaire",
+            "objectif": "Ce projet de Master représente le fruit d’un travail approfondi avec un financement de l’Union Européenne (Erasmus Plus - Capacity Building) impliquant 4 universités marocaines (Abdelmelk Essaâdi, IbnTofail, Mohammed V et Chouaib Doukkali). La finalité du projet est d’accompagner par la formation, la dynamique socioéconomique que connait le Maroc. En effet, avec ses 3500 kms de côte (façades Atlantique et méditerranée) le Royaume du Maroc se fixe un positionnement de Leader en Afrique et dans l’espace méditerranéen en matière de gestion intégrée du littoral et de ses infrastructures maritimes et portuaires de grande envergure. Cette gestion intégrée prend en considération l’ensemble des secteurs porteurs de richesse et de création d’emploi, à savoir, les secteurs de la pêche, le tourisme, l’aménagement du territoire, les changements climatiques, le transport, la logistique maritime etc. L’objectif final de ce projet est de former un potentiel humain compétent et rapidement opérationnel pour accompagner la dynamique nationale de développement relative aux différentes activités socioéconomiques du littoral marocain. Les deux premiers semestres de ce master constituent un tronc commun visant la mise à niveau des étudiants ayant des profils différents. Le 3ème semestre est dédié aux différents parcours ou options. Chaque option est prise en charge par chaque université engagée dans ce projet. La pluridisciplinarité constitue un atout essentiel de la formation et permet aux étudiants d'acquérir une vision large et globale sur le fonctionnement biogéochimique des écosystèmes littoraux et marins.      ",
+            "semesters": {
+                "Semestre 1": {
+                    "Module 1": "Anglais scientifique",
+                    "Module 2": "SPOC Risques Côtiers : RISCOMAR (cours en ligne)",
+                    "Module 3": "Biologie des écosystèmes marins et côtiers",
+                    "Module 4": "Valorisation des ressources marines",
+                    "Module 5": "Géologie marine appliquée",
+                    "Module 6": "Géomorphologie et dynamique du littoral"
+                },
+                "Semestre 2": {
+                    "Module 1": "Gestion de projets",
+                    "Module 2": "Instrumentation pour des applications côtières et littorales",
+                    "Module 3": "École de terrain : Approches thématiques",
+                    "Module 4": "Océanographie physique",
+                    "Module 5": "Introduction à la chimie des écosystèmes marins et côtiers",
+                    "Module 6": "Droit et économie de la mer et de l’environnement littoral"
+                },
+                "Semestre 3": {
+                    "Module 1": "Aménagement du littoral et impacts socioéconomiques",
+                    "Module 2": "Changements climatiques et risques côtiers",
+                    "Module 3": "Érosion côtière et stabilité du littoral",
+                    "Module 4": "Agro-écologie appliquée à l’aquaculture",
+                    "Module 5": "Droit de la mer et géopolitique marine",
+                    "Module 6": "Télédétection SIG"
+                },
+                "Semestre 4": {
+                    "Module 1": "Projet de Fin d’Etudes"
+                }
+            },
+            "competence": "Ce projet de Master ST est pluridisciplinaire. Il vise la formation d’un potentiel humain compétent et rapidement opérationnel dans toutes les activités liées au milieu marin et littoral (Pêche et aquaculture, tourisme balnéaire, activités portuaires, pollution marine et côtière, dynamique côtière, géophysique marine et côtière, géomorphologie et érosion littorale, ressources marines, impacts des changements climatiques, gestion spatiale, aménagement du territoire etc.        ",
+            "email_coord": "mmaatouk@uae.ac.ma",
+            "name_coord": "Pr.Maatouk Mustapha"
+        },
+        {
+            "formation": "MST : Sécurité IT et Big Data",
+            "objectif": "La transformation digitale a profondément modifie tous les aspects du fonctionnement des entreprises et des organisations d’aujourd'hui. Le volume de données que les entreprises créent, manipulent et stockent augmente. De plus la dématérialisation massive des systèmes d'Information vers le cloud, l'explosion de l'internet des objets (IoT) dans un monde tout connecté accessible en mobilité avec smartphone, tablettes, la fraude sur internet via différentes techniques d'ingénierie sociale, la perte de données sensibles suite à des malversations, l'accroissement du télétravail utilisant des réseaux de communication vulnérables ( Internet, mobiles, wifi...) par conséquent les environnements informatiques des entreprises sont plus complexes qu'ils ne l'étaient auparavant, cette complexité crée une surface d'attaque étendue qui est plus difficile à surveiller et à sécuriser. Ceci oblige les entreprises et organisations à repenser leur approche du cyber sécurité, dans un cadre réglementaire de plus en plus contraignant, pour être en mesure de continuer à protéger leurs systèmes d'information de la \" Cyber-menace\" en constante évolution.Dans ce contexte, le Master Sciences et Technique: Sécurité IT et Big Data vise à former des étudiants capables de s'intégrer dans des projets d'envergure dans le domaine de la sécurité des données massives, en cryptographie, en sécurité des réseaux et des protocoles, ayant des grandes compétences et capacités avancés leurs permettant d'appréhender les modes de pensée des hackers, de mettre en place des audits cyber sécurité, d'imaginer les contremesures efficaces, de superviser les systèmes d'exploitation, les réseaux et les applications web, de mettre en place des approches de gouvernance de la sécurité, et enfin de gérer les risques. ",
+            "semesters": {
+                "Semestre 1": {
+                    "Module 1": "Programmation Orientée Objet Avancée en Java / Python",
+                    "Module 2": "Réseaux avancés",
+                    "Module 3": "Data Mining (DM) et Systèmes d’Aide à la Décision (DAS",
+                    "Module 4": "Administration Systèmes et Réseaux",
+                    "Module 5": "Concepts fondamentaux de l’intelligence artificielle",
+                    "Module 6": "Anglais et technique d’expression"
+                },
+                "Semestre 2": {
+                    "Module 1": "Intelligence Artificielle Distribuée (SMA) & Apprentissage Automatique (ML)",
+                    "Module 2": "Technologies IoT: Architectes, protocoles et applications",
+                    "Module 3": "Virtualisation, Cloud et Edge Computing",
+                    "Module 4": "Cryptographie Et Sécurité des Services",
+                    "Module 5": "Architecture et Technologies Big Data",
+                    "Module 6": "Gestion de l’innovation et management de projet informatique"
+                },
+                "Semestre 3": {
+                    "Module 1": "Cybersecurity & Ethical hacking",
+                    "Module 2": "Calcul Haute Performance et Applications en Big Data",
+                    "Module 3": "Deep learning et Applications",
+                    "Module 4": "Administration des Bases de Données Distribuées et Clusters Big Data",
+                    "Module 5": "Audit des systèmes d’information et Management de la sécurité des systèmes d’information",
+                    "Module 6": "Développement Personnel Et Intelligence Émotionnelle"
+                },
+                "Semestre 4": {
+                    "Module 1": "Projet de fin d’étude"
+                }
+            },
+            "competence": "À l’issue de cette formation, le lauréat du master Sécurité IT et Big Data pourrait exercer l’un des métiers suivants :Ingénieur en Cyber Sécurité.Spécialiste en Gouvernance de la Sécurité.Spécialiste de sécurité applicative.Ethical Hacker.Expert en Cyber sécurité.Architecte Réseaux et Systèmes sécurisé.Big Data Architecte.Big Data Analyst.Administrateur sécurité réseaux.Les lauréats de ce Master ayant les meilleurs résultats peuvent postuler pour les études en Doctorat, dans les domaines des Cyber sécurité et Big Data. ",
+            "email_coord": "mstsit.bd@gmail.com",
+            "name_coord": "Pr.Abdelhamid ZOUHAIR"
+        },
+        {
+            "formation": "MST : Systèmes Informatiqueset Mobiles",
+            "objectif": "L’administration des systèmes informatiques et mobiles, comme le Cloud Computing et les objets Internet interconnectés, est devenue aujourd’hui d’une grande nécessité, car ces systèmes sont utilisés dans pratiquement tous les secteurs de l’industrie. En effet, l’évolution de la télécommunication, des téléphones mobiles, des capteurs à prix réduits, et des systèmes Cloud Computing, a créé ce besoin, notamment pour mieux gérer ces infrastructures, qui font, désormais, partie de la vie du citoyen de tous les jours, par exemple dans les réseaux sociaux, les domaines bancaires, les transports, le e-commerce, etc.Ce Master a pour objectif de former des étudiants capables de répondre aux besoins de gestion et d’administration des systèmes informatiques et mobiles, tout en ayant les compétences nécessaires dans le développement d’applications spécifiques et de la sécurité, ceci afin d’accompagner les organisations dans leurs processus d’implémentation de systèmes informatiques modernes et évolués. ",
+            "semesters": {
+                "Semestre 1": {
+                    "Module 1": "Programmation Orientée Objet",
+                    "Module 2": "Systèmes Embarqués Et Mobilité",
+                    "Module 3": "Théorie des Graphes et Recherche",
+                    "Module 4": "IP Mobile Et Protocoles",
+                    "Module 5": "Administration Des Bases De Données",
+                    "Module 6": "Anglais"
+                },
+                "Semestre 2": {
+                    "Module 1": "Data Mining et Machine Learning",
+                    "Module 2": "Scripting Shell et programmation système",
+                    "Module 3": "Administration systèmes et  réseaux",
+                    "Module 4": "Administration systèmes et réseaux",
+                    "Module 5": "Cloud Computing et Virtualisation",
+                    "Module 6": "Soft Skills"
+                },
+                "Semestre 3": {
+                    "Module 1": "Analysis, Mining And Indexing In Big Multimedia Systems",
+                    "Module 2": "Développement Mobile",
+                    "Module 3": "Cyber sécurité et investigation",
+                    "Module 4": "Objets Connectés et Intelligence",
+                    "Module 5": "Calcul parallèle et application distribuées",
+                    "Module 6": "Management de Projet et Gestion de l'Innovation"
+                },
+                "Semestre 4": {
+                    "Module 1": "Projet de fin d’étude"
+                }
+            },
+            "competence": "Administration des infrastructures informatiques des établissementsImplémentation et gestion des systèmes Cloud ComputingRéalisation d’applications mobiles pour des besoins spécifiquesSécurité des systèmes d’informationGestion des systèmes mobiles et des objets connectésAdministration des bases de donnéesAdministration de la sécurité réseauxDéveloppement des applications MobilesDéveloppement des applications pour l’Internet des Objets ",
+            "email_coord": "celamrani@uae.ac.ma",
+            "name_coord": "Pr.El Amrani"
+        }
+    ],
+    "Cycle d'ingénieur": [
+        {
+            "formation": "DI:Génie Electrique et ManagementIndustriel",
+            "objectif": "La formation proposée dans la spécialité Génie Electrique de la FST de Tanger a pour but de fournir au futur ingénieur en Génie Electrique tous les éléments indispensables à son insertion harmonieuse dans le monde industriel. Les enseignements associent théorie et techniques, expérimentation, projets et réalisations.Les enseignements dispensés sont répartis en quatre groupes de matières : des enseignements à caractère général, des disciplines fondamentales, un enseignement professionnel et une formation pratique par le biais de projets et de stages. ",
+            "semesters": {
+                "Semestre 1": {
+                    "Module 1": "Mathématiques pour l’Ingénieur",
+                    "Module 2": "Informatique",
+                    "Module 3": "Électronique",
+                    "Module 4": "Instrumentation et Capteurs",
+                    "Module 5": "Energétique et MDF",
+                    "Module 6": "Communication professionnelle"
+                },
+                "Semestre 2": {
+                    "Module 1": "Ingénierie de la Qualité",
+                    "Module 2": "Automatique linéaire continue et échantillonné",
+                    "Module 3": "Conception et Procédés de fabrication",
+                    "Module 4": "Automatisme",
+                    "Module 5": "Culture et Gestion de l’entreprise",
+                    "Module 6": "Anglais Technique"
+                },
+                "Semestre 3": {
+                    "Module 1": "Mathématiques pour l’ingénieur II",
+                    "Module 2": "Électrotechnique",
+                    "Module 3": "Traitement de signal",
+                    "Module 4": "Les sources d’énergies et réseaux de distribution",
+                    "Module 5": "Machines Industrielles",
+                    "Module 6": "GRH & Droit du travail"
+                },
+                "Semestre 4": {
+                    "Module 1": "Gestion et Maintenance & Sûreté de fonctionnement",
+                    "Module 2": "Machines électriques",
+                    "Module 3": "Électronique de puissance",
+                    "Module 4": "Systèmes à Microprocesseurs et à Microcontrôleurs",
+                    "Module 5": "Soft Skills",
+                    "Module 6": "Analyse Gestion de projets/ Comptabilité générale et analytique"
+                },
+                "Semestre 5": {
+                    "Module 1": "Modélisation et Commande des machines",
+                    "Module 2": "Amélioration des processus industriels et Assurance Qualité",
+                    "Module 3": "Automatique Avancée et électronique des systèmes",
+                    "Module 4": "Systèmes embarqués et Temps réel",
+                    "Module 5": "Réseaux et Télécommunication",
+                    "Module 6": "Innovation et Développement Durable"
+                },
+                "Semestre 6": {
+                    "Module 1": "Projet de fin d’étude"
+                }
+            },
+            "competence": "La formation proposée vise à préparer les futurs ingénieurs dans les aspects principaux de génie électrique et management industriel.La production, la distribution, la transformation et l'utilisation de l'énergie électrique. la conception et la mise en oeuvre d'ensembles formés par les machines électriques et les convertisseurs qui les alimentent;L'automatique et tous les aspects qui interviennent dans la commande des systèmes industriels;Dans la partie électronique, les systèmes sont étudiés du point de vue de leur conception, réalisation et mise en oeuvre.La gestion de la maintenance, l’ingénierie de la qualité et l’amélioration des processus industriels et assurance qualité DÉBOUCHÉSIngénieur électronicien, électrotechnicien, automaticien et/ou managerIngénieur de rechercheIngénieur d'étudesIngénieur des méthodes et des essaisIngénieur de fabricationIngénieur logistiqueIngénieur technico-commercial ou d'affaires  ",
+            "email_coord": "ihadjbaraka@uae.ac.ma",
+            "name_coord": "Pr. Ibrahim HADJ"
+        },
+        {
+            "formation": "DI : Génie Industriel",
+            "objectif": "Acquérir de solides compétences dans les domaines des sciences et des technologies ;Disposer d'un potentiel de créativité et d'innovation ;Disposer d'aptitudes à conduire, à maîtriser, à organiser et à faire évoluer des procédés et des processus industriels ;Être capable de conduire, de diriger et de réaliser des projets industriels ;Maîtriser l'évolution des technologies ;Être capable de s’insérer et d’évoluer professionnellement dans les services techniques et scientifiques des entreprises ",
+            "semesters": {
+                "Semestre 1": {
+                    "Module 1": "Mathématiques pour l’Ingénieur",
+                    "Module 2": "Programmation C++ / JAVA",
+                    "Module 3": "Automatique linière continue et échantillonné",
+                    "Module 4": "Électronique",
+                    "Module 5": "Énergétique et mécanique des fluides",
+                    "Module 6": "Techniques d’expression et de communication"
+                },
+                "Semestre 2": {
+                    "Module 1": "Systèmes d’informations et base de données",
+                    "Module 2": "Électricité industrielle",
+                    "Module 3": "Automatisme",
+                    "Module 4": "Conception & Procédés de Fabrication",
+                    "Module 5": "Métrologie et Instrumentation",
+                    "Module 6": "Culture et Gestion de l’Entreprise"
+                },
+                "Semestre 3": {
+                    "Module 1": "Méthodes Numériques et Optimisation des Processus",
+                    "Module 2": "Électrotechnique et Machines Électriques",
+                    "Module 3": "Automatique linéaire continue et échantillonné",
+                    "Module 4": "Anglais Scientifique",
+                    "Module 5": "Machines Industrielles",
+                    "Module 6": "RDM et Matériaux"
+                },
+                "Semestre 4": {
+                    "Module 1": "Fiabilité Mécanique",
+                    "Module 2": "Construction Mécanique",
+                    "Module 3": "Fabrication Mécanique",
+                    "Module 4": "Gestion de la Maintenance & Sûreté de fonctionnement",
+                    "Module 5": "Ingénierie Matériaux & Vibrations Mécaniques",
+                    "Module 6": "Communication professionnelle"
+                },
+                "Semestre 5": {
+                    "Module 1": "Gestion de Production et management de projet",
+                    "Module 2": "GRH et Comptabilité Analytique",
+                    "Module 3": "QSE et Laen Manufacturing",
+                    "Module 4": "Outils de la Qualité et six sigma",
+                    "Module 5": "Logistique, Gestion intégrée & transport",
+                    "Module 6": "Innovation Et développement durable"
+                },
+                "Semestre 6": {
+                    "Module 1": "Projet de fin d’étude"
+                }
+            },
+            "competence": "L'activité de l'ingénieur industriel s'étend des premiers contacts avec les clients jusqu'au recyclage du produit qu'il a conçu. Il assumera donc la responsabilité technique, économique et écologique de son projet. L’ingénieur mécanicien intervient dans différents domaines d’activités : automobile, sidérurgie, aéronautique, machines outils, biens de consommation, agroalimentaire.L’ingénieur mécanicien s’intègre facilement au sein d’une PME qu’au sein d’une grande entreprise. Dans ces secteurs d’activités il occupera des postes clés dans les domaines suivants: Recherche et développement, Bureaux d’Etudes, Conception et Fabrication, Services Production, Qualité, Maintenance, Services Logistiques, Responsable projet et développement, Vente, Mise en service, Exploitation, Gestion et administration, Formation. ",
+            "email_coord": "zefelsoufi@uae.ac.ma",
+            "name_coord": "Pr. Zoubir ELFELSOUFI"
+        },
+        {
+            "formation": "DI: Géoinformation",
+            "objectif": "Le principal objectif de cette filière est de former des ingénieurs \"géo-informaticiens cartographes gestionnaires de l’information spatiale\" polyvalents, qui s'intéressent prioritairement à l'organisation, au traitement, à la gestion et à la production des données géographiques et environnementales au moyen de la cartographie, de la télédétection, de l'analyse spatiale quantitative et des systèmes d'informations géographiques.Ce programme permet à l'étudiant d’acquérir les connaissances et les compétences en géo-information et les technologies de l’information requises pour la mise en place d’infrastructures informatiques de pointe au service de la donnée géo-spatiale.Pour atteindre cet objectif, le programme s’appui sur une démarche active de prise en main des méthodes et outils de la géo-information résolument tournée vers les applications. Ils combinent des cours théoriques et pratiques incluant aussi des travaux de terrain et des travaux personnels encadrés, des études de cas de montage et de conduite de projets, des applications opérationnelles et des stages en milieux professionnels.",
+            "semesters": {
+                "Semestre 1": {
+                    "Module 1": "Algorithmique et programmation",
+                    "Module 2": "Compléments de mathématique et Analyse numérique",
+                    "Module 3": "Statistique/Analyse des données",
+                    "Module 4": "Bases physiques de la télédétection/Traitement du signal",
+                    "Module 5": "Communication professionnelle",
+                    "Module 6": "Systèmes d’information et réseaux informatique"
+                },
+                "Semestre 2": {
+                    "Module 1": "Cartographie numérique et DAO",
+                    "Module 2": "Programmation et modélisation Objet",
+                    "Module 3": "Information géographique et systèmes de projection",
+                    "Module 4": "Géométrie analytique et algorithmique",
+                    "Module 5": "Anglais 1",
+                    "Module 6": "Optimisation et analyse de systèmes"
+                },
+                "Semestre 3": {
+                    "Module 1": "Géodésie/Localisation par satellite (GPS)",
+                    "Module 2": "Topographie",
+                    "Module 3": "Bases de données  spatiales et relationnelles",
+                    "Module 4": "Communication professionnelle/Méthode de recherche",
+                    "Module 5": "Méthode d’analyse spatiales",
+                    "Module 6": "Systèmes d’information géographique"
+                },
+                "Semestre 4": {
+                    "Module 1": "Télédétection Radar/Lidar",
+                    "Module 2": "Télédétection et traitement d’images optique",
+                    "Module 3": "Photogrammétrie",
+                    "Module 4": "Programmation pour les SIG et pour la télédétection",
+                    "Module 5": "Anglais 2",
+                    "Module 6": "Wabemapping & Développement mobile"
+                },
+                "Semestre 5": {
+                    "Module 1": "Systèmes de Management de la qualité/Gestion del’entreprise & des ressources",
+                    "Module 2": "Géoinformation et gestion de l’environnement et du territoire",
+                    "Module 3": "SIG et prise de décision",
+                    "Module 4": "Gestion et management de projet en Géoinformation",
+                    "Module 5": "Gestion des réseaux et développement socioéconomique",
+                    "Module 6": "Administration des données spatiales"
+                },
+                "Semestre 6": {
+                    "Module 1": "Projet de fin d’étude"
+                }
+            },
+            "competence": "La filière forme pour des profils de :Chef de projet informatiqueAdministrateur de donnéesDirecteur de service cartographiqueExpert en acquisition et traitement de données spatialesIngénieur adjoint en Gestion des réseaux (transport, distribution..)Expert en aménagement et développement durableChef de mission géodésique et topographique…etc ",
+            "email_coord": "j.elabdellaoui@uae.ac.ma",
+            "name_coord": "Pr.Jamal Eddine"
+        },
+        {
+            "formation": "DI: Logiciels et Systèmes Intelligents",
+            "objectif": "Former des ingénieurs capables de :Comprendre les enjeux des techniques de l’informationProposer et construire des solutions informatiques et décisionnelles compétitives et réalistesIntervenir sur des problématiques informatiques complexesPiloter des projets informatiques et les changements qu'ils entraînent. ",
+            "semesters": {
+                "Semestre 1": {
+                    "Module 1": "Architecture des ordinateurs & systèmes d'exploitation",
+                    "Module 2": "Architecture réseaux & protocoles",
+                    "Module 3": "Systèmes d’informations & bases de données",
+                    "Module 4": "Programmation Orientée Objets en C++",
+                    "Module 5": "Mathématiques pour l’ingénieur",
+                    "Module 6": "Anglais et techniques de rédaction"
+                },
+                "Semestre 2": {
+                    "Module 1": "Programmation Orientée Objets en Java et Programmation Mobile",
+                    "Module 2": "Développement web et Frameworks (php, zend, symfony",
+                    "Module 3": "Théorie des graphes & Applications",
+                    "Module 4": "Conception Orienté Objet (UML) & Qualité Logiciel",
+                    "Module 5": "Statistique descriptive et inférentielle",
+                    "Module 6": "Management & comptabilité"
+                },
+                "Semestre 3": {
+                    "Module 1": "Systèmes embarqués & Internet des objets",
+                    "Module 2": "Gestion de projet Informatique & Planification des ressources d'entreprise (open ERP)",
+                    "Module 3": "Administration des bases de données",
+                    "Module 4": "Méthodologies de l'Intelligence Artificielle",
+                    "Module 5": "Architectures web distribuées (J2EE)",
+                    "Module 6": "Anglais Avancée & Techniques d'exposition"
+                },
+                "Semestre 4": {
+                    "Module 1": "Systèmes d’informations décisionnels & data mininig",
+                    "Module 2": "Technologies .NET",
+                    "Module 3": "Machine Learning & Systèmes multi-agents",
+                    "Module 4": "Administration systèmes et réseaux",
+                    "Module 5": "Procesus audit & Urbanisation des systèmes d’informations",
+                    "Module 6": "Droit & gestion d'entreprise"
+                },
+                "Semestre 5": {
+                    "Module 1": "Business Intelligence & Big Data",
+                    "Module 2": "Vision Artificielle",
+                    "Module 3": "Sécurité Intelligente des Systèmes d’informations",
+                    "Module 4": "Cloud Intelligence & virtualisation",
+                    "Module 5": "Intelligence économique & Soft Skills",
+                    "Module 6": "Anglais professionnel & techniques de coaching"
+                },
+                "Semestre 6": {
+                    "Module 1": "Projet de fin d’étude"
+                }
+            },
+            "competence": "COMPÉTENCES VISÉES :Concevoir et développer des plates formes logiciels desktop, logiciel et mobileConcevoir et mettre en place des systèmes d’aide à la décisionAdministrer une infrastructure informatiqueGérer et conduire un projet informatique DÉBOUCHÉS : Ingénierie logicielleIngénierie de réseaux d’entreprisesIntégration des systèmes d’aide à la décisionAdministrateur Systèmes et réseauxConcepteur des plateformes décisionnelles ",
+            "email_coord": "lelaachak@uae.ac.ma",
+            "name_coord": "Pr.Lotfi EL"
+        }
+    ],
+    "Formation Continue": [
+        {
+            "formation": "AUTOMATISMES INDUSTRIELS AVANCÉS",
+            "objectif": " Objectifs Général de la Formation : Cette formation prépare les étudiants et salariés opérationnels dans le secteur de la maintenance industrielle ou la production, aux systèmes de production automatisée. La formation traite particulièrement les systèmes de commande réalisés par différentes solutions technologiques.Objectifs Spécifiques de la Formation : Former des techniciens sur la partie commande d’un système de production piloté par automates programmables.Maitriser la programmation des automates programmables et composants annexes. Former des techniciens capables d’intervenir sur les systèmes automatisés en vue de conduite ou de maintenance.",
+            "Public Concerné": "Techniciens à la recherche d’une spécialisation pour faciliter leur insertion dans le monde industriel,Techniciens opérationnels à la recherche d’une mise à niveau de leurs connaissances techniques pour pouvoir répondre aux exigences de leur fonction face aux progrès technologiques,Salariés du milieu industriel désirant diversifier leur connaissance pour une réinsertion et développement de carrière.",
+            "Programme": {
+                "Module 1": {
+                    "Nom": "Automatismes industriels",
+                    "Eléments": {
+                        "Elément 1": "Electronique numérique",
+                        "Elément 2": "Microcontrôleurs"
+                    }
+                    },
+                "Module 2": {
+                    "Nom": "Automates programmables",
+                    "Eléments": {
+                        "Elément 1": "Automates programmables"
+                    }
+                    },
+                "Module 3": {
+                    "Nom": "Actionneurs",
+                    "Eléments": {
+                        "Elément 1": "Actionneurs",
+                        "Elément 2": "Variateurs de vitesse"
+                    }
+                    },
+                "Module 4": {
+                    "Nom": "APIs avancés",
+                    "Eléments": {
+                        "Elément 1": "Programmation avancée des APIs",
+                        "Elément 2": "Maintenance des APIs",
+                        "Elément 3": "Réseaux et Bus de terrain"
+                    }
+                    },
+                "Module 5": {
+                    "Nom": "IHM & Scada",
+                    "Eléments": {
+                        "Elément 1": "IHM",
+                        "Elément 2": "Scada"
+                    }
+                    },
+                "Module 6": {
+                    "Nom": "Informatique & Soft skills",
+                    "Eléments": {
+                        "Elément 1": "Outils informatiques",
+                        "Elément 2": "Soft skills"
+                    }
+                    },
+                "Module 7": {
+                    "Nom": "Projet tutoré",
+                    "Eléments": {
+                        "Elément 1": "Projet tutoré"
+                    }
+                    }
+                },
+            "Coût de la formation": "Non spécifié",
+            "Débouchés": "Non spécifié",
+            "email_coord": "ihadjbaraka@uae.ac.ma",
+            "nom_coord": "Pr I. Hadj Baraka",
+            "numéro": "0661 32 93 83"
+        },
+        {
+            "formation": "Ingénierie Civil et Gestion des Projets de B.T.P",
+            "objectif": "L'objectif de la formation continue proposée (DCA*), est de former des cadres capables de participer à la conception, à la maîtrise, à la réalisation et à la conduite des projets dans le domaine du bâtiment et des travaux publics ; tout en intégrant les facteurs techniques, économiques et humains de l’entreprise,  depuis la préparation jusqu'à la livraison. ",
+            "Public Concerné": "Les conditions d’accès au  DCA sont :Etre titulaire d’un Bac+2 minimum dans le domaine scientifique, économique ou de gestion, de l’enseignement supérieur.Une présélection sur la base du dossier,Un entretien individuel.",
+            "Programme": {
+                "Module 1": {
+                    "Nom": "Ingénierie Civil",
+                    "Eléments": {
+                        "Elément 1": "Géotechnique de bâtiment",
+                        "Elément 2": "Géotechnique routière",
+                        "Elément 3": "Matériaux de construction",
+                        "Elément 4": "RDM",
+                        "Elément 5": "Béton armé",
+                        "Elément 6": "Logiciels de génie civil",
+                        "Elément 7": "Charpente métallique",
+                        "Elément 8": "Conception des ouvrages de génie civil CAO/DAO",
+                        "Elément 9": "Procédés de constructions",
+                        "Elément 10": "Topographie",
+                        "Elément 11": "Assainissement",
+                        "Elément 12": "Ouvrages d’arts",
+                        "Elément 13": "Métré",
+                        "Elément 14": "Etude des prix"
+                    }
+                    },
+                "Module 2": {
+                    "Nom": "Automates programmables",
+                    "Eléments": {
+                        "Elément 1": "Gestion du Temps",
+                        "Elément 2": "Gestion de projets",
+                        "Elément 3": "Conduite de projets et de travaux",
+                        "Elément 4": "Législations applicables au génie civil",
+                        "Elément 5": "Droit des marchés",
+                        "Elément 6": "Technique de négociation",
+                        "Elément 7": "Management par la Qualité / sécurité(ISO 9001, OSHAS 18001)",
+                        "Elément 8": "Structure documentaire",
+                        "Elément 9": "Audit qualité",
+                        "Elément 10": "Management",
+                        "Elément 11": "Communication et développement personnel",
+                        "Elément 12": "Outils de résolution des problèmes"
+                    }
+                    },
+                "Module 3": {
+                    "Nom": "Projet de fin d’études",
+                    "Eléments": {
+                        "Elément 1": "Projet de fin d’études"
+                    }
+                }
+            },
+            "Coût de la formation": "Coût total de la formation : 25.000 Dhs Possibilité de paiement en deux tranches",
+            "Débouchés": "Non spécifié",
+            "email_coord": "pr_alaoui@yahoo.fr",
+            "nom_coord": "Pr A. Alaoui H.",
+            "numéro": "0661 20 48 53"
+        },
+        {
+            "formation": "Ingénierie de la maintenance industrielle",
+            "objectif": " 1-Objectifs généraux :    La formation vise à repondre à un besoin en compétences scientifiques et techniques de heut niveau et ce dans le secteur industriel, national ou international en général, et régional particulier.   En effet, compte tenu du développement croissant de la région du Nord du royaume, la demande en matiére de cadres et techniciens qualifiés dans diverses spécialitées ne cesse d'augmenter, c'est la raison pour laquelle cette formation est mise en place en vue de répondre en partie à cette demande.2-Objectifs spécifiques :   L'objectif vise à former des cadres, techniciens et techniciens supérieurs dans les techniques de maintenance des systèmes automatisés aisi que dans les fonctions d'organisation de la gestion de la maintenance, gestion de processus industriels, d'industrialisation de produits nouveaux, d'amélioration industrielle, de pilotage de la production, de conduite de projets industriels...   La formation proposée a pour but de fournir aux candidats tous les éléments indispensables à son insertion harmonieuse dansle monde industriel. Les enseignements proposés associent théorie et techniques, expérimentation, projets et réalisation.",
+            "Public Concerné": "Le DCA <<Ingénieurie de la maintenance industrielle>> est ouvert :Aux titulaires d'un DEUG, DEUT ou DEUPAux titulaires d'un diplôme : Bac+2 délivré par les établissements publics ou privés relevant de l'enseignement supérieurTout diplôme de niveau Bac+2 donné par les établissements de la  formation professionnelle (ISTA)A tout diplôme de niveau Bac+2 donné par les établissements accrédités par la formation professionnelle (accréditation exigée)A tout diplôme étranger reconnu équivalentAux personnels disposants d'une expérience profesionnelle (Les demandes pour la validations des Acquis de l'Experience seront exclusivement adressées à la CPU qui décidera de la recevabilité ou pas)",
+            "Programme": {
+                "Module 1": {
+                    "Nom": "LCI et Outils informatique et mathématique",
+                    "Eléments": {
+                        "Elément 1": "Communication professionnelle",
+                        "Elément 2": "Informatique",
+                        "Elément 3": "Statistiques appliquées"
+                    }
+                    },
+                "Module 2": {
+                    "Nom": "Electronique et Electronique de commande",
+                    "Eléments": {
+                        "Elément 1": "Electronique analogique",
+                        "Elément 2": "Electronique de puissance",
+                        "Elément 3": "Dimensionnement des installations électriques"
+                    }
+                },
+                "Module 3": {
+                    "Nom": "Technologies électrique et commande à vitesse variable",
+                    "Eléments": {
+                        "Elément 1": "Schéma électrique et normalisation",
+                        "Elément 2": "Actionneurs industriels",
+                        "Elément 3": "Commande des systèmes à vitesses variables"
+                    }
+                },
+                "Module 4": {
+                    "Nom": "Instrumentation et  régulation des systèmes automatisés",
+                    "Eléments": {
+                        "Elément 1": "capteurs industriels",
+                        "Elément 2": "automatique et régulation",
+                        "Elément 3": "Automatisme industriel"
+                    }
+                },
+                "Module 5": {
+                    "Nom": "Automates programmables et maintenance des systèmes automatisés",
+                    "Eléments": {
+                        "Elément 1": "Automates programmables",
+                        "Elément 2": "programmations des automates programmables",
+                        "Elément 3": "maintenance des systèmes automatisés"
+                    }
+                    },
+                "Module 6": {
+                    "Nom": "Gestion de la qualité et Logistique",
+                    "Eléments": {
+                        "Elément 1": "Gestion de la qualité",
+                        "Elément 2": "Logistique",
+                        "Elément 3": "Sécurité Industrielle"
+                    }
+                    },
+                "Module 7": {
+                    "Nom": "Gestion de la maintenance",
+                    "Eléments": {
+                        "Elément 1": "Gestion de la maintenance",
+                        "Elément 2": "sûreté de fonctionnement",
+                        "Elément 3": "gestion de projets"
+                    }
+                },
+                "Module 8": {
+                    "Nom": "Projet de fin d’études",
+                    "Eléments": {
+                        "Elément 1": "Projet de fin d’études"
+                    }
+                },
+                "Module 9": {
+                    "Nom": "Les Techniques de Génie civil",
+                    "Eléments": {
+                        "Elément 1": "RDM & Béton Armé",
+                        "Elément 2": "Géotechnique & Matériaux de constructions",
+                        "Elément 3": "Logiciels de génie civil"
+                    }
+                },
+                "Module 10": {
+                    "Nom": "Les Métiers de Génie Civil",
+                    "Eléments": {
+                        "Elément 1": "Conception des ouvrages & Procédés généraux de construction",
+                        "Elément 2": "Métré & Topographie",
+                        "Elément 3": "Voiries & Assainissement"
+                    }
+                    },
+                "Module 11": {
+                    "Nom": "Approche législative et commerciale en Génie Civil",
+                    "Eléments": {
+                        "Elément 1": "Législations applicables au BTP",
+                        "Elément 2": "Droit des marchés",
+                        "Elément 3": "Marketing professionnel & Technique de négociation"
+                    }
+                    },
+                "Module 12": {
+                    "Nom": "Conduite de projets en Génie Civil",
+                    "Eléments": {
+                        "Elément 1": "Management & Outils de résolution de problème",
+                        "Elément 2": "Communication et développement personnel",
+                        "Elément 3": "Gestion du Temps & Gestion de projets"
+                    }
+                },
+                "Module 13": {
+                    "Nom": "Qualité et sécurité dans le Génie Civil",
+                    "Eléments": {
+                        "Elément 1": "Management par la Qualité / Sécurité (ISO 9001, OSHAS 18001)",
+                        "Elément 2": "Gestion de processus",
+                        "Elément 3": "Structure documentaire & Audit qualité"
+                    }
+                },
+                "Module 14": {
+                    "Nom": "Projet de fin d’études",
+                    "Eléments": {
+                        "Elément 1": "Projet de fin d’études"
+                    }
+                }
+            },
+            "Coût de la formation": "25000 DH (avec facilité de paiement)",
+            "Débouchés": "   Les titulaires de ce DCA peuvent s'engager directement dans la vie professionnelle à l'issue de leur scolarité.   Ils trouveront leur place au sein des services à compétences polyvalentes : industrie chimique, électricité, énergétique, informatique, mécanique, pétrole, réseaux, Technico-commercial...   Ils peuvent aussi occuper les fonctions de :Responsable de la maintenance et travaux neufsResponsable de la gestion de productionPréparateur et responsable industrialisationRésponsable de services techniquesTechnicien qualité des réseaux électriques",
+            "email_coord": "m.boulaala@gmail.com",
+            "nom_coord": "Pr M. Boulaala",
+            "numéro": "0664 24 92 93"
+        },
+        {
+            "formation": "Ingénierie du Bâtiment",
+            "objectif": "La formation de spécialistes techniques dans le domaine des études des projets de construction de bâtiment en béton armé ou charpente métallique en partant de la conception jusqu'à l'exécution et en passant par toutes les étapes du projet à savoir depuis la phase d'avant-projet sommaire jusqu'à la phase de production des plans d'exécution des ouvrages e le suivi de la réalisation. Les domaines de compétences que les lauréats seront en mesures de suivre vont de 1'étude du simple projet d'un bâtiment jusqu'aux projets faisant appel à des conceptions structurales beaucoup plus complexe, aéroport, hôpitaux, complexe immobilier et commerciaux… etc.",
+            "Public Concerné": "Les lauréats des établissements universitaires publics ou privé au Maroc ou à l’étranger, les fonctionnaires des administrations et les employés du secteur privé, les auto entrepreneurs …etc.",
+            "Programme": {
+                "Module 1": {
+                    "Nom": "Résistance des Matériaux",
+                    "Eléments": "Pas d'éléments spécifiés"
+                    },
+                "Module 2": {
+                    "Nom": "Béton armé",
+                    "Eléments": {
+                        "Elément 1": "Béton armé aux états limites",
+                        "Elément 2": "Bâtiment à ossature en béton armé"
+                    }
+                },
+                "Module 3": {
+                    "Nom": "construction métalliques",
+                    "Eléments": {
+                        "Elément 1": "Eurocode 3",
+                        "Elément 2": "Bâtiment à ossature métallique"
+                    }
+                },
+                "Module 4": {
+                    "Nom": "Economie de la construction et planification",
+                    "Eléments": {
+                        "Elément 1": "métré et étude de prix",
+                        "Elément 2": "Programmation et planification des projets"
+                    }
+                },
+                "Module 5": {
+                    "Nom": "B.I.M par logiciel   REVIT et ROBOT",
+                    "Eléments": {
+                        "Elément 1": "logiciel REVIT",
+                        "Elément 2": "logiciel ROBOT STRUCTURAL ANALYSIS"
+                    }
+                    },
+                "Module 6": {
+                    "Nom": "Projet de fin d’étude",
+                    "Eléments": {
+                        "Elément 1": "Projet de fin d’étude"
+                    }
+                }
+            },
+            "Coût de la formation": "Coût total de la formation : 25.000 Dhs TTC (payables par tranches).",
+            "Débouchés": "A l'Issu de cette formation les lauréats peuvent s'impliquer, entre autres, dans les domaines suivants :La maîtrise d'ouvrage et l'assistance à la maîtrise d'ouvrage : il s'agit de métiers en pleine expansion, dans le secteur public et dans le secteur privé, qui nécessitent des connaissances et des savoir-faire éprouvés dans le domaine des bâtiments en béton armé ou métalliques.La conception et la maîtrise d'oeuvre, dans les bureaux d'études privés et dans le secteur public (état ou collectivités locales) disposant d’ingénierie intégrée.La construction des bâtiments à ossatures en béton armé ou métalliques qui est un métier historique du génie civil s'exerce dans le secteur public (activités en régie) et essentiellement dans les entreprises privées il fait appel à des compétences techniques basées sur la connaissance conceptuelle des ouvrages à structure en béton armé ou métallique.L'expertise qui vient en appui des métiers précédents et qui fait appel",
+            "email_coord": "mbezzazi@uae.ac.ma",
+            "nom_coord": "Pr M. Bezzazi",
+            "numéro": "0663 67 81 09"
+
+        },
+        {
+            "formation": "Ingénierie topographique et systèmes d'information géographiques appliqués",
+            "objectif": " La formation continue DCA à pour objectif essentiel de former des cadres spécialistes en Topographie et Systèmes d’information Géographiques (SIG).(3ème promo)   Cette formation vient répondre aux évolutions de l’administration publique, du monde industrielet du domaine de BTP qui connaissent une demande accrue de formation d’experts dans les différents domaines liés à la géomatique.   Les lauréats auront la capacité de lecture de document cartographiques et la mise en exergue de la correspondance entre ces documents, d’établir tous plans et documents relevant de la géodésie, de la cartographie, de la topographie, des relevés cadastraux et de GPS. Les lauréats doivent également étre capables de traiter et gérer les donnés à référence spatiale et acquérir les compétences d’analyse et de prise de décision.",
+            "Public Concerné": " La formation s'adresse à des salariés ou non, titulaires d'un niveau Bac+2 minimum.",
+            "Programme": {
+                "Module 1": {
+                    "Nom": "Droit Foncier / Technique Cadastrale",
+                    "Eléments": {
+                        "Elément 1": "Droit foncier",
+                        "Elément 2": "Technique cadastrale"
+                    }
+                    },
+                "Module 2": {
+                    "Nom": "Cartographie / DAO / Géométrie appliquée à la Topographie",
+                    "Eléments": {
+                        "Elément 1": "Géométrie algorithmique, Eléments de Cartographie et DAO, TP et Mini Projets"
+                    }
+                },
+                "Module 3": {
+                    "Nom": "Technologies de positionnement /Géodésie",
+                    "Eléments": {
+                        "Elément 1": "Géodésie / GPS / Ecole de Terrain/ TP Informatique appliquée à la géomatique"
+                    }
+                },
+                "Module 4": {
+                    "Nom": "Topographie numérique et Implantation",
+                    "Eléments": {
+                        "Elément 1": "Topographie numérique / Implantation des ouvrages et Techniques d’implantation de points / TP / Voiries et Réseaux Divers (VRD)/terrassement / Assainissement/ Application de Logiciels"
+                    }
+                },
+                "Module 5": {
+                    "Nom": "Géotechniques routières",
+                    "Eléments": {
+                        "Elément 1": "Matériaux routiers, Reconnaissance géotechnique routière Application de logiciels"
+                    }
+                    },
+                "Module 6": {
+                    "Nom": "Photogrammétrie numérique",
+                    "Eléments": {
+                        "Elément 1": "Bases de la photogrammétrie / MNT par photogrammétrie / Photogrammétrie numérique"
+                    }
+                    },
+                "Module 7": {
+                    "Nom": "SIG Appliqué",
+                    "Eléments": {
+                        "Elément 1": "Principes et développement / Exploitation des résultats / Etudes de cas : SIG appliqué à la Géomatique"
+                    }
+                },
+                "Module 8": {
+                    "Nom": "Télédétection",
+                    "Eléments": {
+                        "Elément 1": "Bases physique de la télédétection  et propriétés spectrales des surfaces naturelles / Images satellitaires, domaines d’application de la télédétection et Traitement d’Images / Mini projet et Travaux pratiques"
+                    }
+                },
+                "Module 9": {
+                    "Nom": "Stage et PFE",
+                    "Eléments": {
+                        "Elément 1": "Stage et PFE"
+                    }
+                }
+            },
+            "Coût de la formation": "25000 DH (avec facilité de paiement)",
+            "Débouchés": "Les diplomé du DCA pourront prétendre à des postes de responsables techniques dans diverses structures publiques et privées ou à une évolution et / ou réorientation de carrière   La formation permettra également aux lauréats :Une insertion rapide dans le monde du travail grace à l’acquisition de compétences en géomatique, notment en Topographie et SIGItégrer les Bureaux d’études techniques et les laboratoires de BTP",
+            "email_coord": "elarrimk@yahoo.fr",
+            "nom_coord": "Pr A. El Arrim",
+            "numéro": "0661 54 59 59"
+        },
+        {
+            "formation": "Lean Manufacturing et Amélioration Continue des Processus Industriels",
+            "objectif": "La formation du Diplôme du Cycle d’Approfondissement (DCA) « Lean Manufacturing et Amélioration Continue des Processus Industriels » est une formation universitaire de niveau Licence Professionnelle Bac+3 qui vise à former des techniciens, des cadres intermédiaires et des spécialistes de terrain capables de conduire des projets d'amélioration continue des processus et procédés industriels, de participer à l’implantation de systèmes Lean et de piloter des projets transversaux d’amélioration continue, en les dotant d’outils et de méthodes opérationnels pour traiter des problèmes qui sont de nature technique, méthodologique, organisationnelle, managériale, économique et sociale quelle que soit la branche d’activité :automobile, aéronautique, agroalimentaire, transport, textile, mécanique, pharmaceutique, services....Les compétences à acquérir donnent aux lauréats la capacité à :s’approprier les principes techniques et méthodologies de conception et d’amélioration des processus et procédés industriels selon la démarche du Lean Manufacturing ;maîtriser la pratique des outils Lean Manufacturing dans les activités d’amélioration continue de la qualité, de la production, de la logistique globale et de la maintenance;utiliser les méthodes et outils du Lean Manufacturing et d’amélioration (PDCA, Kaizen,Les MUDA, 5S, Value Stream Mapping (VSM), SMED, TPM)diagnostiquer, analyser et améliorer les flux de production et de logistique.participer et coordonner la mise en œuvre de plans de performances opérationnelles et d'amélioration continue ;",
+            "Public Concerné": "Cette formation s’adresse à des diplômés de l’enseignement supérieur public ou privé, en situation d’activité salariée ou non, qui recherchent une formation ou une double formation pour évoluer, satisfaire les besoins de l’entreprise et accéder à des postes de responsabilité ou pour trouver ou retrouver un emploi dans des postes très demandés.En effet, le dispositif mis en place s’attache, dans sa conception, à créer les conditions d’évolution et d’adaptation à de nouvelles fonctions, d’une insertion et d’une réinsertion professionnelle.Le cycle est ouvert aux étudiants ou personnes titulaires d’un DEUG, DEUST, BTS, DUT,ISTA ou tout autre diplôme Bac+2 équivalent ou encore bac+3.",
+            "Programme": {
+                "Module 1": {
+                    "Nom": " Méthodes et Outils du Lean Manufacturing",
+                    "Eléments": {
+                        "Elément 1": "Histoire et fondements du Lean management",
+                        "Elément 2": "Outils du Lean management (PDCA, Kaizen, VSM, 5S, 3M)  ",
+                        "Elément 3": "Outils du Lean manufacturing (JAT, SMED, Kanban, TPM)    "
+
+                    }
+                    },
+                "Module 2": {
+                    "Nom": "Outils Scientifiques et Techniques",
+                    "Eléments": {
+                        "Elément 1": "Statistiques",
+                        "Elément 2": "Maîtrise Statistiques des Procédés selon l'approche 6 Sigma",
+                        "Elément 3": "AMDEC Processus"
+                    }
+                },
+                "Module 3": {
+                    "Nom": "Qualité, Sécurité et Environnement",
+                    "Eléments": {
+                        "Elément 1": " Management de la qualité - Normes ISO 9001 et Outils Qualité",
+                        "Elément 2": "Sécurité et Environnement - Normes ISO 14001/ISO 45001"
+                    }
+                },
+                "Module 4": {
+                    "Nom": "Lean et Opérations en Supply Chain",
+                    "Eléments": {
+                        "Elément 1": " Les fonctions de la Supply Chain",
+                        "Elément 2": "Lean manufacturing et gestion des flux",
+                        "Elément 3": "Systèmes d'information et ERPs"
+                }
+                },
+                "Module 5": {
+                    "Nom": "Performance, Fiabilité et Maintenance des Systèmes Industriels",
+                    "Eléments": {
+                        "Elément 1": "Organisation et gestion de la maintenance",
+                        "Elément 2": "Démarche TPM",
+                        "Elément 3": "Indicateurs de performance et tableaux de bord"
+                    }
+                },
+                "Module 6": {
+                    "Nom": "Management de projet et Soft Skills",
+                    "Eléments": {
+                        "Elément 1": " Management de projet",
+                        "Elément 2": "Développement des compétences et coaching des équipes",
+                        "Elément 3": "Anglais professionnel"
+                    }
+                }
+        },
+            "Coût de la formation": "22 500 Dh (avec facilités de paiement)",
+            "Débouchés": "Les diplômés peuvent intégrer de nombreux secteurs industriels et de service.Quelques exemples de métiers :- technicien supérieur de conception et d’amélioration de processus,- technicien méthodes ;- animateur, coordinateur Lean ou amélioration continue,- technicien méthodes en amélioration continue,- assistant/responsable de production,- assistant/responsable gestion des flux logistiques- animateur, responsable qualité- technicien, responsable maintenance- responsable du service logistique industrielle- responsables services méthodes et organisation industrielle- responsable stocks et approvisionnement- responsable service ordonnancement",
+            "email_coord": "mfourka@uae.ac.ma",
+            "nom_coord": "Pr M. Fourka",
+            "numéro": "0661 07 97 25"
+        },
+        {
+            "formation": "Ingénierie et Expertise en Bathymétrie et Topographie",
+            "objectif": "Vu que la Région Tanger Tétouan Al Hoceima jouit de deux façades maritimes et la présence de plusieurs ouvrages afférents, la formation DCESS proposée, englobant un large spectre de thématiques liées à la Topographie terrestre et la topographie marine, notamment la bathymétrie, se veut un outil de convergence entre l’offre et le marché d’emploi qui sollicite actuellement des spécialistes et experts dans des filières pratiques comme la Topographie et la Bathymétrie.",
+            "Public Concerné": "La formation est ouverte à toute personne cherchant une insertion dans le marché de travail, ou bien cherchant une réinsertion ou ambitionne de se convertir dans sa vie professionnelle. Elle est dédiée aux demandeurs tel que : techniciens spécialisés en domaine maritime, aquaculture, Urbanistes, Aménageurs, Bureaux d’études (BTP, Topographie, VRD, Environnement, Architecture…), etc.",
+            "Programme": "Non spécifié",
+            "Coût de la formation": "Non spécifié",
+            "Débouchés": "Des débouchés de responsables techniques s’ouvrent devant les lauréats du DCESS en « Ingénierie et expertise en topographie marine et topographie terrestre » au sein des structures publiques et privées : Administrations publiques de l'Etat, Agences spécialisées, Organismes relevant de Ministères ayant une vocation maritime, Bureaux d'Etudes, toute activité ayant un pôle topographique et/ou Bathymétrique …",
+            "email_coord": "Saad.bakkali@gmail.com",
+            "nom_coord": "Pr. S. Bakkali",
+            "numéro": "0661 30 02 61"
+        },
+        {
+            "formation": "Ingénierie et expertise génie civil",
+            "objectif": "A la fin de la formation, le diplômé doit être capable de :Réaliser les calculs de ouvrages divers de génie civil en Béton, en charpente métallique & mixte)Réaliser les calculs de VRDRéaliser les travaux des laboratoires de génie civilCoordonner des projets de génie civilRéaliser des missions de contrôle technique ",
+            "Public Concerné": "Etre titulaires d’une licence scientifique, professionnelle (ou équivalent)ou plusEtre titulaire d’un Bac+3 des établissements relevant de l’enseignement supérieurEtre titulaire du DCA de l’Université Abdelmalek ESSAADIEtre employé ayant 5 ans d’expérience professionnelle justifiéeUne présélection sur dossier et entretient individuelQuelques chiffres de la formation Ingénierie et Expertise Génie Civil % Ingénieurs% Cadres moyens% Étudiants1ère Promotion10%65%25%2ème Promotion20%62%28%3ème Promotion12%60%28%4ème Promotion40%50%10%5ème Promotion5%80%15%",
+            "Programme": {
+                "Module 1": {
+                    "Nom": "  Résistance des Matériaux (RDM)",
+                    "Eléments": {
+                        "Elément 1": " Résistance des Matériaux (RDM)"
+                    }
+                    },
+                "Module 2": {
+                    "Nom": " Béton armé & Logiciels de conception",
+                    "Eléments": {
+                        "Elément 1": " Béton armé & Logiciels de conception"
+                    }
+                },
+                "Module 3": {
+                    "Nom": "Matériaux de construction",
+                    "Eléments": {
+                        "Elément 1": "Matériaux de construction"
+                    }
+                },
+                "Module 4": {
+                    "Nom": "Géotechnique",
+                    "Eléments": {
+                        "Elément 1": "Géotechnique"
+                }
+                },
+                "Module 5": {
+                    "Nom": "Bureau d’Etudes Techniques : Conception des Plans des ouvrages de Génie Civil Béton armé - Béton Précontraint - Parasismique",
+                    "Eléments": {
+                        "Elément 1": "Bureau d’Etudes Techniques : Conception des Plans des ouvrages de Génie Civil Béton armé - Béton Précontraint - Parasismique"
+                    }
+                },
+                "Module 6": {
+                    "Nom": "Bureau d’Etudes Techniques : Construction métallique &   construction mixte",
+                    "Eléments": {
+                        "Elément 1": "Bureau d’Etudes Techniques : Construction métallique &   construction mixte"
+                    }
+                },
+                "Module 7": {
+                    "Nom": " Bureau d’Etudes Techniques : Routes et Assainissement",
+                    "Eléments": {
+                        "Elément 1": " Bureau d’Etudes Techniques : Routes et Assainissement"
+                    }
+                },
+                "Module 8": {
+                    "Nom": "Bureau d’Etudes Techniques : Topographie, métré",
+                    "Eléments": {
+                        "Elément 1": "Bureau d’Etudes Techniques : Topographie, métré"
+                    }
+                },
+                "Module 9": {
+                    "Nom": "Expertise & Pathologie des ouvrages de génie civil",
+                    "Eléments": {
+                        "Elément 1": "Expertise & Pathologie des ouvrages de génie civil"
+                    }
+                },
+                "Module 10": {
+                    "Nom": "Bureau de Contrôle Technique",
+                    "Eléments": {
+                        "Elément 1": "Bureau de Contrôle Technique"
+                    }
+                },
+                "Module 11": {
+                    "Nom": " Qualité, Sécurité & Environnement",
+                    "Eléments": {
+                        "Elément 1": " Qualité, Sécurité & Environnement"
+                    }
+                },
+                "Module 12": {
+                    "Nom": "Stage de 4 mois en entreprise",
+                    "Eléments": {
+                        "Elément 1": "Stage de 4 mois en entreprise"
+                    }
+                }
+        },
+            "Coût de la formation": "Coût total de la formation : 35.000 Dhs Possibilité de paiement en trois tranches encaissables chaque 6 mois.",
+            "Débouchés": "La formation proposée (DCESS spécialité Ingénierie & Expertise Génie Civil) permettra aux futures lauréats d'acquérir une formation généraliste du génie civil (bâtiment, VRD, géotechnique, matériaux de construction, calcul de structures, etc.).Les diplômés pourront être, des responsables de projets, des concepteurs de projets, des coordonnateurs, des responsables qualité, des auditeurs, des contrôleurs de travaux et experts, dans différents secteurs d’activités de génie civil : Bâtiment, VRD, Ouvrages d’arts, laboratoires de génie civil, Gestion & Management de projets, Qualité dans le BTP et services,.....Quelques chiffres de la formation Ingénierie et Expertise Génie Civil Taux d’insertion Professionnelle1ère Promotion100%2ème Promotion100%3ème PromotionNon encore établi à ce jour4ème PromotionNon encore établi à ce jour5ème PromotionNon encore établi à ce jour",
+            "email_coord": "mzaher@uae.ac.ma",
+            "nom_coord": "Pr. M. Zaher",
+            "numéro": "0661 55 50 37"
+        },
+        {
+            "formation": "INGENIERIE ET MANAGEMENT DES SYSTEMES INDUSTRIELS",
+            "objectif": "Le cycle des Etudes Supérieures Spécialisées en Ingénierie et Management des Systèmes Industriels, qui est un Bac+5, vient pour répondre aux évolutions de l’industrie régionale et nationale. En effet, un contexte industriel en pleine mutation, un besoin en cadres de grandes compétences de la conception jusqu’au contrôle métrologique en passant par la fabrication et le management d’équipes, justifie cette formation de haut niveau. Les objectifs de ce cycle sont :être capable de faire une conception mécanique pour répondre à un cahier de charges en passant par les notices de calculs ;Maitriser les différents procédés de fabrication mécanique ;être capable de rédiger une gamme de fabrication pour un produit mécanique de l’industrie Automobile, Aéronautique et autres ;être capable de faire le contrôle de qualité des produits mécaniques ; disposer de solides compétences dans les domaines des sciences et des technologies ;disposer d'un potentiel de créativité et d'innovation ;avoir des aptitudes à conduire, à maîtriser, à organiser et à faire évoluer des procédés et des processus industriels ;être capable de conduire, de diriger et de réaliser des projets industriels ;Etre préparé à une insertion et à une évolution professionnelle dans le domaine de conception, fabrication, contrôle métrologique et management des équipes dans le secteur de l’industrie automobile et aéronautique.",
+            "Public Concerné": "Cette formation s’adresse aux diplômés en situation d’activité, salariés ou non, le dispositif mis en place s’attache, dans sa conception, à créer les conditions d’une insertion, d’une réinsertion professionnelle ou d’une adaptation à de nouvelles fonctions, notamment dans le secteur de l’Industrie automobile et aéronautique ; et celui de l’Industrie mécanique générale, Design et conception de nouveaux produits mais aussi le Management en entreprise.Les candidats devront avoir acquis le niveau d’ingénieur, d’une maitrise, d’une licence, d’un DCA ou tout autre diplôme reconnu équivalent à Bac+3 mini. ",
+            "Programme": {
+                "Module 1": {
+                    "Nom": "Mise à niveau",
+                    "Eléments": {
+                        "Elément 1": "Harmonisation",
+                        "Elément 2": "Analyse des systèmes mécaniques",
+                        "Elément 3": "Caractéristiques mécaniques des matériaux"
+
+                    }
+                    },
+                "Module 2": {
+                    "Nom": "Conception et Fabrication Mécanique",
+                    "Eléments": {
+                        "Elément 1": "Conception de Produits Elément ",
+                        "Elément 2": "Procédés de fabrication",
+                        "Elément 3": " Choix des matériaux"
+                    }
+                },
+                "Module 3": {
+                    "Nom": "Dimensionnement et vérification (CATIA et RDM6)",
+                    "Eléments": {
+                        "Elément 1": "Résistance des Matériaux",
+                        "Elément 2": " Calcul de structures"
+                    }
+                },
+                "Module 4": {
+                    "Nom": "Ingénierie de la production et de la qualité",
+                    "Eléments": {
+                        "Elément 1": "Gestion de la production Elément",
+                        "Elément 2": " Ingénierie de la qualité",
+                        "Elément 3": " Amélioration continue"
+                    }
+                },
+                "Module 5": {
+                    "Nom": "Gestion de projet et maintenance industrielle",
+                    "Eléments": {
+                        "Elément 1": "Communication, Informatique et Internet Elément",
+                        "Elément 2": "Gestion de Projets Elément",
+                        "Elément 3": "Gestion de la Maintenance"
+                    }
+                    },
+                "Module 6": {
+                    "Nom": "CATIA V5 : CAO et DAO",
+                    "Eléments": {
+                        "Elément 1": "Volumique, Assemblage et Mise au plan",
+                        "Elément 2": "Surfacique",
+                        "Elément 3": "Simulation de Fonctionnement"                    
+                    }
+                    },
+                "Module 7": {
+                    "Nom": "Métrologie dimensionnelle et géométrique",
+                    "Eléments": {
+                        "Elément 1": "Métrologie",
+                        "Elément 2": "Ecriture / lecture selon la norme GPS"               
+                    }
+                },
+                "Module 8": {
+                    "Nom": "Méthodes de fabrication et actionneurs",
+                    "Eléments": {
+                        "Elément 1": "Technologie Pneumatique et Hydraulique",
+                        "Elément 2": "Gammes de Fabrication"                    
+                    }
+                },
+                "Module 9": {
+                    "Nom": "CATIA V5 : F.A.O et Commande Numérique",
+                    "Eléments": {
+                        "Elément 1": " Programmation en Commande numérique",
+                        "Elément 2": "Fabrication Assistée par Ordinateur FAOCATIA V5"                    
+                    }
+                },
+                "Module 10": {
+                    "Nom": "Stage et PFE",
+                    "Eléments": {
+                        "Elément 1": "Stage et PFE"
+                    }
+                }
+            },
+            "Coût de la formation": "35 000,00 DH : Pour les titulaires d’une Licence, en trois tranches : 15.000,00 ; 10.000,00 et 10.000,00 dh.\r20.000,00 DH : Pour les titulaires d’un DCA de l’Université, en deux Tranches de 10.000,00 dh.",
+            "Débouchés": "Les diplômés du DCESS en Ingénierie et Management des Systèmes Industriels pourront prétendre à des postes de responsable industriel dans les PME/PMI :          Responsable Bureau d’Études;         Responsable Bureau de Méthodes;         Responsable Outillage,Production;         Manager,Chef deprojet,...etc. ",
+            "email_coord": "Akourri.omar@gmail.com",
+            "nom_coord": "Pr O. Akourri",
+            "numéro": "0664 91 37 91"
+        },
+        {
+            "formation": "Ingénierie et Management Industriel",
+            "objectif": "La formation DCESS «  Ingénierie et Management  Industriel » vise à former des cadres  capables d’accompagner les collaborateurs vers les objectifs d’envergures en mettant en œuvre des qualités de relations humaines, de gestion d’équipe et de gestion de projet ;La grande variété des cours dispensés et leurs qualités permettent aux titulaires de ce diplôme d’occuper, de réussir et d’avoir les compétences pour :-  Développer des compétences techniques pluridisciplinaires permettant aux lauréats d’intégrer les entreprises de production et de service ;-  Modéliser et concevoir une chaîne de production.-  Automatiser un processus de production.-   Maîtriser les techniques de conception et de gestion des systèmes de production ;-  Acquérir des compétences scientifiques permettant aux lauréats de contribuer à l’amélioration des processus de fabrication ",
+            "Public Concerné": "La formation DCESS « ingénierie de la maintenance et management industriel » est ouvert aux étudiants ou personnes titulaires d’une licence LEF, LP, LST  ou :-  Tout diplôme de niveau bac+3 donné par les établissements privés relevant de l’enseignement supérieur ou tout diplôme étranger reconnu équivalent.-  Titulaire du DCA de l’Université Abdelmalek Essaadi.-  Les demandes pour la validation des Acquis de l’Expérience seront exclusivement adressées à la CPU qui décidera  de la recevabilité ou pas.",
+            "Programme": {
+                "Module 1": {
+                    "Nom": "Outils mathématique et informatique",
+                    "Eléments": {
+                        "Elément 1": "Communication professionnelle",
+                        "Elément 2": "Gestion de base de données et technologie Web",
+                        "Elément 3": " Statistiques appliquées"
+
+                    }
+                    },
+                "Module 2": {
+                    "Nom": "Electronique industrielle et système de commande",
+                    "Eléments": {
+                        "Elément 1": "Electronique pour systèmes embarqués",
+                        "Elément 2": "Microcontrôleurs",
+                        "Elément 3": "Machines électriques et systèmes de commande"
+                    }
+                },
+                "Module 3": {
+                    "Nom": "Technologie Electromécanique",
+                    "Eléments": {
+                        "Elément 1": "Analyse fonctionnelle des systèmes",
+                        "Elément 2": "Conception et éléments de  machines",
+                        "Elément 3": "CAO/DAO- CATIA"
+
+                    }
+                },
+                "Module 4": {
+                    "Nom": "Gestion de la maintenance",
+                    "Eléments": {
+                        "Elément 1": "management de la maintenance",
+                        "Elément 2": "Sureté de fonctionnement",
+                        "Elément 3": "Outils de gestion (GMAO, TPM…)"
+                    }
+                },
+                "Module 5": {
+                    "Nom": "Automatismes, Automatique et régulation industrielle",
+                    "Eléments": {
+                        "Elément 1": "Automatique et régulation industrielle",
+                        "Elément 2": "Automatisme",
+                        "Elément 3": "Dimensionnement des systèmes automatisés"
+                    }
+                    },
+                "Module 6": {
+                    "Nom": "Automates programmables",
+                    "Eléments": {
+                        "Elément 1": "Programmation des Automates Télémécaniques",
+                        "Elément 2": "Programmation des Automates Siemens",
+                        "Elément 3": " HMI et Supervision"                    
+                    }
+                    },
+                "Module 7": {
+                    "Nom": "Gestion de projets",
+                    "Eléments": {
+                        "Elément 1": "Gestion de projets",
+                        "Elément 2": "Comptabilité analytiques et contrôle de gestion" ,  
+                        "Elément 3": "Sécurité industrielle et habilitation"               
+            
+                    }
+                },
+                "Module 8": {
+                    "Nom": "Gestion d'entreprise et des ressources humaines",
+                    "Eléments": {
+                        "Elément 1": "Ressources humaines et gestion des entreprises",
+                        "Elément 2": "système d’information",
+                        "Elément 3": "Planification des ressources de l’entreprise (ERP)"                    
+                    }
+                },
+                "Module 9": {
+                    "Nom": "Méthodes et outils de la Qualité",
+                    "Eléments": {
+                        "Elément 1": "Outils de la qualité",
+                        "Elément 2": "Maitrise statistique des procédés (MSP)" , 
+                        "Elément 3": "Normes (ISO 9000, ISO 14000….)"                    
+                    }
+                },
+                "Module 10": {
+                    "Nom": "Management de la production et de la chaîne logistique",
+                    "Eléments": {
+                        "Elément 1": "Gestion des opérations de production",
+                        "Elément 2": "Supply chain management" , 
+                        "Elément 3": "Logistique et optimisation"
+                    }
+                },
+                "Module 11": {
+                    "Nom": "Stage et PFE",
+                    "Eléments": {
+                        "Elément 1": "Stage et PFE"
+                    }
+                }
+            },
+            "Coût de la formation": "35 000Dhs  (avec facilité de paiement)",
+            "Débouchés": "-Cadre d’entreprise dans les domaines techniques notamment le personnel des services ingénierie, production et maintenance,-      Directeurs techniques-      Chargés d’affaires-      Responsables de nouveaux projets-      Responsable qualité-      Responsable du service ingénierie-      Consultant dans les domaines QHSE",
+            "email_coord": "m.elmrabet@gmail.com",
+            "nom_coord": "Pr M. El M’rabet",
+            "numéro": "0661 77 40 83"
+        },
+        {
+            "formation": "Géomatique Appliquée au Développement Durable",
+            "objectif": "Le domaine de la géomatique devient de plus en plus important dans le monde d'aujourd'hui en raison du besoin croissant de données spatiales et d'informations géographiques. La géomatique est un domaine multidisciplinaire qui englobe divers domaines tels que, la géodésie, la topographie, la cartographie classique et la cartographie en ligne (Web Mapping), la télédétection optique et Radar, la photogrammétrie, les bases de données spatiales et les systèmes d'information géographique. À mesure que la technologie progresse, de plus en plus d'industries utilisent la géomatique pour prendre des décisions éclairées et résoudre des problèmes complexes.L’objectif principal de cette formation est de répondre à la demande de professionnels qualifiés dans ce domaine de géomatique, de combler l'écart et de fournir aux apprenants, qu'ils soient nouveaux ou expérimentés, une formation solide pour améliorer leurs compétences et leurs connaissances dans ce domaine aussi bien au niveau théorique que pratique.L'objectif principal de ce programme de formation continue est de fournir une solide formation de base dans toutes les disciplines de la géomatique aux nouveaux utilisateurs des sciences de la géomatique. D'autre part, ce programme vise également à renforcer et à mettre à jour les connaissances et les compétences des apprenants ayant préalablement reçu une formation dans ce domaine. Par conséquent, ce programme est conçu pour être adapté aux professionnels de la géomatique débutants et expérimentés.Afin d'atteindre cet objectif, non seulement les modules ont été sélectionnés avec soin, mais aussi les méthodes d'enseignement ont été bien pensées. Le choix des modules a été fait après avoir procédé à un diagnostic détaillé du marché de l'emploi et à une analyse comparative \"benchmarking\" de différents programmes proposés par des universités de très grande renommée.",
+            "Public Concerné": "Techniciens ou cadres en cours de reconversion ;Jeunes diplômés à la recherche d’un premier emploi ;Salariés dans le cadre de la formation professionnelle continue ;Etudiants en cours de formation souhaitant compléter leur formation ou leur expérience. professionnelle par la maîtrise des outils spécifiques à l’information spatiale ;Cette formation s’adresse à un public en situation d’activité salariée ou non.",
+            "Programme": "Non spécifié",
+            "Coût de la formation": "Non spécifié",
+            "Débouchés": "Mise à niveau des professionnels dans le domaine de la géomatiquePréparer des candidats pour le marché du travail ou même ouvrir leurs propres bureaux d’études ;Intégrer les organismes publics et semi-publics ;Rejoindre les sociétés de service en géomatique ;Travailler chez les géomètres topographes ;Intégrer les services de géomatique en collectivités territoriales ;Intégrer les agences urbaines.",
+            "email_coord": "h.boulaassal@uae.ac.ma",
+            "nom_coord": "Pr H. Boulaassal",
+            "numéro": "0611 36 17 27"
+        },
+        {
+            "formation": "Management de la Qualité et Excellence Opérationnelle",
+            "objectif": "« Développez vos compétences et élargissez vos horizons professionnels »Notre formation en « Management de la Qualité et Excellence Opérationnelle », répond aux besoins évolutifs du monde industriel et des services. Assurée par des professeurs universitaires et des experts industriels, elle vise à offrir une perspective globale des systèmes industriels tout en développant des compétences transversales essentielles dans les métiers de la qualité, de la logistique, de la supply chain en partant des systèmes d’information jusqu’au pilotage des systèmes industriels.",
+            "Public Concerné": "Cette formation est ouverte à tous. Que vous soyez actuellement en poste ou en recherche d'emploi, cherchant à :·s'insérer dans le monde professionnel,·se réintégrer après une pause·s'adapter à de nouvelles fonctions au sein de leur entreprise.Une détention d'un diplôme de niveau Bac+3 dans n'importe quelle discipline est préférable, bien que des dérogations puissent être envisagées.",
+            "Programme": {
+                "Module 1": {
+                    "Nom": " Management & Efficacité personnelle",
+                    "Eléments": {
+                        "Elément 1": "Management & Efficacité personnelle"
+                    }
+                    },
+                "Module 2": {
+                    "Nom": " Pilotage des Processus industriels",
+                    "Eléments": {
+                        "Elément 1": " Pilotage des Processus industriels"
+                    }
+                },
+                "Module 3": {
+                    "Nom": " Normes et référentiels QSE",
+                    "Eléments": {
+                        "Elément 1": " Normes et référentiels QSE"
+                    }
+                },
+                "Module 4": {
+                    "Nom": "Supply Chain Management",
+                    "Eléments": {
+                        "Elément 1": "Supply Chain Management"               
+                    }
+                },
+                "Module 5": {
+                    "Nom": " Pilotage de l’excellence opérationnelle",
+                    "Eléments": {
+                        "Elément 1": "Pilotage de l’excellence opérationnelle"
+                    }
+                    },
+                "Module 6": {
+                    "Nom": "Systèmes d’informations",
+                    "Eléments": {
+                        "Elément 1": "Systèmes d’informations"
+                    }
+                }
+             } ,
+            "Coût de la formation": "35.000 Dhs ",
+            "Débouchés": "En rejoignant notre programme, vous vous préparez à une variété d'opportunités professionnelles. Dans un monde industriel en constante évolution, il est essentiel d'avoir des experts capables de mener des analyses globales. En plus des postes traditionnels de responsabilité en conception, méthodes et production, de nouvelles fonctions transversales émergent. Nos diplômés en « Management de la Qualité et Excellence Opérationnelle » peuvent viser des rôles tels que :·Responsable de l'Excellence Opérationnelle,·Responsable de la Maintenance/Logistique,·Responsable de la Production,·Responsable de la Qualité,·Chef de Projets, et bien plus encore, tant dans l'industrie que dans les services.",
+            "email_coord": "mhayanimechkouri@uae.ac.ma",
+            "nom_coord": "Pr M. Hayani Mechkouri",
+            "numéro": "0539 39 39 55"
+        },
+        {
+            "formation": "Building Information Modeling (B.I.M) sous le logiciel Revit",
+            "objectif": "Revit est un logiciel Autodesck pour la conception architecturale et structurale .Il permet de créer une maquette numérique 3D d'un bâtiment puis de créer divers documents nécessaires à sa construction (plan, perspective, ...). Le logiciel permet de gérer autour de la maquette numérique 3D tous les documents entrant dans les compétences des différents acteurs de la construction tout au long du cycle de production d'un projet de construction : plans, détails, perspectives, imagerie de synthèse, métrés. Avec son concept de Virtual Building Revit innove dès sa création dans ce qu'il est convenu d'appeler les logiciels BIM ( Building Information Modeling ) .La méthodologie de la formation est basée sur la technique de l’apprentissage par l’exemple afin de permettre aux stagiaires d’acquérir rapidement les compétences de base nécessaires pour être immédiatement opérationnelle dans le domaine des projets de constructions.",
+            "Public Concerné": "Architecte, Projeteurs, Dessinateur , Métreur , Maitre d’Ouvrage , Maitre d’œuvre  les entreprises de BTP, les collectivités locales…Etc., débutants sur Revit",
+            "Programme":{
+                "Module 1": {
+                    "Nom": "Comprendre les bases fondamentales de la méthodologie BIM.",
+                    "Eléments": {
+                        "Elément 1": "Comprendre les bases fondamentales de la méthodologie BIM."
+                    }
+                    },
+                "Module 2": {
+                    "Nom": "Apprentissage de la terminologie utilisée dans BIM.",
+                    "Eléments": {
+                        "Elément 1": "Apprentissage de la terminologie utilisée dans BIM."
+                    }
+                },
+                "Module 3": {
+                    "Nom": "Comprendre le processus BIM pour le montage d’une opération de construction",
+                    "Eléments": {
+                        "Elément 1":"Comprendre le processus BIM pour le montage d’une opération de construction"
+                    }
+                },
+                "Module 4": {
+                    "Nom": "Le montage d’une maquette numérique suivant le logiciel Revit",
+                    "Eléments": {
+                        "Elément 1": "Le montage d’une maquette numérique suivant le logiciel Revit"               
+                    }
+                },
+                "Module 5": {
+                    "Nom": "Étude de cas pratique et mise en situation .",
+                    "Eléments": {
+                        "Elément 1": "Étude de cas pratique et mise en situation ."               
+                    }
+                }
+            },
+            "Coût de la formation": "Non spécifié",
+            "Débouchés": "Non spécifié",
+            "email_coord": "bezzazi@hotmail.com",
+            "nom_coord": "Pr. Mohammed BEZZAZI",
+            "numéro": "0665752480"
+        }
+    ]
+}
