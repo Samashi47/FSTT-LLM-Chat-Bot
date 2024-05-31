@@ -61,9 +61,9 @@
         top: 1em;
         left: 1em;
         z-index: 1000;
-        background-color: #3F2305; /* Background color */
+        background-color: #f9f9f9; /* Background color */
         color: white;
-        border: 2px solid #526D82; /* Border color */
+         /* Border color */
         border-radius: 50px; /* Fully rounded button */
         padding: 0.5em 1em; /* Adjusted padding for better appearance */
         cursor: pointer;
@@ -95,9 +95,10 @@
     <!-- Toggle button for when the sidebar is hidden -->
     <button class="toggle-button" on:click={toggleSidebar}>
         {#if isSidebarVisible}
-            <i class="fas fa-bars"></i> Hide
+            <img src="r1.png" alt="Hide Icon" width="30px">
         {:else}
-            <i class="fas fa-bars"></i> Show
+            <img src="r2.png" alt="Show Icon" width="30px">
         {/if}
     </button>
+    
 </div>
