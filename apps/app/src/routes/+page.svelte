@@ -1,8 +1,40 @@
 <script lang="ts">
     import Sidebar from '../components/Sidebar.svelte';
     import MainContent from '../components/MainContent.svelte';
+    import { onMount } from 'svelte';
 
     let isSidebarVisible = true;
+    let darkMode = false;
+    let isBrowser = typeof window !== 'undefined';
+
+    function timeoffDarkMode() {
+    darkMode = !darkMode;
+    if (darkMode) {
+      document.body.classList.add('dark-mode');
+    } else {
+      document.body.classList.remove('dark-mode');
+    }
+  }
+
+  if (isBrowser) {
+    onMount(() => {
+      if (darkMode) {
+        document.body.classList.add('dark-mode');
+      } else {
+        document.body.classList.remove('dark-mode');
+      }
+    });
+
+    $: {
+      if (darkMode) {
+        document.body.classList.add('dark-mode');
+      } else {
+        document.body.classList.remove('dark-mode');
+      }
+    }
+  }
+
+
 
     function toggleSidebar() {
         isSidebarVisible = !isSidebarVisible;
@@ -55,7 +87,22 @@
         height: 100vh; /* Full height */
         position: relative;
     }
-
+    .timeoff{
+        position: fixed;
+        top: 1em;
+        margin-left: 80px;
+        left: 1em;
+        z-index: 1000;
+        background-color: #f9f9f9; /* Background color */
+        color: white;
+         /* Border color */
+        border-radius: 50px; /* Fully rounded button */
+        padding: 0.5em 1em; /* Adjusted padding for better appearance */
+        cursor: pointer;
+        font-size: 1em;
+        transition: transform 0.2s ease; 
+        background-color: black;
+    }
     .toggle-button {
         position: fixed;
         top: 1em;
@@ -70,7 +117,9 @@
         font-size: 1em;
         transition: transform 0.2s ease; /* Transition the transform property on hover */
     }
-
+    .timeoff:hover{
+        transform: scale(1.1);
+    }
     .toggle-button:hover {
         transform: scale(1.1); /* Scale button on hover */
     }
@@ -81,6 +130,23 @@
         justify-content: center;
         align-items: center;
     }
+
+    :global(body) {
+    --bg-color: white;
+    --text-color: black;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    transition: background-color 0.3s, color 0.3s;
+  }
+  :global(body.dark-mode) {
+    --bg-color: #212121;
+    --text-color: rgb(0, 0, 0);
+  }
+  :global(body.dark-mode) input {
+    color: white; /* Font color for input in dark mode */
+    background-color: #555; /* Optional: adjust the input background color for better contrast */
+  }
+
 </style>
 
 <div class="container">
@@ -100,5 +166,7 @@
             <img src="r2.png" alt="Show Icon" width="30px">
         {/if}
     </button>
-    
+    <button class="timeoff" on:click={timeoffDarkMode}> {darkMode ? 'Light Mode' : 'Dark Mode'}
+    </button>
+
 </div>

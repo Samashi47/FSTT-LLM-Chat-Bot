@@ -1,6 +1,7 @@
 <script>
     export let isSidebarVisible;
     export let toggleSidebar;
+    export let darkMode = false;
 
     function reloadPage() {
         location.reload();
@@ -11,7 +12,8 @@
     .hidden { display: none; }
     .sidebar {
         width: 300px;
-        background-color: #f9f9f9;
+        background-color: var(--bg-color);
+        color: var(--text-color);       
         padding: 1em;
         position: fixed;
         top: 0;
@@ -28,6 +30,11 @@
         display: flex;
         gap: 1em;
     }
+    :global(body.dark-mode) .sidebar {
+    background-color: #2f2f2f;
+    color: #f0f0f0;
+  }
+
     button {
         display: flex;
         align-items: center;
@@ -56,38 +63,17 @@
         margin-top: 2px;
     }
     
+    
 </style>
 
 <div class="sidebar {isSidebarVisible ? '' : 'hidden'}">
     <div class="button-bar">
-        <button style="margin-left: 180px;" on:click={reloadPage}>
+        <button style="margin-left: 210px;" on:click={reloadPage}>
             <img src="e1.png" alt="New Icon" style="vertical-align: middle;" width="25px">
         </button>
     </div>
     <slot></slot>
-    <div class="bottom-buttons">
-        <!-- First button -->
-        <div>
-            <button>
-                <img src="s1.png" alt="Activity Icon" style="vertical-align: middle; margin-top:10px" width="25px">
-                <p>Activity </p>
-            </button>
-        </div>
-        <!-- Second button -->
-        <div>
-            <button>
-                <img src="s2.png" alt="Settings Icon" style="vertical-align: middle;  margin-top:10px" width="25px">
-                <p>Seetings </p>
-            </button>
-        </div>
-        <!-- Third button -->
-        <div>
-            <button>
-                <img src="s3.png" alt="Help Icon" style="vertical-align: middle;  margin-top:10px" width="25px">
-                <p>Help</p>
-            </button>
-        </div>
-    </div>
+   
     
 
 </div>

@@ -1,14 +1,17 @@
 <!-- Card.svelte -->
+
 <script>
     export let image;
     export let text;
+    export let darkMode = false;
+
 </script>
 
 <style>
     .card {
         width: 170px;
         height: 110px;
-        background-color: white;
+        background-color: var(--bg-color);
         border: 2px solid #ddd;
         border-radius: 10px;
         padding: 10px;
@@ -18,6 +21,8 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        color: var(--text-color);
+
     }
 
     .card:hover {
@@ -35,6 +40,10 @@
     img {
         max-width: 15%; /* Adjust the max-width as needed */
     }
+    :global(body.dark-mode) .card {
+    background-color: #212121;
+    color: #f0f0f0;
+  }
 </style>
 
 <div class="card">
