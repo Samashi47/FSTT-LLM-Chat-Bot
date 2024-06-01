@@ -303,7 +303,6 @@
     "instruction": "Quel est le rôle de JAYED Youssef?",
     "response": "Représentant des étudiants"
     },
-
     {
     "instruction": "Qui est le doyen de la fst Tanger ?",
     "response": "DIANI Mustapha"
@@ -317,6 +316,18 @@
     "response": "Le Doyen de l'établissement"
     },
     {
+    "instruction": "Qui est le doyen de la fst Tanger ?",
+    "response": "Mustapha DIANI"
+    },
+    {
+    "instruction": "Quel est le rôle de Mustapha DIANI?",
+    "response": "Doyen"
+    },
+    {
+    "instruction": "Qui est Mustapha DIANI?",
+    "response": "Le Doyen de l'établissement"
+    },
+    {
     "instruction": "Qui est le Vice Doyen de la Recherche et de la coopération?",
     "response": "OUARDOUZ Mustapha"
     },
@@ -326,7 +337,7 @@
     },
     {
     "instruction": "Qui est le Vice Doyen de la Formation?",
-    "response": "JBILOU Mohammed"
+    "response": "JBILOU Mohammed" 
     },
     {
     "instruction": "Quel est le rôle de JBILOU Mohammed?",
@@ -473,7 +484,7 @@
     "response": "Vice Doyen de la Recherche et de la coopération"
     },
     {
-    "instruction": "Qui est le Vice Doyen de la Formation?",
+    "instruction": "Qui est le Vice Doyen?",
     "response": "JBILOU Mohammed"
     },
     {
