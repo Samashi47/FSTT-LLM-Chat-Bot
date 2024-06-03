@@ -1,0 +1,8 @@
+FROM ./downloads/unsloth-llama-3-q4_k_m-unsloth.Q4_K_M.gguf
+
+TEMPLATE """{{ .System }}
+>>> User: {{ .Prompt }}
+>>> Assistant:
+"""
+PARAMETER stop ">>> User:"
+PARAMETER stop ">>> Assistant:"
