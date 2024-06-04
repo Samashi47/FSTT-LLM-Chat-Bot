@@ -1,0 +1,24 @@
+{
+	"background_color": "#ffffff",
+	"name": "fstt",
+	"short_name": "fstt",
+	"display": "standalone",
+	"start_url": "/",
+	"icons": [
+		{
+			"src": "/fstt/icon-128x128.png",
+			"sizes": "128x128",
+			"type": "image/png"
+		},
+		{
+			"src": "/fstt/icon-256x256.png",
+			"sizes": "256x256",
+			"type": "image/png"
+		},
+		{
+			"src": "/fstt/icon-512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
