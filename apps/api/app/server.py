@@ -1,11 +1,6 @@
 from fastapi import FastAPI
-from fastapi.responses import RedirectResponse
 from langserve import add_routes
 from app.rag_chroma.chain import chain
-import logging
-from fastapi import FastAPI, Request, status
-from fastapi.exceptions import RequestValidationError
-from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
 from app.rag_chroma.schema import Question
 
@@ -24,16 +19,11 @@ app.add_middleware(
     expose_headers=["*"],
 )
 
-""" @app.exception_handler(RequestValidationError)
-async def validation_exception_handler(request: Request, exc: RequestValidationError):
-	exc_str = f'{exc}'.replace('\n', ' ').replace('   ', ' ')
-	logging.error(f"{request}: {exc_str}")
-	content = {'status_code': 10422, 'message': exc_str, 'data': None}
-	return JSONResponse(content=content, status_code=status.HTTP_422_UNPROCESSABLE_ENTITY) """
-
 add_routes(app, 
            chain,
            input_type=Question,
+           enable_feedback_endpoint=True,
+           enable_public_trace_link_endpoint=True,
            path="/rag")
 
 if __name__ == "__main__":
