@@ -1,21 +1,14 @@
 FROM python:3.11-slim
 
-RUN pip install poetry==1.6.1
-
-RUN poetry config virtualenvs.create false
-
 WORKDIR /code
-
-COPY ./pyproject.toml ./README.md ./poetry.lock* ./
-
-COPY ./package[s] ./packages
-
-RUN poetry install  --no-interaction --no-ansi --no-root
 
 COPY ./app ./app
 
-RUN poetry install --no-interaction --no-ansi
+RUN pip install langchain fastapi langserve uvicorn langchain_community chromadb ollama
+RUN pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+RUN pip3 install transformers tqdm numpy scikit-learn scipy nltk sentencepiece
+RUN pip3 install --no-deps sentence-transformers huggingface-cli sse_starlette
+RUN pip install -U "huggingface_hub[cli]"
+RUN huggingface-cli download OrdalieTech/Solon-embeddings-large-0.1
 
-EXPOSE 8080
-
-CMD exec uvicorn app.server:app --host 0.0.0.0 --port 8080
+CMD exec uvicorn app.server:app --host 0.0.0.0 --port 8000
