@@ -1,11 +1,6 @@
 from fastapi import FastAPI
-from fastapi.responses import RedirectResponse
 from langserve import add_routes
 from app.rag_chroma.chain import chain
-import logging
-from fastapi import FastAPI, Request, status
-from fastapi.exceptions import RequestValidationError
-from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
 from app.rag_chroma.schema import Question
 
@@ -39,4 +34,4 @@ add_routes(app,
 if __name__ == "__main__":
     import uvicorn
 
-    uvicorn.run(app, host="localhost", port=8000, log_level="debug", debug=True)
+    uvicorn.run(app, host="0.0.0.0", port=8000, log_level="debug", debug=True)
