@@ -1,0 +1,30 @@
+version: '1.0.0'
+
+services:
+  
+  Chat-UI:
+    image: chat-ui
+    hostname: ChatUI
+    build:
+      context: apps\chat-ui
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    depends_on:
+      - API
+  
+  API:
+    image: api
+    hostname: API
+    build:
+      context: apps\api
+      dockerfile: Dockerfile
+    depends_on:
+      - ModelsHandler
+  
+  ModelsHandler:
+    image: models-handler
+    hostname: ModelsHandler
+    restart: always
+    build:
+      dockerfile: ModelHandler.Dockerfile
