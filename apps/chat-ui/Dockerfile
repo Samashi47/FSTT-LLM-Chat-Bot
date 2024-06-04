@@ -26,21 +26,14 @@ COPY --link --chown=1000 . .
 
 RUN npm run build
 
-# mongo image
-FROM mongo:latest as mongo
-
 # image to be used if INCLUDE_DB is false
 FROM node:20-slim as local_db_false
 
-# image to be used if INCLUDE_DB is true
-FROM node:20-slim as local_db_true
 
 RUN apt-get update
 RUN apt-get install gnupg curl -y
-# copy mongo from the other stage
-COPY --from=mongo /usr/bin/mongo* /usr/bin/
 
-ENV MONGODB_URL=mongodb://localhost:27017
+ENV MONGODB_URL=mongodb://host.docker.internal:27017
 RUN mkdir -p /data/db
 RUN chown -R 1000:1000 /data/db
 
