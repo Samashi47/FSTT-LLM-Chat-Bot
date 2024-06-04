@@ -10,9 +10,6 @@ from langchain_community.embeddings import HuggingFaceEmbeddings
 
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
-class Question(BaseModel):
-    __root__: str
-
 CHROMA_PATH = "app/rag_chroma/chroma-fstt"
 
 PROMPT_TEMPLATE = """
