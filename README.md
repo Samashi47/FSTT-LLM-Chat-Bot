@@ -2,6 +2,10 @@
 
 A chat bot for the Faculty of Sciences and Technologies of Tangier. Two models are available. The first is a fine-tuned Llama3-8B- instruct on public information from the faculty's website, and a second is for RAG implementation, which uses [Solon-embeddings-large-0.1](https://huggingface.co/OrdalieTech/Solon-embeddings-large-0.1) for embeddings and Llama3-8B for inference. The RAG is done on a large dataset of the faculty's MIPC program, which includes pdf courses, exams, exercises, and other resources.
 
+### Authors: @Samashi47, @aL0NEW0LF, @AbdelmajidBen, and @Dhafahd
+### Supervised by: Pr. Lotfi El Aachak
+### MST: Intelligence Artificielle et Sciences des Données (IASD), 2023-2024, Faculty of Sciences and Technologies of Tangier, Morocco.
+
 > [!WARNING]  
 > If you want to run the project on docker, know that the containers will take up to 50GB of disk space in total.
 
