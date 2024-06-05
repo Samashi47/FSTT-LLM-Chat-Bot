@@ -142,12 +142,12 @@ chatbot’s operation:
 
 1.  **User Interface (UI) Container:** This container serves as the entry point for user interaction. Users initiate the process by entering their query (prompt) through this interface.
 2.  **API Container:** Upon receiving the user’s prompt from the UI container, the API container initiates an API request. This request encapsulates the user’s prompt and facilitates its transmission to the subsequent stages within the architecture.
-        - **Embedding and Vector Store**
-        - **LangServe:** The LangServe component serves as the interface for the frontendutilizing the concept of chains implemented in Langchain.
+    - **Embedding and Vector Store**
+    - **LangServe:** The LangServe component serves as the interface for the frontendutilizing the concept of chains implemented in Langchain.
 3.  **Model Container:** This container houses the core computational power of the RAG system.
-        - **Ollama:** This component plays a vital role in managing and optimizing the language model (Llama3) utilized within the system.
-        - **Llama3**
-        - **fsttchatbot:** The core of the fine-tuning architecture is represented by this part, a fine-tuned Llama 3 8B instruct model on general information concerning the FSTT.
+    - **Ollama:** This component plays a vital role in managing and optimizing the language model (Llama3) utilized within the system.
+    - **Llama3**
+    - **fsttchatbot:** The core of the fine-tuning architecture is represented by this part, a fine-tuned Llama 3 8B instruct model on general information concerning the FSTT.
 
 This containerization approach ensures that the application can be run on any machine that has docker installed. Moreover, adding kubernetes can make the application scalable and fault tolerant.
 
@@ -175,7 +175,7 @@ In the final stage, both models are integrated into a single interface. This pro
 
 [6] P. QoChuk, Benjamin, “Basics of quantization in machine learning (ml) for beginners.” [Online]. Available: https://iq.opengenus.org/basics-of-quantization-in-ml/
 
-[7] M. A. Fakhre-Eddine, “al0new0lf/unsloth-llama-3-q4 k m · hugging face,” 2024. [Online]. Available: https://huggingface.co/aL0NEW0LF/unsloth-llama-3-q4 k m
+[7] M. A. Fakhre-Eddine, “al0new0lf/unsloth-llama-3-q4 k m · hugging face,” 2024. [Online]. Available: https://huggingface.co/aL0NEW0LF/unsloth-llama-3-q4_k_m
 
 [8] ——, “al0new0lf/unsloth-llama-3-lora · hugging face,” 2024. [Online]. Available: https://huggingface.co/aL0NEW0LF/unsloth-llama-3-lora
 
